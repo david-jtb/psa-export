@@ -9,7 +9,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/f28ed245-3461-4ee9-a9d7-20e5e1e09f12",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)"
+    ]
   },
   {
     "id": "3d10a0f9-8161-4856-a575-12239d613a17",
@@ -21,7 +24,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/2e513651-8d0a-4ff8-a08b-8ca94f12f41d",
     "block_id": "9cbc1325-0161-4100-b0cb-38a29473acff",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "9fe74f74-254a-4150-9bd0-f6ec9d3f9eb9",
@@ -33,7 +38,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/09739188-51d6-4f0d-a8fd-c4c6b157e867",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "ffab14f9-7aff-455a-98b8-08fa59849e04",
@@ -45,7 +50,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/69437315-cefa-4b5e-a37c-329748c996b3",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Management Team"
+    ]
   },
   {
     "id": "81fa8bda-5185-490e-80c8-eb9c9d1a9c70",
@@ -57,7 +64,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/aa9801b9-dfa1-470b-9a79-cea23fddb030",
     "block_id": null,
     "url": null,
-    "tag": "Board Director"
+    "tags": [
+      "Board Director",
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)"
+    ]
   },
   {
     "id": "9209cab8-c9df-47be-af51-3efd7fdf4c1e",
@@ -69,7 +80,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/49ee5735-1337-40ef-94ab-52522820a79c",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board",
+      "Nominations"
+    ]
   },
   {
     "id": "9486e9de-68c4-4dba-8484-10f9e229b0b1",
@@ -81,7 +95,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/49ee5735-1337-40ef-94ab-52522820a79c",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board",
+      "Nominations"
+    ]
   },
   {
     "id": "64706137-8319-40bd-bed3-60874a01493d",
@@ -93,7 +110,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/f183fbd4-b1ed-413f-bf90-6f13092c68c4",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "20c620d2-e0be-49da-8b99-0bb335ca0aea",
@@ -105,7 +124,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/55b1706c-8237-4552-afa8-e5d48c5c56f8",
     "block_id": "9cbc1325-0161-4100-b0cb-38a29473acff",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "22995a64-d481-4cf6-a02e-ca5aff45d1e8",
@@ -117,7 +138,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/f8127604-5cd0-40b4-ba60-819d54983546",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "760acc9a-cd45-47b1-be88-78eea48b94ac",
@@ -129,7 +152,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e21498ba-0bf0-41f5-9e49-50b55a64e1d1",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": [
+      "Management Team"
+    ]
   },
   {
     "id": "ed473c1c-5270-4cdc-a47b-f2bc600d0cc9",
@@ -141,7 +166,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/60177441-bd36-47ea-8d1f-028f96390ba1",
     "block_id": "33eef030-1f12-4d8f-b3a9-7d307ea90dfc",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Management Team"
+    ]
   },
   {
     "id": "dee67388-8f4d-4e65-9787-793467903950",
@@ -153,7 +181,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/7f5bdac0-2532-4222-9b6f-8355e0326726",
     "block_id": "2a576627-45b2-4fd7-97b0-908ea8748768",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "fb993a78-59e7-4fc3-aa9c-0d4c03355cb8",
@@ -165,7 +195,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/16ee508d-6939-49ed-ad38-dbd148861d27",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Leadership Team"
+    ]
   },
   {
     "id": "9ae5a1a2-b7fa-4154-ac22-1b39f4c7de74",
@@ -177,7 +210,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/36dbc8e1-a2ae-40f5-8eea-e24daa84a887",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "b0aa8e89-505f-48e1-ae0a-938ce9761a35",
@@ -189,7 +224,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/c88484d5-1f92-4445-b750-7b860674f501",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": "Board Director"
+    "tags": [
+      "Board Director",
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)"
+    ]
   },
   {
     "id": "3d091a0a-aed2-48f1-a3e0-39642ff7f876",
@@ -201,7 +240,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/f0884777-78a9-4f93-a4b7-a5624f8611e7",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Leadership Team"
+    ]
   },
   {
     "id": "fe8582ce-1122-4d0c-a40d-4fb85eff599f",
@@ -213,7 +255,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/83be6153-60a9-41c8-b428-0a8aea51857c",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": "Board Director"
+    "tags": [
+      "Board Director",
+      "Our Board",
+      "Nominations"
+    ]
   },
   {
     "id": "e9bf77d8-f193-4106-b489-5aeb3b5f5ec4",
@@ -225,7 +271,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/7f5bdac0-2532-4222-9b6f-8355e0326726",
     "block_id": "ebf576c3-3f86-4d98-8bd5-348f13bfb71f",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "24473a4d-ac32-4c82-b11f-27114b0a7fef",
@@ -237,7 +285,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/93b5a509-9a2a-4949-add5-dae9855028a7",
     "block_id": "33eef030-1f12-4d8f-b3a9-7d307ea90dfc",
     "url": null,
-    "tag": null
+    "tags": [
+      "Management Team"
+    ]
   },
   {
     "id": "c24709f3-4a82-4aa0-b787-c837e700dabd",
@@ -249,7 +299,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/3efc2285-df5c-405f-a6da-79740e23d8ff",
     "block_id": "2a576627-45b2-4fd7-97b0-908ea8748768",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "3b9169b3-276a-41b8-a83a-5b72ee39c6b6",
@@ -261,7 +313,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/bbc62b7a-d7d3-4a0d-aee0-d535582c5fbe",
     "block_id": "33eef030-1f12-4d8f-b3a9-7d307ea90dfc",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Management Team"
+    ]
   },
   {
     "id": "aa1b60db-9288-45cd-9f6b-5bdda90f1706",
@@ -273,7 +328,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/c504068f-f0d3-4154-a71b-c51a90d26fdc",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Leadership Team"
+    ]
   },
   {
     "id": "c3c7b732-698e-4a20-af24-f7d724e4cf19",
@@ -285,7 +343,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/fd1f7ac7-cf27-4553-8a05-1ae0261b4914",
     "block_id": "4667adf9-6e06-4563-b450-3201fe55f2cf",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "728efe2f-c540-41a0-b961-2754c994d31f",
@@ -297,7 +357,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e2fd6f2f-0a48-4bef-81f7-7a3964b0024e",
     "block_id": "ebf576c3-3f86-4d98-8bd5-348f13bfb71f",
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)",
+      "Nominations"
+    ]
   },
   {
     "id": "ba4c80a9-9742-4eb8-aa5e-19dd99d64d09",
@@ -309,7 +373,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/d685a974-7e99-4f39-ad98-df13b64dde13",
     "block_id": null,
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "8406f339-6144-43ba-a3c9-0cc1a1f14651",
@@ -321,7 +387,7 @@
     "imageUrl": null,
     "block_id": "50516d3c-bc82-49fb-84a2-37fcfaef0af2",
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "7158db0f-1aa9-4712-b59a-9274ab019afd",
@@ -333,7 +399,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/f28ed245-3461-4ee9-a9d7-20e5e1e09f12",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)"
+    ]
   },
   {
     "id": "0ba8e5ec-ebf0-4ed1-9d92-cf5d9715255d",
@@ -345,7 +414,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/014440cc-2cf6-48a5-8309-73fcb40ab49d",
     "block_id": "e9c76bfb-111b-4e58-9a68-6a9da218c39e",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "c4c5e2a2-c995-4c8e-9b05-696f25bc9476",
@@ -357,7 +428,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/5910cd49-ce67-4054-9e24-0c726adc9059",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "e15776b1-6a8b-444e-841f-f45e85a7d409",
@@ -369,7 +440,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/57500ab9-e08b-4c3c-8aa4-0e3266b4a7df",
     "block_id": null,
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "c16e1f4a-8356-42c2-8ab8-434dc0a1c50f",
@@ -381,7 +454,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/3190e75c-8c22-4642-8e2b-aa99d73c2b54",
     "block_id": "4667adf9-6e06-4563-b450-3201fe55f2cf",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "8ca6f687-8f0c-4774-b2f3-166bae3670ac",
@@ -393,7 +468,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/2c8e5a31-17bb-4ace-a011-41071b171675",
     "block_id": "33eef030-1f12-4d8f-b3a9-7d307ea90dfc",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Management Team"
+    ]
   },
   {
     "id": "3f88ce14-8513-4a68-ab1c-d5402e9b4533",
@@ -405,7 +483,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/a3fcfd6a-895d-4881-9890-3b0db669a898",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tag": null
+    "tags": [
+      "Leadership Team"
+    ]
   },
   {
     "id": "c594cc80-67dc-4e6b-b14f-a2521b0c524b",
@@ -417,7 +497,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/fdaa635f-ef62-44cb-b7fe-ff020a3b23ee",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "d8e74bb8-9e6c-4d46-82ee-6a34fc6ca1d7",
@@ -429,7 +509,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e4df5202-2cfc-4848-a776-e4ad4f378fa6",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "f7803d39-4049-4957-b699-7ad70a37c190",
@@ -441,7 +523,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/6d79bdc1-b6db-4c35-bc9b-8abb7f276299",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board"
+    ]
   },
   {
     "id": "e1a38a58-628f-4026-a859-9c6f16717847",
@@ -453,7 +537,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/46ccf914-0997-4c32-b272-8a9321d39866",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "441d09c6-8d52-47bf-8a65-71af6f46e4bd",
@@ -465,7 +549,10 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/ff9cf98e-b74d-40da-9c1b-c876bb30a023",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff",
+      "Leadership Team"
+    ]
   },
   {
     "id": "ecceaa25-d8cd-475d-995c-fc036d531daa",
@@ -477,7 +564,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/3190e75c-8c22-4642-8e2b-aa99d73c2b54",
     "block_id": "2a576627-45b2-4fd7-97b0-908ea8748768",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "3d939940-79dd-4306-84dd-9853bdfdfa25",
@@ -489,7 +578,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/3efc2285-df5c-405f-a6da-79740e23d8ff",
     "block_id": "4667adf9-6e06-4563-b450-3201fe55f2cf",
     "url": null,
-    "tag": null
+    "tags": [
+      "Past Board Members"
+    ]
   },
   {
     "id": "2caf7c15-a25b-49e7-b782-91fb1906f2d1",
@@ -501,7 +592,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/aa9801b9-dfa1-470b-9a79-cea23fddb030",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": "Board Director"
+    "tags": [
+      "Board Director",
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)"
+    ]
   },
   {
     "id": "10375e4d-f8a1-4cd7-81bb-637371e304b2",
@@ -513,7 +608,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e2fd6f2f-0a48-4bef-81f7-7a3964b0024e",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": null
+    "tags": [
+      "Our Board",
+      "Audit, Finance and Risk Committee (AFRC)",
+      "Nominations"
+    ]
   },
   {
     "id": "058749d6-91da-4a6b-a438-1bb24f89e95d",
@@ -525,7 +624,11 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/ca1083e2-5ef7-4e28-b16b-ce3adf4cbf8a",
     "block_id": "35e8757c-0d2d-45c8-b1e0-18a7725ec94c",
     "url": null,
-    "tag": "Board Director"
+    "tags": [
+      "Board Director",
+      "Our Board",
+      "Nominations"
+    ]
   },
   {
     "id": "fb97dae2-689f-4c82-b411-019403ed3fe4",
@@ -537,7 +640,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/10aca082-c7f9-4b0a-b9fb-767fd076eb9c",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "669f8ad6-b5b6-4ae5-91a3-110728259b75",
@@ -549,7 +652,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/100af387-9bec-4b9a-9af2-ff43ae1578c2",
     "block_id": "e9c76bfb-111b-4e58-9a68-6a9da218c39e",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "fc9aaec2-8faf-4baa-b780-6aeac2c2e2dc",
@@ -561,7 +666,7 @@
     "imageUrl": null,
     "block_id": "50516d3c-bc82-49fb-84a2-37fcfaef0af2",
     "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "2fd7957b-d1c7-4b87-952c-8d838dc777ae",
@@ -573,7 +678,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/c117d238-9583-4f76-9294-c19a03f5937b",
     "block_id": "21ec1f0b-3091-465a-ba4e-240bdc75b3e4",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "115d3bc8-1656-4811-aaa2-7dee0ea4c6be",
@@ -585,7 +692,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/34db024b-01fe-4d55-8d1a-3aff633989f1",
     "block_id": "21ec1f0b-3091-465a-ba4e-240bdc75b3e4",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "5841f95f-071d-4c0b-99d0-b7ad54b83dba",
@@ -597,31 +706,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/95eacbb8-1daa-4f30-b847-2e119d5c4ab1",
     "block_id": null,
     "url": null,
-    "tag": null
-  },
-  {
-    "id": "2fe271b7-6773-4768-a189-fc5f6b0e28ba",
-    "status": "published",
-    "sort": 59,
-    "fullName": "Gabby Ramsay",
-    "title": "South Australian Government Public Service",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/4f7b9479-456f-4e0f-8c4f-dac14a1ac8a0",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": null,
-    "tag": null
-  },
-  {
-    "id": "8413c175-95fd-469a-a72c-ff00e7eb5746",
-    "status": "published",
-    "sort": 67,
-    "fullName": "Paul Wallworth",
-    "title": "Australian Council of State Emergency Services (ACSES)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e669a789-89d8-47f4-96a7-8ed88bfa5630",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": null,
-    "tag": null
+    "tags": []
   },
   {
     "id": "cfd1b062-84e3-46e6-bcce-1eb7ac2cd29f",
@@ -633,7 +718,9 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/16df9116-ccd0-4ad9-9171-61f20745cb57",
     "block_id": "ebf576c3-3f86-4d98-8bd5-348f13bfb71f",
     "url": null,
-    "tag": "Staff"
+    "tags": [
+      "Staff"
+    ]
   },
   {
     "id": "7ab87b8c-18c5-418a-b8b8-1acfbec26315",
@@ -645,6 +732,6 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/15aebbf8-9cd1-4188-8dc0-441e01ab8de1",
     "block_id": null,
     "url": null,
-    "tag": null
+    "tags": []
   }
 ]

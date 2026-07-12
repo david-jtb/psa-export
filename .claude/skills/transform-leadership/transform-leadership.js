@@ -3,17 +3,17 @@
 /**
  * Transform Leadership
  * Flattens the raw Directus export (directus-export/data/) into
- * leadership.json, partners.json, and resources.json.
+ * people.json, partners.json, and resources.json.
  *
  * Image UUIDs are turned into full asset URLs. Records whose URL points to
  * an external (non-Directus-asset) link are split out into partners.json
- * rather than kept in leadership.json.
+ * rather than kept in people.json.
  *
  * Usage:
  *   node .claude/skills/transform-leadership/transform-leadership.js
  *
  * Output:
- *   transformed/leadership.json
+ *   transformed/people.json
  *   transformed/partners.json
  *   transformed/resources.json
  */
@@ -24,11 +24,15 @@ const path = require('path');
 // --- Config ---
 const ROOT = path.resolve(__dirname, '..', '..', '..');
 const DATA_DIR = path.join(ROOT, 'directus-export', 'data');
-const OUT_FILE = path.join(ROOT, 'transformed', 'leadership.json');
+const PEOPLE_TAGS_FILE = path.join(ROOT, 'directus-export', 'people-tags.json');
+const OUT_FILE = path.join(ROOT, 'transformed', 'people.json');
 const RESOURCES_FILE = path.join(ROOT, 'transformed', 'resources.json');
 const PARTNERS_FILE = path.join(ROOT, 'transformed', 'partners.json');
 const ASSET_BASE = 'https://psa-directus-prod.azurewebsites.net/assets/';
 const ASSET_URL_PATTERN = 'psa-directus-prod.azurewebsites.net/assets';
+const PARTNERS_TAG = 'Industry Advisory Group';
+// Named individuals routed to partners.json regardless of their URL field.
+const FORCE_PARTNER_NAMES = new Set(['Paul Wallworth', 'Gabby Ramsay']);
 
 // --- Helpers ---
 function readData(name) {
@@ -51,10 +55,41 @@ function assetUrl(uuid) {
 	return uuid ? ASSET_BASE + uuid : null;
 }
 
+// Builds a map of trimmed fullName -> Set of category titles (e.g. "Our
+// Board", "Nominations") a person is grouped under, resolved from
+// people-tags.json since raw leadership records only carry an opaque,
+// unresolved block_id for this grouping.
+function loadCategoryMap(file) {
+	const map = new Map();
+	if (!fs.existsSync(file)) {
+		console.warn(`   ⚠ missing people tags file: ${path.basename(file)}`);
+		return map;
+	}
+	const groups = JSON.parse(fs.readFileSync(file, 'utf8'));
+	for (const group of groups) {
+		for (const member of group.members || []) {
+			const key = (member.fullName || '').trim().toLowerCase();
+			if (!key) continue;
+			if (!map.has(key)) map.set(key, new Set());
+			map.get(key).add(group.title);
+		}
+	}
+	return map;
+}
+
+function computeTags(fullName, originalTag, categoryMap) {
+	const tags = new Set();
+	if (originalTag) tags.add(originalTag);
+	const categories = categoryMap.get((fullName || '').trim().toLowerCase());
+	if (categories) for (const c of categories) tags.add(c);
+	return [...tags];
+}
+
 // --- Load + index everything once ---
 console.log('\n📥 Loading export data...');
 
 const members = readData('leadership');
+const categoryMap = loadCategoryMap(PEOPLE_TAGS_FILE);
 
 // --- Transform ---
 console.log('\n🔧 Transforming leadership records...');
@@ -71,6 +106,7 @@ for (const member of members) {
 	const isAssetUrl = url && url.includes(ASSET_URL_PATTERN);
 	const isDownload = member.title === 'Download';
 	const isExternalUrl = url && !isAssetUrl;
+	const isForcedPartner = FORCE_PARTNER_NAMES.has(member.fullName);
 
 	const record = {
 		id: member.id,
@@ -82,12 +118,16 @@ for (const member of members) {
 		imageUrl: assetUrl(member.image),
 		block_id: member.block_id || null,
 		url,
-		tag: member.tag || null,
+		tags: computeTags(member.fullName, member.tag, categoryMap),
 	};
 
-	if (isAssetUrl || isDownload) {
+	if (isForcedPartner) {
+		record.tags = [PARTNERS_TAG];
+		partners.push(record);
+	} else if (isAssetUrl || isDownload) {
 		resources.push(record);
 	} else if (isExternalUrl) {
+		record.tags = [PARTNERS_TAG];
 		partners.push(record);
 	} else {
 		result.push(record);
@@ -123,15 +163,17 @@ Object.keys(statusCounts)
 	.sort((a, b) => statusCounts[b] - statusCounts[a])
 	.forEach((s) => console.log(`   ${s}: ${statusCounts[s]}`));
 
-const tags = {};
+const tagCounts = {};
 result.forEach((r) => {
-	const t = r.tag || '(none)';
-	tags[t] = (tags[t] || 0) + 1;
+	const list = r.tags.length ? r.tags : ['(none)'];
+	list.forEach((t) => {
+		tagCounts[t] = (tagCounts[t] || 0) + 1;
+	});
 });
 console.log('\nLeadership records by tag:');
-Object.keys(tags)
-	.sort((a, b) => tags[b] - tags[a])
-	.forEach((t) => console.log(`   ${t}: ${tags[t]}`));
+Object.keys(tagCounts)
+	.sort((a, b) => tagCounts[b] - tagCounts[a])
+	.forEach((t) => console.log(`   ${t}: ${tagCounts[t]}`));
 
 const withImage = result.filter((r) => r.imageUrl).length;
 const withDescription = result.filter((r) => r.description).length;
