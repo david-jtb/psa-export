@@ -96,18 +96,6 @@
     "tag": null
   },
   {
-    "id": "00671737-0a00-41b8-8b0a-ac32d03f5e8b",
-    "status": "published",
-    "sort": null,
-    "fullName": "Rebecca Fawcett",
-    "title": "Community and Public Sector Union (PSU Group)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/a1462bf8-bc43-40e2-92a5-720fc736e5f4",
-    "block_id": null,
-    "url": "https://www.cpsu.org.au/",
-    "tag": "external"
-  },
-  {
     "id": "20c620d2-e0be-49da-8b99-0bb335ca0aea",
     "status": "archived",
     "sort": null,
@@ -300,18 +288,6 @@
     "tag": null
   },
   {
-    "id": "85f798da-428e-430d-80b0-d13109202dbd",
-    "status": "published",
-    "sort": 3,
-    "fullName": "Scott Weber APM",
-    "title": "Police Federation of Australia (PFA)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/ce3b26e2-31bd-458a-8b48-08c2b7731f72",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://pfa.org.au/",
-    "tag": "external"
-  },
-  {
     "id": "728efe2f-c540-41a0-b961-2754c994d31f",
     "status": "published",
     "sort": 3,
@@ -492,18 +468,6 @@
     "tag": "Staff"
   },
   {
-    "id": "bc5b8677-a515-4d79-b5b2-f8e2209c97ef",
-    "status": "published",
-    "sort": 6,
-    "fullName": "Matthew Blackborough",
-    "title": "Defence Force Welfare Association National Incorporated (DFWA)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e4ce131a-5252-48e2-ba95-d69e3c01f155",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://dfwa.org.au/",
-    "tag": "external"
-  },
-  {
     "id": "ecceaa25-d8cd-475d-995c-fc036d531daa",
     "status": "published",
     "sort": 7,
@@ -564,18 +528,6 @@
     "tag": "Board Director"
   },
   {
-    "id": "ccbe73e5-7f7b-4a53-9292-e7dc52f9ddbb",
-    "status": "archived",
-    "sort": 11,
-    "fullName": "Emergency Tree Operations",
-    "title": "Findings Report",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/08c3cec9-f290-47a7-864e-eb4a104f1eec",
-    "block_id": "33049c9e-f4a3-47d2-a48d-51eb21611bfe",
-    "url": "/emergency-tree-operations",
-    "tag": "external"
-  },
-  {
     "id": "fb97dae2-689f-4c82-b411-019403ed3fe4",
     "status": "archived",
     "sort": 18,
@@ -612,18 +564,6 @@
     "tag": null
   },
   {
-    "id": "b6e2821c-e016-44b9-acf2-7a70bd00ce49",
-    "status": "published",
-    "sort": 29,
-    "fullName": "Jacqueline Durand",
-    "title": "Australia New Zealand Policing Advisory Agency (ANZPAA)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/d6c3dd5f-911b-4829-9056-2b5eb66aecca",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://www.anzpaa.org.au/",
-    "tag": "external"
-  },
-  {
     "id": "2fd7957b-d1c7-4b87-952c-8d838dc777ae",
     "status": "archived",
     "sort": 35,
@@ -648,30 +588,6 @@
     "tag": "Staff"
   },
   {
-    "id": "17da1824-249b-4d80-986f-e4104ddba2cf",
-    "status": "published",
-    "sort": 42,
-    "fullName": "Lynda Douglas",
-    "title": "Department of Defence",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/31f17469-1864-4a88-b26e-651e43c90277",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://www.defence.gov.au/",
-    "tag": "external"
-  },
-  {
-    "id": "6bb02c13-11a7-412b-9eac-5505f81053b5",
-    "status": "published",
-    "sort": 48,
-    "fullName": "Luke Hutchinson",
-    "title": "United Services Union (USU)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/99923106-53ad-413f-83ae-9f2e0e71b7e3",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://usu.org.au/",
-    "tag": "external"
-  },
-  {
     "id": "5841f95f-071d-4c0b-99d0-b7ad54b83dba",
     "status": "archived",
     "sort": 50,
@@ -682,30 +598,6 @@
     "block_id": null,
     "url": null,
     "tag": null
-  },
-  {
-    "id": "97085e07-28b4-4af7-8467-4ce305fa4499",
-    "status": "published",
-    "sort": 51,
-    "fullName": "Anne Kennely",
-    "title": "Community and Public Sector Union State Public Sector Federation Group (CPSU SPSF Group)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/a1462bf8-bc43-40e2-92a5-720fc736e5f4",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://cpsu-spsf.asn.au/",
-    "tag": "external"
-  },
-  {
-    "id": "700e4af1-6ef5-4e1f-be48-e078f6a29c4c",
-    "status": "published",
-    "sort": 58,
-    "fullName": "Sandra Lunardi",
-    "title": "Australasian Fire and Emergency Service Authorities Council Limited (AFAC)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/ce4ad62f-5da4-4a34-b7f0-b0edbfad66ed",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://www.afac.com.au/",
-    "tag": "external"
   },
   {
     "id": "2fe271b7-6773-4768-a189-fc5f6b0e28ba",
@@ -720,18 +612,6 @@
     "tag": null
   },
   {
-    "id": "5b4f71c8-7f3b-48a4-8296-13d716736b34",
-    "status": "published",
-    "sort": 64,
-    "fullName": "Ed Starinskas",
-    "title": "United Firefighters Union of Australia (UFUA)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/f8693720-0292-4d72-b387-9112713bc146",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://www.ufua.asn.au/",
-    "tag": "external"
-  },
-  {
     "id": "8413c175-95fd-469a-a72c-ff00e7eb5746",
     "status": "published",
     "sort": 67,
@@ -742,42 +622,6 @@
     "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
     "url": null,
     "tag": null
-  },
-  {
-    "id": "2105088a-bf2b-4946-b8d2-91c5def8f00c",
-    "status": "published",
-    "sort": 68,
-    "fullName": "Amy Crawford",
-    "title": "Australian Local Government Association (ALCA)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/0d919221-f8c6-44cc-82cd-445ea610b5b1",
-    "block_id": "de091f33-42fa-4a48-ad80-53baf4096da7",
-    "url": "https://alga.com.au/",
-    "tag": "external"
-  },
-  {
-    "id": "899559c9-b1c6-4aec-ac51-73c4965e4bd3",
-    "status": "published",
-    "sort": 69,
-    "fullName": "Scott Webber",
-    "title": "Police Federation Australia (PFA)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/aab06a6d-90e0-4fd4-b744-5e5271d456c3",
-    "block_id": null,
-    "url": "https://pfa.org.au/",
-    "tag": "external"
-  },
-  {
-    "id": "d489f70f-1b9b-405c-8ce2-318d4075983d",
-    "status": "archived",
-    "sort": 70,
-    "fullName": "United Firefighters Union",
-    "title": "United Firefighters Union (UFU)",
-    "description": null,
-    "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/e92a0165-c919-4c73-bbfc-0f2b676efa88",
-    "block_id": null,
-    "url": "https://www.ufua.asn.au/",
-    "tag": "external"
   },
   {
     "id": "cfd1b062-84e3-46e6-bcce-1eb7ac2cd29f",
