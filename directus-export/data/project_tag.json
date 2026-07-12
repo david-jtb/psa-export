@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 44,
+      "name": "Research"
+    },
+    {
+      "id": 45,
+      "name": "Implementation Project"
+    },
+    {
+      "id": 46,
+      "name": "Completed"
+    },
+    {
+      "id": 47,
+      "name": "Monitoring"
+    },
+    {
+      "id": 48,
+      "name": "Training Product Development"
+    }
+  ]
+}

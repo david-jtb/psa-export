@@ -1,0 +1,178 @@
+{
+  "data": {
+    "id": "57f9e715-8520-4d86-9ae1-531becd9c9be",
+    "menu": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "About Us",
+        "url": "#",
+        "submenu": [
+          {
+            "label": "Our Purpose",
+            "url": "/our-purpose"
+          },
+          {
+            "label": "Our Governance",
+            "url": "/our-governance",
+            "description": null,
+            "submenu": [
+              {
+                "label": "Members",
+                "url": "/members"
+              },
+              {
+                "label": "Board",
+                "url": "/board"
+              },
+              {
+                "label": "Committees",
+                "url": "/committees"
+              },
+              {
+                "label": "Subcommittees & Networks",
+                "url": "/subcommittees-and-networks"
+              }
+            ]
+          },
+          {
+            "label": "Our Team",
+            "url": "/our-team",
+            "description": null
+          },
+          {
+            "label": "Our Corporate Documents",
+            "url": "/policies"
+          },
+          {
+            "label": "Careers",
+            "url": "/careers",
+            "description": null
+          }
+        ],
+        "cardImage": null,
+        "cardTitle": null,
+        "cardDescription": null,
+        "cardUrl": null,
+        "showCard": false
+      },
+      {
+        "label": "Our Industry-Sectors",
+        "url": "/ourindustrysectors",
+        "submenu": [
+          {
+            "label": "Correctional Services",
+            "url": "correctional-services"
+          },
+          {
+            "label": "Defence",
+            "url": "defence"
+          },
+          {
+            "label": "Fire and Emergency Services",
+            "url": "fire-and-emergency-services"
+          },
+          {
+            "label": "Government - Federal, State & Territory",
+            "url": "/government",
+            "submenu": null
+          },
+          {
+            "label": "Local Government",
+            "url": "https://publicskillsaustralia.org.au/local-government",
+            "newTab": true
+          },
+          {
+            "label": "Police",
+            "url": "/police"
+          }
+        ],
+        "showCard": false
+      },
+      {
+        "label": "Our Work",
+        "url": "#",
+        "submenu": [
+          {
+            "label": "Training Strategies",
+            "url": "/strategies",
+            "newTab": false
+          },
+          {
+            "label": "Projects",
+            "url": "/projects",
+            "submenu": null
+          },
+          {
+            "label": "Workforce Insights Reports",
+            "url": "/workforce-plans"
+          },
+          {
+            "label": "Annual Plans",
+            "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+          },
+          {
+            "label": "Strategic Networks",
+            "url": "https://publicskillsaustralia.org.au/strategic-networks",
+            "description": null,
+            "submenu": null
+          }
+        ],
+        "showCard": false
+      },
+      {
+        "label": "Contact Us",
+        "url": "/contact",
+        "submenu": null
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://au.linkedin.com/company/publicskillsaustralia",
+        "showCard": false,
+        "cardImage": {
+          "key": "7df5f1d3-4c34-4f19-8b2e-80c97781d237",
+          "collection": "directus_files"
+        },
+        "cardTitle": "LinkedIn",
+        "cardDescription": "Follow us on LinkedIn",
+        "cardUrl": "https://www.linkedin.com/company/publicskillsaustralia/",
+        "submenu": null,
+        "labelImage": {
+          "key": "33caced1-e216-420c-8df0-1d65b8cccf10",
+          "collection": "directus_files"
+        },
+        "newTab": true
+      },
+      {
+        "label": "News",
+        "url": "/news"
+      },
+      {
+        "label": "Resources",
+        "url": "/resources"
+      },
+      {
+        "label": "Events",
+        "url": "/events"
+      }
+    ],
+    "footerMenu": [
+      {
+        "title": "Public Skills Australia",
+        "links": [
+          {
+            "label": "Contact us",
+            "url": "/contact"
+          },
+          {
+            "label": "Corporate Documents",
+            "url": "/policies"
+          }
+        ]
+      }
+    ],
+    "headerButtons": null
+  }
+}

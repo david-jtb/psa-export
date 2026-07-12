@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "2cace2f3-f55b-48d6-b076-1bf86114de66",
+      "source": "/update",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "id": "3fae0fd7-02a8-49a9-a607-e81850485237",
+      "source": "/test",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "id": "cdfe99d0-4a88-4186-b646-081154ec6e11",
+      "source": "/lgsa",
+      "destination": "/local-government-skills-audit-reports",
+      "permanent": true
+    }
+  ]
+}

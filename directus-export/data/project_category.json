@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "name": "Government",
+      "shortDescription": "Whether you have a team of 2 or 200, our shared team inboxes keep everyone on the same page and in the loop.",
+      "description": "Mi tincidunt elit, id quisque ligula ac diam, amet. Vel etiam suspendisse morbi eleifend faucibus eget vestibulum felis. Dictum quis montes, sit sit. Tellus aliquam enim urna, etiam. Mauris posuere vulputate arcu amet, vitae nisi, tellus tincidunt. At feugiat sapien varius id.",
+      "image": "078fca17-8547-4fa7-b322-4291366f4896",
+      "showButton": true,
+      "buttonText": "Get involved",
+      "buttonUrl": "/",
+      "content": "# Introduction\n\nMi tincidunt elit, id quisque ligula ac diam, amet. Vel etiam suspendisse morbi eleifend faucibus eget vestibulum felis. Dictum quis montes, sit sit. Tellus aliquam enim urna, etiam. Mauris posuere vulputate arcu amet, vitae nisi, tellus tincidunt. At feugiat sapien varius id.\nEget quis mi enim, leo lacinia pharetra, semper. Eget in volutpat mollis at volutpat lectus velit, sed auctor. Porttitor fames arcu quis fusce augue enim. Quis at habitant diam at. Suscipit tristique risus, at donec. In turpis vel et quam imperdiet. Ipsum molestie aliquet sodales id est ac volutpat. ",
+      "slug": "government",
+      "icon": "b80d039c-e9be-484a-9198-72ff3f64cde2",
+      "latestNews": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Police",
+      "shortDescription": "Whether you have a team of 2 or 200, our shared team inboxes keep everyone on the same page and in the loop.",
+      "description": null,
+      "image": null,
+      "showButton": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "content": null,
+      "slug": "police",
+      "icon": "e7298834-bda3-4d9a-a3dd-caebed6a9e7e",
+      "latestNews": []
+    },
+    {
+      "id": 5,
+      "name": "Fire and Emergency Services",
+      "shortDescription": "Fire and Emergency Services",
+      "description": null,
+      "image": null,
+      "showButton": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "content": null,
+      "slug": "fire-and-emergency-services",
+      "icon": "9c152ac8-38ce-4043-ac29-eb4a8205f773",
+      "latestNews": []
+    },
+    {
+      "id": 6,
+      "name": "Defence",
+      "shortDescription": "This project aims to review and enhance Defence Public Affairs qualifications to equip personnel with the skills necessary for effective engagement with the media, stakeholders and the public.",
+      "description": "This project aims to review and enhance Defence Public Affairs qualifications to equip personnel with the skills necessary for effective engagement with the media, stakeholders and the public.",
+      "image": "fa7873a2-dbbf-41a8-9266-917a010c704b",
+      "showButton": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "content": null,
+      "slug": "defence-public-affairs-qualifications",
+      "icon": "dea99f32-55a7-41a1-9664-2d78792072e6",
+      "latestNews": []
+    },
+    {
+      "id": 9,
+      "name": "Correctional Services",
+      "shortDescription": null,
+      "description": null,
+      "image": null,
+      "showButton": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "content": null,
+      "slug": "corrections",
+      "icon": "061e5cad-96e2-4252-9db6-07867e3b94ed",
+      "latestNews": []
+    },
+    {
+      "id": 10,
+      "name": "Community",
+      "shortDescription": null,
+      "description": null,
+      "image": null,
+      "showButton": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "content": null,
+      "slug": "community",
+      "icon": "401d2032-ee68-4da1-af94-1fa03e2213bd",
+      "latestNews": []
+    },
+    {
+      "id": 11,
+      "name": "Local Government",
+      "shortDescription": "Projects to uplift the training and workforce capability of local government.",
+      "description": "Local Government",
+      "image": null,
+      "showButton": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "content": null,
+      "slug": "local-government",
+      "icon": "8b327606-9adc-48c9-b29b-0abef7f96139",
+      "latestNews": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "0fe4c460-34e7-4d53-9ec0-c4b07462b9b6",
+      "name": "Workforce Planning",
+      "value": "Workforce Planning",
+      "contact": "admin@publicskillsaustralia.org.au"
+    },
+    {
+      "id": "601804ee-39d6-4746-848e-d637bf564be6",
+      "name": "Other",
+      "value": "other",
+      "contact": "admin@publicskillsaustralia.org.au"
+    },
+    {
+      "id": "758a78f7-2870-4ec8-8383-0f97a9e5d742",
+      "name": "Training Product Development",
+      "value": "training-product-development",
+      "contact": "admin@publicskillsaustralia.org.au"
+    },
+    {
+      "id": "940b750d-170e-460e-a389-fd99f4c4135a",
+      "name": "Implementation, Training and Promotion",
+      "value": "implementation-training-and-promotion",
+      "contact": "admin@publicskillsaustralia.org.au"
+    },
+    {
+      "id": "d2266854-9421-405a-bf41-eb90a0db6610",
+      "name": "Project query",
+      "value": "project-query",
+      "contact": "admin@publicskillsaustralia.org.au"
+    },
+    {
+      "id": "f52ce742-0d3b-4222-ae11-b26031006c70",
+      "name": "Industry Stewardship",
+      "value": "industry-stewardship",
+      "contact": "admin@publicskillsaustralia.org.au"
+    }
+  ]
+}

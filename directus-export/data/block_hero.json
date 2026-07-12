@@ -1,0 +1,376 @@
+{
+  "data": [
+    {
+      "id": "00c5d514-1a06-4f0d-a7d8-5fcee6c1b8ee",
+      "badge": null,
+      "title": "Register Your Interest",
+      "description": "Be the first to receive our annual public safety and government workforce plans. \nRegister now and receive our annual national workforce plans for the corrections, defence, fire and emergency services, local government, state and federal government, and police industry-sectors at launch. The button below will open a new page on Microsoft Forms where you can register your interest now and be the first to receive our national workforce plans for your sector or you can open this link if no button appears: https://forms.office.com/r/txLkxidY1L",
+      "buttonText": "Register Now with Microsoft Forms",
+      "buttonURL": "https://forms.office.com/r/txLkxidY1L",
+      "images": [
+        51
+      ]
+    },
+    {
+      "id": "02c042fb-faea-48dd-941a-7364991c8220",
+      "badge": null,
+      "title": "Public Skills Australia Workforce Insights Reports",
+      "description": "Our Workforce Insights Reports provide a snapshot of the Public Safety and Government industry-sectors, its workforce, and identified workforce challenges.",
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        46
+      ]
+    },
+    {
+      "id": "145db263-7588-49a5-a946-5ba335ea4396",
+      "badge": null,
+      "title": "Defence Public Affairs Qualifications Review",
+      "description": null,
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        35
+      ]
+    },
+    {
+      "id": "20c51488-d663-45da-bb6f-fd366587c987",
+      "badge": null,
+      "title": "Public Skills Australia 2024 Workforce Plans",
+      "description": "Our 2024 Workforce Plans provide a snapshot of the Public Safety and Government industry-sectors, its workforce, and identified workforce challenges. ",
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        40
+      ]
+    },
+    {
+      "id": "24040d28-97b9-4484-b46d-7dcaecb607b5",
+      "badge": null,
+      "title": "Our Members",
+      "description": null,
+      "buttonText": null,
+      "buttonURL": null,
+      "images": [
+        19
+      ]
+    },
+    {
+      "id": "290bf115-ae49-4cfe-a8b2-5281bb6d0c4b",
+      "badge": null,
+      "title": "Workforce Planning",
+      "description": null,
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        38
+      ]
+    },
+    {
+      "id": "2b15fb24-8463-4d13-9121-4c012614b41b",
+      "badge": null,
+      "title": "Emergency Tree Operations",
+      "description": null,
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        34
+      ]
+    },
+    {
+      "id": "2c038eaf-9129-4371-b0a9-189abe74f437",
+      "badge": null,
+      "title": "Fire and Emergency Services",
+      "description": null,
+      "buttonText": null,
+      "buttonURL": null,
+      "images": []
+    },
+    {
+      "id": "2efd379c-bc48-4680-ad4e-972617956ce6",
+      "badge": null,
+      "title": "Government",
+      "description": null,
+      "buttonText": "Download Current Workforce Insights Report",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/fc3d5c1a-e34b-4b5d-80c3-9439f94d219f",
+      "images": [
+        29
+      ]
+    },
+    {
+      "id": "333a888b-3061-428a-b0a2-5a79df274204",
+      "badge": null,
+      "title": "Local Government Skills Audit and Review of the Uptake and Utility of the LGA Local Government Training Package National Report 2025-2026",
+      "description": "Explore the Local Government Skills Audit and Review of the Uptake and Utility of the LGA Local Government Training Package reports below. \n\nTo learn more about the project, visit the project page.",
+      "buttonText": "Learn about the project",
+      "buttonURL": "/projects/local-government-skills-audit",
+      "images": [
+        67
+      ]
+    },
+    {
+      "id": "54ec2484-7a40-4685-a10c-529c9d22b9e8",
+      "badge": "Welcome",
+      "title": "Public Skills Australia",
+      "description": "The Australian Government has recently appointed, as one of 10 Jobs and Skills Councils (JSCs), the Public Safety Industry Committee to establish a new entity to provide services that support skilled and robust public safety and government workforces.",
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        31,
+        32,
+        39,
+        47,
+        49
+      ]
+    },
+    {
+      "id": "581e19cb-199f-4e56-8350-41311f8dd8eb",
+      "badge": null,
+      "title": "Workforce Plan 2024 - Government",
+      "description": null,
+      "buttonText": "Download",
+      "buttonURL": "/",
+      "images": [
+        44
+      ]
+    },
+    {
+      "id": "5ad8e73f-5018-4548-ad95-ccdc7824b2c0",
+      "badge": null,
+      "title": "Firefighting Appliance Pump Technician",
+      "description": null,
+      "buttonText": "Contact Us",
+      "buttonURL": "https://psa-website-prod.azurewebsites.net/contact",
+      "images": [
+        33
+      ]
+    },
+    {
+      "id": "79817eb7-4d39-4d22-9c54-685bc6a2ad46",
+      "badge": null,
+      "title": "Join Our Strategic Networks",
+      "description": "Being part of a network provides opportunity for members to collaborate with peers across sectors and regions and to have a direct say on the development of training products and national workforce planning priorities.",
+      "buttonText": " Membership Overview",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/c09dc2d2-61d2-4221-b111-3b0f1646d6f9.pdf",
+      "images": [
+        63
+      ]
+    },
+    {
+      "id": "7c0ba707-c704-4660-8c20-32765528ffb5",
+      "badge": null,
+      "title": "Annual Project Plans",
+      "description": "Public Skills Australia is developing training products related to skills and capability priorities defined in the Workforce Plan, with support from key stakeholders from the Government and Public Safety industry-Sectors.",
+      "buttonText": "Click Here",
+      "buttonURL": "https://google.com",
+      "images": [
+        50
+      ]
+    },
+    {
+      "id": "7ca52442-2e5a-4715-a9e7-57808d0256ae",
+      "badge": null,
+      "title": "Public Skills Australia Strategies",
+      "description": null,
+      "buttonText": "Organisational Strategy",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/6fb92ace-cdd1-46b9-a8a4-a55a4c748ed2",
+      "images": [
+        52
+      ]
+    },
+    {
+      "id": "7e8e09c1-db13-4e26-b9e7-d6cb2cab867f",
+      "badge": null,
+      "title": "Workforce Plan 2024 - Police",
+      "description": null,
+      "buttonText": "Download",
+      "buttonURL": "/",
+      "images": [
+        45
+      ]
+    },
+    {
+      "id": "96a5c7dc-de6d-47af-9aca-e1ea836c0265",
+      "badge": null,
+      "title": "Workforce Plan 2024 - Defence",
+      "description": null,
+      "buttonText": "Download",
+      "buttonURL": "/",
+      "images": [
+        42
+      ]
+    },
+    {
+      "id": "99e63e65-72a8-4995-836a-1798658c0453",
+      "badge": null,
+      "title": "Training Package Prioritisation Strategy",
+      "description": "The Training Package Prioritisation Strategy establishes a defined and transparent decision-making approach for initiating, prioritising, and managing updates to Training Packages. It outlines a mechanism to review Training Package products within an estimated five-year timeframe, maintaining their currency and relevance while responding to evolving industry needs in a timely and informed manner.",
+      "buttonText": "Download",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/e6d6f017-4843-4c61-a8f8-919acb4f8b94",
+      "images": [
+        53
+      ]
+    },
+    {
+      "id": "9d734e08-dbbf-4d60-b3d2-5ea8a48dd247",
+      "badge": null,
+      "title": "Correctional Services",
+      "description": "Correctional Services are an essential part of the criminal justice system. This workforce keeps the community safe and assists persons in custody to reintegrate into society. ",
+      "buttonText": null,
+      "buttonURL": null,
+      "images": [
+        2
+      ]
+    },
+    {
+      "id": "a06c8491-cca5-4376-8677-e26f91109edf",
+      "badge": null,
+      "title": "Our Governance",
+      "description": "Understand how we consult with our industry-sectors",
+      "buttonText": null,
+      "buttonURL": null,
+      "images": [
+        14
+      ]
+    },
+    {
+      "id": "b13927f2-2841-4b23-a157-18c618852e95",
+      "badge": null,
+      "title": "Fire and Emergency Services",
+      "description": null,
+      "buttonText": null,
+      "buttonURL": null,
+      "images": [
+        9
+      ]
+    },
+    {
+      "id": "b32354bc-3e50-4c73-a000-b04f02bf7ad8",
+      "badge": null,
+      "title": "Local Government",
+      "description": null,
+      "buttonText": "Download Current Workforce Insights Report",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/27231b35-4c58-42d7-87ce-5b9cc24d0408",
+      "images": [
+        54
+      ]
+    },
+    {
+      "id": "bb872a2f-19eb-4461-a775-8f81b14fdbbd",
+      "badge": null,
+      "title": "Police",
+      "description": null,
+      "buttonText": "Download Current Workforce Insights Report",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43",
+      "images": [
+        23
+      ]
+    },
+    {
+      "id": "bc53889f-9fd5-4f12-9596-aeb2de53485a",
+      "badge": null,
+      "title": "Correctional Services",
+      "description": null,
+      "buttonText": "Download Current Workforce Insights Report",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/52d72bd2-e69c-415d-9890-493543b2ea1a",
+      "images": [
+        5
+      ]
+    },
+    {
+      "id": "be5feaad-00ea-452f-9dd4-0bc6fb3655c6",
+      "badge": "Policies",
+      "title": "Policies",
+      "description": null,
+      "buttonText": null,
+      "buttonURL": null,
+      "images": [
+        11
+      ]
+    },
+    {
+      "id": "d17396ff-0077-467a-b9e9-fe2e31baacb2",
+      "badge": null,
+      "title": null,
+      "description": null,
+      "buttonText": null,
+      "buttonURL": null,
+      "images": []
+    },
+    {
+      "id": "d1842d84-dcb5-41e2-8271-13ba9e63ce8c",
+      "badge": null,
+      "title": "Workforce Plan 2024 - Correctional Services",
+      "description": null,
+      "buttonText": "Download",
+      "buttonURL": "/",
+      "images": [
+        41
+      ]
+    },
+    {
+      "id": "d5bddd2f-89d1-432f-833b-bf87270ebc20",
+      "badge": null,
+      "title": "Fire and Emergency Services",
+      "description": null,
+      "buttonText": "Download Current Workforce Insights Report",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43",
+      "images": [
+        21
+      ]
+    },
+    {
+      "id": "de347c09-ce22-4d2c-8f73-954ba03542e0",
+      "badge": null,
+      "title": "Defence",
+      "description": null,
+      "buttonText": "Download Current Workforce Insights Report",
+      "buttonURL": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43",
+      "images": [
+        20
+      ]
+    },
+    {
+      "id": "de912ac1-486e-4e29-9b9d-010990fad39c",
+      "badge": null,
+      "title": "Government",
+      "description": null,
+      "buttonText": null,
+      "buttonURL": null,
+      "images": []
+    },
+    {
+      "id": "e4653547-d59d-4c60-863e-5e45a69838e9",
+      "badge": null,
+      "title": "Workforce Plan 2024 - Fire & Emergency Services",
+      "description": null,
+      "buttonText": "Download",
+      "buttonURL": "/",
+      "images": [
+        43
+      ]
+    },
+    {
+      "id": "e8fc8256-007a-4c44-88a1-7bff2eead40b",
+      "badge": null,
+      "title": "Local Government SA",
+      "description": null,
+      "buttonText": "Local Goverment Skills Audit",
+      "buttonURL": "/projects/local-government-skills-audit",
+      "images": [
+        65
+      ]
+    },
+    {
+      "id": "ed39b16a-69bd-4d36-a536-1c2d465d68f6",
+      "badge": null,
+      "title": "Projects",
+      "description": "Public Skills Australia is developing training products related to skills and capability priorities defined in the Workforce Plan, with support from key stakeholders from the Government and Public Safety industry-Sectors. \n\nThe Annual Training Product Development Plan details approved project activities for 2025 and 2026. This plan outlines the development of training products and specifically addresses changes to training package products, such as updates, reviews, and creation of new products.",
+      "buttonText": "Contact Us",
+      "buttonURL": "/contact",
+      "images": [
+        37
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "project_category_id": 2,
+      "resource_id": "46268dab-34e9-4571-8419-7b6810a3bd0b"
+    },
+    {
+      "id": 2,
+      "project_category_id": 2,
+      "resource_id": "54f8f123-0008-4963-801d-ef5b95572d63"
+    },
+    {
+      "id": 3,
+      "project_category_id": 2,
+      "resource_id": "69c1ddd6-b09b-4559-93ef-db9fe0b441a3"
+    }
+  ]
+}

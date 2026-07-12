@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "id": "0d1dc5f1-1917-4aba-b2b2-e65fa432e9c5",
+      "subtitle": "Features",
+      "title": "Our latest News",
+      "description": null,
+      "buttonText": "View all events and announcements",
+      "buttonUrl": "/news-and-resources",
+      "showButton": true,
+      "list": []
+    },
+    {
+      "id": "155ff080-255e-4e02-899f-e8fe5b233770",
+      "subtitle": null,
+      "title": "Relevant News",
+      "description": null,
+      "buttonText": "View all news and resources",
+      "buttonUrl": "news-and-resources",
+      "showButton": true,
+      "list": [
+        "94fdc190-eff8-4454-b041-846575aab92e"
+      ]
+    },
+    {
+      "id": "2cbbddeb-44a2-444a-ae98-295ccce74ef6",
+      "subtitle": "Subtitle",
+      "title": "Announcements Block",
+      "description": "Description",
+      "buttonText": "View all events and announcements",
+      "buttonUrl": "/url",
+      "showButton": true,
+      "list": [
+        "1d4eedf2-e97a-48f9-8857-436d296e9c7f",
+        "711095f9-0440-474c-875b-731341243308"
+      ]
+    },
+    {
+      "id": "3b2f97e1-9cb9-432a-934d-0f42c8bb9386",
+      "subtitle": "Represent Your Industry",
+      "title": "ELECTIONS FOR PUBLIC SKILLS AUSTRALIA DIRECTORS’ POSITIONS",
+      "description": "Nominations for election to the Board of Directors of Public Safety Skills Australia Limited (the Company) at the Company’s Annual General Meeting to be held on Tuesday 18 November 2025 are open until Sunday 19 October 2025.\n\nNomination forms (that include the required consent to act as a director form) are provided by clicking on the link below or by contacting Jacqui Smith, Company Secretary at the Company on 03 9875 8200 ext 221.\n",
+      "buttonText": "View all events and announcements",
+      "buttonUrl": null,
+      "showButton": false,
+      "list": []
+    },
+    {
+      "id": "9cb14576-0c6c-4c05-b8ff-8468cd4c1cbd",
+      "subtitle": null,
+      "title": "Latest industry news",
+      "description": null,
+      "buttonText": "View all announcements",
+      "buttonUrl": "/",
+      "showButton": true,
+      "list": []
+    },
+    {
+      "id": "9fd4ea09-b600-4d43-91e3-1d0fc5366793",
+      "subtitle": null,
+      "title": "Relevant News",
+      "description": null,
+      "buttonText": "View all news and resources",
+      "buttonUrl": "newsandresources",
+      "showButton": true,
+      "list": [
+        "46268dab-34e9-4571-8419-7b6810a3bd0b"
+      ]
+    },
+    {
+      "id": "c33b065a-8e57-42f2-9cfb-8cfef4553b13",
+      "subtitle": null,
+      "title": "Relevant News",
+      "description": null,
+      "buttonText": "View all news and resources",
+      "buttonUrl": "news-and-resources",
+      "showButton": true,
+      "list": []
+    },
+    {
+      "id": "e5db2259-eb49-4dc0-9844-47a8c36c2fd8",
+      "subtitle": null,
+      "title": "Relevant News",
+      "description": null,
+      "buttonText": "View all news and resources",
+      "buttonUrl": "newsandresources",
+      "showButton": true,
+      "list": [
+        "69c1ddd6-b09b-4559-93ef-db9fe0b441a3"
+      ]
+    },
+    {
+      "id": "eb474be1-9eaa-4224-abb8-ed21620f0b05",
+      "subtitle": null,
+      "title": "Relevant News",
+      "description": null,
+      "buttonText": "View all news and resources",
+      "buttonUrl": "news-and-resources",
+      "showButton": true,
+      "list": [
+        "54f8f123-0008-4963-801d-ef5b95572d63"
+      ]
+    }
+  ]
+}

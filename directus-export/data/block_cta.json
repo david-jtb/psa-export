@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "id": "035d59c8-6c42-492e-b924-2341b4dd515c",
+      "title": "Police Projects",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "POL Police Training Package Release 9.0",
+          "href": "pol-police-training-package-release-90",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "16a79420-358e-43af-bda3-06e3903ad79d",
+      "title": "Have your say",
+      "description": "We welcome your insights on our training packages. Please share your feedback about training products below.",
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Provide feedback",
+          "href": "/training-product-feedback-form",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "1b12db85-fa6d-4215-b1b1-a2cbaf46b77c",
+      "title": "Defence Projects",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Defence Public Affairs Qualifications Review",
+          "href": "/defence-public-affairs-qualifications-review",
+          "primary": true
+        },
+        {
+          "label": "DEFEXO Defence Explosive Ordnance",
+          "href": "/defexo-defence-explosive-ordnance",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "28695f3b-f7c9-4038-af81-b9ddd296472a",
+      "title": "Have questions or feedback?",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Contact us",
+          "href": "contact",
+          "primary": true
+        },
+        {
+          "label": " Learn about our projects",
+          "href": "projects",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "312bef5e-0847-4a14-abfb-48e481dc51cc",
+      "title": "Have questions or feedback?",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Contact us",
+          "href": "contact",
+          "primary": true
+        },
+        {
+          "label": "Learn about our projects",
+          "href": "projects",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "36fe6679-589b-489f-92de-b34c8aa5ff7a",
+      "title": "Have questions or feedback? ",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Contact us",
+          "href": "contact",
+          "primary": true
+        },
+        {
+          "label": "Learn about our projects",
+          "href": "projects",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "4290c5c6-ad01-41d8-8cb6-86952ac66723",
+      "title": "Find out more",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Members",
+          "href": "members",
+          "primary": true
+        },
+        {
+          "label": "Committees",
+          "href": "committees",
+          "primary": true
+        },
+        {
+          "label": "Subcommittees and networks",
+          "href": "subcommittees-and-networks",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "519266c1-6193-454b-84e3-7cd4171c36f3",
+      "title": "Contact Us",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Get in contact",
+          "href": "https://psa-website-prod.azurewebsites.net/contact",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "60a4cbaf-290d-405c-b04a-7ce508a95b0f",
+      "title": "Join Our Strategic Networks",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Join Our Strategic Networks",
+          "href": "mailto:networks@publicskillsaustralia.org.au",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "67c60e4c-3755-4678-9337-a3f104339a1e",
+      "title": "Fire & Emergency Services Projects",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Firefighting Appliance Pump Technicians",
+          "href": "/firefighting-appliance-pump-technician",
+          "primary": true
+        },
+        {
+          "label": "Emergency Tree Operations",
+          "href": "/emergency-tree-operations",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "7ee6e3c3-d835-4dc0-9cc8-46878bdbfee5",
+      "title": "sdfsdfds",
+      "description": "![image](https://psa-directus-prod.azurewebsites.net/assets/159944fe-693c-4618-9c80-a17b73af580d)",
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Victoria",
+          "href": "https://www.publicskillsaustralia.org.au/reports"
+        }
+      ]
+    },
+    {
+      "id": "8265b9c9-ff7a-45b8-98d0-3203c3a6c7bd",
+      "title": "CTA ",
+      "description": "This is a CTA",
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "CTA BUTTON",
+          "href": "cttabutton-primary",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "87dee9b1-2636-4cf7-83d1-c49713a42dd6",
+      "title": "Become a Member",
+      "description": null,
+      "type": "buttons",
+      "buttons": null
+    },
+    {
+      "id": "88a427f2-1dea-4c2a-8b2f-1a6b955ae9da",
+      "title": "sfddsfd",
+      "description": "sdfdsfdsf",
+      "type": "buttons",
+      "buttons": null
+    },
+    {
+      "id": "8c359036-e8fb-45a8-b9fc-30ca6288f2d3",
+      "title": "Have questions or feedback?",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Contact us",
+          "href": "contact",
+          "primary": true
+        },
+        {
+          "label": "Learn about our projects",
+          "href": "projects",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "b5a2f3ed-17d4-4497-bd83-6a60cb912a2e",
+      "title": "Policies",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Conflict of Interest Register",
+          "href": "https://psa-directus-prod.azurewebsites.net/assets/5739376e-626c-499c-8a75-7ebc9993f046",
+          "primary": false
+        },
+        {
+          "label": "Disclosure of Board Director Remuneration – FY23/24",
+          "href": "https://psa-directus-prod.azurewebsites.net/assets/f793961a-e1a3-4d48-a53d-498d12572f13",
+          "primary": false
+        },
+        {
+          "label": "Disclosure of Board Director Remuneration – FY22/23",
+          "href": "https://psa-directus-prod.azurewebsites.net/assets/85692127-c37f-493b-a44a-0b2dcac0550f",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "bbe13c37-c828-45ae-95ef-8de003868ddd",
+      "title": "Contact Us",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Get in contact",
+          "href": "/contact",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "bded454a-da34-4c97-9343-7be6f768bd2e",
+      "title": "Annual Plans",
+      "description": "To see a summary of current projects within Public Skills Australia’s workplan, please access the plans below.\n \nThe Annual Training Product Development Plan provides a summary of projects that will see updates to Training Packages within Public Skills Australia’s remit.\n \nThe Annual Implementation, Promotion and Monitoring Plan outlines the current projects to assess emerging capability requirements of industry-sectors or to analyse how to improve the delivery of existing Training Package products.",
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Annual Training Product Development Plan",
+          "href": "https://psa-directus-prod.azurewebsites.net/assets/62d2d169-ea00-419d-b97e-86fdd6d8fc36",
+          "primary": true
+        },
+        {
+          "label": "Annual Implementation, Promotion and Monitoring Plan",
+          "href": "https://psa-directus-prod.azurewebsites.net/assets/790d2efc-08ee-4230-8e05-f5b169a75459",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "c47670df-c67c-4125-a9ac-79e50b52dad4",
+      "title": "Have questions or feedback? ",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Contact us",
+          "href": "contact",
+          "primary": true
+        },
+        {
+          "label": "Learn about our projects",
+          "href": "projects",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "c4f26e7c-7184-44ea-99c9-a322f43ad2f3",
+      "title": "Member of Public Skills Australia from this Industry-Sector",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Department of Defence",
+          "href": "https://www.defence.gov.au/"
+        },
+        {
+          "label": "Defence Force Welfare Association",
+          "href": "https://dfwa.org.au/",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "fa101498-3687-43ee-ba06-f35152f1cf03",
+      "title": "Annual Training Product Develpment Plan",
+      "description": null,
+      "type": "buttons",
+      "buttons": [
+        {
+          "label": "Download",
+          "href": "https://psa-directus-prod.azurewebsites.net/assets/3cadabe7-9158-4426-afef-05f2c3660a53"
+        }
+      ]
+    }
+  ]
+}

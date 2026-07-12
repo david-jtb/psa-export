@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": "11235849-988c-4ca1-b350-9fd05d11072e",
+      "title": "Defence Public Affairs Qualifications Review",
+      "description": null,
+      "subtitle": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "showButton": false,
+      "list": [
+        1
+      ]
+    },
+    {
+      "id": "3ee150b8-29bc-4924-8f45-563d08087ded",
+      "title": "Projects",
+      "description": "Public Skills Australia projects for our industry-sectors.",
+      "subtitle": "Delivering for Public Safety and Government",
+      "buttonText": "Explore more of our projects",
+      "buttonUrl": "https://publicskillsaustralia.org.au/projects",
+      "showButton": true,
+      "list": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "a5a10937-dae3-4f0f-8e61-6c959024d903",
+      "title": "Our Work",
+      "description": null,
+      "subtitle": "Current Projects",
+      "buttonText": null,
+      "buttonUrl": null,
+      "showButton": false,
+      "list": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "b5f094da-7aae-49c1-a18a-7aac2e63641c",
+      "title": "Projects",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.",
+      "subtitle": null,
+      "buttonText": null,
+      "buttonUrl": null,
+      "showButton": null,
+      "list": []
+    },
+    {
+      "id": "bbe8c39d-1404-4aad-8aa8-f81096bd999b",
+      "title": "Our latest projects",
+      "description": "We offer an extensive range of opportunities for industry professionals to gain insights into research findings, shape future thinking, develop skills, and attain professional development.",
+      "subtitle": null,
+      "buttonText": "View all projects",
+      "buttonUrl": "/projects",
+      "showButton": true,
+      "list": []
+    }
+  ]
+}

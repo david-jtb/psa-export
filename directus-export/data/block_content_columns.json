@@ -1,0 +1,406 @@
+{
+  "data": [
+    {
+      "id": "180d3bdb-720b-407d-985f-af828a95682d",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/bc42ba43-7cfa-457e-aa40-2a698e1e881b)"
+        },
+        {
+          "column": "#### Volunteer workforce\nBarriers impacting on youth engagement and youth retention in volunteering, and limited leadership training opportunities for volunteers that focuses on the development of relevant skills when working with unpaid volunteers in an emergency context.\n\n#### Technology\nModern urban infrastructure, coupled with new fire and emergency response technology, requires review or development of training products."
+        }
+      ],
+      "title": "Identified Challenges",
+      "description": null
+    },
+    {
+      "id": "19f27e50-9423-4bea-a7d3-442eb75d4395",
+      "columnList": [
+        {
+          "column": "![Video](https://psa-directus-prod.azurewebsites.net/assets/67b77632-c21a-4cc9-a2cd-fa98277942f2)"
+        }
+      ],
+      "title": "2024 Workforce Plans Overview",
+      "description": null
+    },
+    {
+      "id": "1e42b088-35f5-4bea-a7c4-406a5c91dfd3",
+      "columnList": [
+        {
+          "column": "Policing is covered by the POL Police Training Package. Public Skills Australia collaborates closely with the Australian New Zealand Police Advisory Agency (ANZPAA) to review and keep this training package up to date.\n\n\nAll police staff members and personnel Australia receive general training through an Academy or College. They can then undertake additional training for specialist roles as they progress their career in policing. "
+        },
+        {
+          "column": "Click [here](https://training.gov.au/Training/Details/?id=POL) to learn more about the POL Police Training Package. \n\n![](https://psa-directus-prod.azurewebsites.net/assets/a4697f18-5940-47df-bae5-900f281a8886)"
+        }
+      ],
+      "title": "Policing Training Package",
+      "description": null
+    },
+    {
+      "id": "29f89fe2-a5fd-444a-bb19-4fff01366c73",
+      "columnList": [
+        {
+          "column": "There are 1,211 Government agencies across Australia, the number of public sector agencies varies across each State and Territory in Australia. Within the Government agencies, the top employing occupation is administration, with 274,900 employed across Australia.\n\n![](https://psa-directus-prod.azurewebsites.net/assets/55e6068a-3e48-4dcf-9d23-6c1e2262b61c)"
+        },
+        {
+          "column": "Public sector work involves delivering frontline services to the community, including occupations such as education aides, early childhood educators and other allied health professionals. Many of these occupations are supported by other industry JSCs. A much smaller proportion of the State and Territory public sector play a role in working to support the delivery of these frontline services. \n\n![](https://psa-directus-prod.azurewebsites.net/assets/fd355253-51fe-4cb1-add8-cd45f96ac441.png)\n\nThese roles relate to administration, communications, project management, human resources, information technology, policy development and implementation."
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "2c72d55b-3f54-497e-b774-6a2e23d8cbfd",
+      "columnList": [
+        {
+          "column": "The Police workforce is comprised of State/Territory Police organisations, as well as the Australian Federal Police. The industry sector employs fulltime equivalent (FTE) of sworn Police Officers of approximately 59,359 across Federal, State and Territories.\n\n![](https://psa-directus-prod.azurewebsites.net/assets/269662b5-4cfc-4da9-99a0-dbaff3b42f35.png)"
+        },
+        {
+          "column": "Police organisations and unions highlighted that they are experiencing shortages of Police Officers \nacross all States/Territories. Additionally, stakeholders observed that national labour market datasets fail to capture the complexities of Police occupational shortages, overlooking factors such as government commitments, retention challenges, the impact of career progression, and the evolving demands of policing.\n\nThese shortages can be caused by regionality, competition for labour and recruitment and retention efforts, all of which are discussed in the Workforce Insights Report."
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "32b6e9a1-fac7-4da2-a918-7333a2f733e1",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/0fad702e-d6d7-4f02-9b48-d602885d6489)"
+        },
+        {
+          "column": "#### Access to Training\nLocal Government workforces in regional, rural and remote areas are often limited in where and how they can access training needs. This includes limited access to RTOs that offer the LGA Local Government Training Package, directly impacting the uptake of this Training Package\n\n#### Skills Gaps\nThe Local Government industry-sector is facing significant occupational shortages in certain occupations that require long training pathways, such as urban and regional planners, prompting growing interest in training products that require shorter timeframes for delivery for faster upskilling of priority areas. One key occupational area experiencing significant skills gaps is emergency management.\n\n#### Resourcing and Recruitment\nAccess to adequate and affordable housing and social infrastructure remain key challenges in recruiting Local Government workforces in regional, rural and remote areas. Financial constraints imposed by other tiers of government also impact on the ability of Local Governments to sustain resourcing."
+        }
+      ],
+      "title": "Identified Challenges",
+      "description": null
+    },
+    {
+      "id": "40a216cb-f68b-4506-b704-d1703cf6b3e6",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/7ce8ed09-acd7-4f99-9683-54367f454c50)"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "41636331-c7c8-4a54-8c64-fcd184f685cb",
+      "columnList": [
+        {
+          "column": "The DEF Defence Training Package holds the formal training undertaken by Defence personnel. \nIt is delivered through multiple training streams. As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package.\n\nTo meet the needs of specific organisations, single units of competency are regularly delivered to satisfy industry needs. \n\nPublic Skills Australia works closely with employees and organisations from the Defence industry-sector, and the Australian Defence College to audit and keep the DEF Defence Training Package up to date. "
+        },
+        {
+          "column": "Click [here](https://training.gov.au/training/details/DEF/summary) to learn more about the DEF Defence Training Package.\n\n"
+        }
+      ],
+      "title": "Defence Training Package",
+      "description": null
+    },
+    {
+      "id": "4f6fb283-5dee-4367-9a7f-142ce490964c",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/532bd001-156c-4a4b-a547-5fbbaf651119.png)"
+        },
+        {
+          "column": "#### Emerging Capabilities\nThe growing importance in Defence to operate within Space and cyber domains are catalysing upskilling and training requirements which may require bespoke qualifications and units of competency.\n\n#### Professionalisation and Upskilling\nReducing reliance on contractors and consultants is increasing the needs to upskill the APS workforce and strengthening career pathways into the ADF through contemporary training for ADF Cadets.\n\n#### Royal Commission into Defence and Veterans’ Suicide\nTraining pathways for transitioning Veterans, arising from the Royal Commission into Defence and Veterans’ Suicide."
+        }
+      ],
+      "title": "Identified Challenges",
+      "description": null
+    },
+    {
+      "id": "5a086d30-835b-46f6-beaa-7cd4063ccb7b",
+      "columnList": [
+        {
+          "column": "## Training Overview \n\nFire and Emergency Services is covered by the PUA Public Safety Training Package. This training package is also used by the mining, energy, oil and gas, and aviation industries. \n\nTo meet the needs of specific organisations, single units of competency are regularly delivered to satisfy industry needs.  "
+        },
+        {
+          "column": "![](https://psa-beta-website-docker.azurewebsites.net/assets/b6b72bb5-8937-449e-afa3-ea4669ede42e)"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "64da8086-7dcb-421f-b1ca-2e7320b40377",
+      "columnList": [
+        {
+          "column": "# Chair: Robert Rodgers AM\n\nANZPAA\nDepartment of Defence\nDepartment of Home Affairs – National Resilience Taskforce\nNew South Wales State Emergency Services\nSouth Australian Country Fire Service\nSurf Life Saving Australia\nUnited Firefighters Union of Australia"
+        }
+      ],
+      "title": "Workforce Planning Subcommittee",
+      "description": null
+    },
+    {
+      "id": "80369705-f4b5-4fbd-bb2a-1f5a179eb331",
+      "columnList": [
+        {
+          "column": "# Chair: Nicole Jess\n\nAustralian Capital Territory Corrective Services\nCorrective Services New South Wales\nDepartment for Correctional Services (South Australia)\nDepartment of Justice and Community Safety (Victoria)\nNorthern Territory Correctional Services\nPublic Service Association of NSW\nQueensland Corrective Services\nThe GEO Group Australia\nWA Prison Officers’ Union"
+        }
+      ],
+      "title": "Correctional Services Subcommmittee",
+      "description": null
+    },
+    {
+      "id": "857d36b8-9be3-495c-ab09-8421855438dc",
+      "columnList": [
+        {
+          "column": "## ### Chair: Graeme Murphy  \n\nAirservices Australia \nAFAC  \nANZPAA  \nDepartment of Defence  \nQueensland Fire and Emergency Services  \nTAFE Directors Australia  \nUnited Firefighters Union of Australia"
+        }
+      ],
+      "title": "Training Product Development Subcommittee",
+      "description": null
+    },
+    {
+      "id": "88c175eb-bef2-4a97-96cb-3226b8f9e434",
+      "columnList": [
+        {
+          "column": "Correctional Services is one of the three pillars of the criminal justice system that support and promote public safety in Australia. This industry-sector delivers custodial and community-based services aimed at rehabilitation and reducing reoffending to help keep communities safe.\n\nThe workforce spans a broad range of occupations, including frontline roles and supporting functions. This includes Correctional Officers (COs), who deliver custodial services in secure facilities, and Community Corrections Officers (CCOs), who supervise offenders serving non-custodial sentences or parole in the community. Community Corrections Officers typically engage in case management, risk assessment, and compliance monitoring. The broader workforce also includes public servants working inside and outside correctional environments across functions such as administration, education, policy, and intelligence\n\n"
+        },
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/334b8a1f-6efc-4f1f-a2bb-5f3684e9607e)"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "8fb5725b-5278-4dd9-93de-7c558b160992",
+      "columnList": [
+        {
+          "column": "<img src=\"https://psa-beta-website-docker.azurewebsites.net/assets/7a477fff-a1ef-4c75-bdcb-67e48f4ea2f1\" alt=\"Implementation, Promotion and Monitoring\" style=\"width: 80px;     height: 80px;\n    object-fit: contain;\" />\n###Implementation, Promotion and Monitoring\nImplementation, Promotion and Monitoring supports the delivery and effectiveness of training packages, and supports learners and Registered Training Organisations."
+        },
+        {
+          "column": " <img src=\"https://psa-beta-website-docker.azurewebsites.net/assets/23cb6d77-fa0f-4c81-87c7-29267f52411a\" alt=\"Industry Stewardship\" style=\"width: 80px;     height: 80px;\n    object-fit: contain;\"  />\n###Industry Stewardship\nIndustry Stewardship requires JSCs to collect relevant information that guides the development of important policies, guidelines, and strategies."
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "95725e60-e8d8-4a03-8862-28b77e612f0d",
+      "columnList": [
+        {
+          "column": "There are 537 Local Governments across Australia which are primarily concentrated on the east coast. Within these Local Governments, the top employing occupation is administration, with 151,000 employed across Australia.\n![](https://psa-directus-prod.azurewebsites.net/assets/c40e3c21-6474-4a7e-b378-022c93fbff4c)"
+        },
+        {
+          "column": "Occupational shortages are also present within the Local Government industry-sector, in particular, engineers, town planners, building surveyors, environmental health officers, accountants and human resources professionals. \n\n![](https://psa-directus-prod.azurewebsites.net/assets/ca9b4b4e-333d-4611-b711-52ebda8d7be8)\n\nThese shortages can be caused by regionality, competition for labour and recruitment and retention efforts, all of which are discussed in the Workforce Insights Report.\n"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "962240e7-6c05-44e9-ad88-a55b86fe6a53",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/23bd916c-a164-47cd-85f9-72054fbaadb4.png)\n"
+        },
+        {
+          "column": "#### Occupational shortages and operational capacity\nSeveral drivers that may impact on Police occupational shortages and operational capacity that may not be fully understood due to analysis gaps.\n\n#### Professional development and upskilling\nThe absence of comprehensive skills mapping impacts on the ability of public safety organisations to identify and address workforce skills gaps and occupational needs."
+        }
+      ],
+      "title": "Identified Challenges",
+      "description": null
+    },
+    {
+      "id": "9c31d27b-3dd7-4edb-a7f1-5aaaee5af907",
+      "columnList": [
+        {
+          "column": "This training package is applicable for the following emergency agencies. \n\n- Emergency Management\n- Fire\n- Land Management\n- Surf Lifesaving\n- Emergency Services\n- Maritime Safety\n\nPublic Skills Australia works with the Australasian Fire and Emergency Services Authorities Council (AFAC) to ensure review and keep the PAU Public Safety Training Package up to date.\n"
+        },
+        {
+          "column": "As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package.\n\nClick [here ](https://training.gov.au/Training/Details/PUA) to learn more about the PUA Public Safety Training Package. \n\n![](https://psa-directus-prod.azurewebsites.net/assets/3a496f5d-f9a5-42e9-9e66-0e3245f5ddd8.png)"
+        }
+      ],
+      "title": "Fire and Emergency Services Training Package",
+      "description": null
+    },
+    {
+      "id": "a86e934e-c262-4227-b177-e34be56a139a",
+      "columnList": [
+        {
+          "column": " <img src=\"https://psa-beta-website-docker.azurewebsites.net/assets/0a1aabdc-16ae-4392-9900-d14f2cd27cf0\" alt=\"Workforce Planning\" style=\"width: 80px;     height: 80px;\n    object-fit: contain;\"  />\n### Workforce Planning\nWorkforce Planning explores the challenges, risks, and current datasets that encompass the unique workforces of relevant industry sectors."
+        },
+        {
+          "column": "<img src=\"https://psa-beta-website-docker.azurewebsites.net/assets/d904270b-2aa4-4b45-b1c1-32281983721b\" alt=\"Training Product Development\" style=\"width: 80px;     height: 80px;\n    object-fit: contain;\"  />\n### Training Product Development\nTraining Product Development is key to addressing identified workforce challenges. It allows for regular reviews and new developments within training packages to ensure that training remains contemporary and fit for purpose."
+        },
+        {
+          "column": "<img src=\"https://psa-beta-website-docker.azurewebsites.net/assets/7a477fff-a1ef-4c75-bdcb-67e48f4ea2f1\" alt=\"Implementation, Promotion and Monitoring\" style=\"width: 80px;     height: 80px;\n    object-fit: contain;\" />\n### Implementation, Promotion and Monitoring\nImplementation, Promotion and Monitoring supports the delivery and effectiveness of training packages, and supports learners and Registered Training Organisations."
+        },
+        {
+          "column": " <img src=\"https://psa-beta-website-docker.azurewebsites.net/assets/23cb6d77-fa0f-4c81-87c7-29267f52411a\" alt=\"Industry Stewardship\" style=\"width: 80px;     height: 80px;\n    object-fit: contain;\"  />\n### Industry Stewardship\nIndustry Stewardship requires JSCs to collect relevant information that guides the development of important policies, guidelines, and strategies."
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "ab8786cc-b958-423c-a641-7a582b9ad054",
+      "columnList": [
+        {
+          "column": "Across Australia, policing services are delivered by 8 jurisdictions. \n\nPolicing of the Australian Capital Territory (ACT) is conducted under an agreement with the Australian Federal Police (AFP), which directs ACT Policing under its portfolio.\n\n![](https://psa-directus-prod.azurewebsites.net/assets/fb9d281f-e3cb-4bae-95aa-5a6d7c7e3c17)\n\n"
+        },
+        {
+          "column": "There are several major differences between the remit of state and territory agencies, and the AFP. Both state and territory police forces and the AFP comprise sworn and unsworn cohorts. Unsworn cohorts are made up of a public sector workforce. \n\n![](https://psa-directus-prod.azurewebsites.net/assets/52c5869b-6b6c-46ea-a598-6de5e5a6acc6)\n\n"
+        }
+      ],
+      "title": "Services",
+      "description": null
+    },
+    {
+      "id": "abe78e68-e6ff-42fe-a284-6d779170cde5",
+      "columnList": [
+        {
+          "column": "The PSP Public Sector Training Package (PSP Training Package) provides nationally recognised qualifications and competency standards for employees working in the Federal and State/Territory public sector. The PSP Training Package includes a range of qualifications from Certificate II to Advanced Diploma levels, covering a wide variety of public sector roles.\n\nAs a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package."
+        },
+        {
+          "column": "Click [here](https://training.gov.au/Training/Details/PSP) to learn more about the PSP Public Sector Training Package.\n\n\n![](https://psa-directus-prod.azurewebsites.net/assets/2157e8c3-0ebc-4a61-945d-ba685cdde7df)"
+        }
+      ],
+      "title": "Public Sector Training Package",
+      "description": null
+    },
+    {
+      "id": "b157083e-3256-442d-a99b-6999326cae51",
+      "columnList": [
+        {
+          "column": "Diana Taylor AM"
+        }
+      ],
+      "title": "Audit, Finance and Risk Committee",
+      "description": null
+    },
+    {
+      "id": "b3225ab9-88e7-45cb-b7ee-ed8f1183f954",
+      "columnList": [
+        {
+          "column": "Organisations within this industry-sector have key responsibilities that align to the Emergency Management Continuum. \n\nThe Fire and Emergency Services industry-sector creates safer and more resilient communities. It achieves this by minimising the impact of emergencies by providing responses as well as supporting communities in understanding risk, developing plans and delivering warnings. "
+        },
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/6e166f8f-7e6f-43aa-b3b7-2581a5ca8852)"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "c4f30ccd-8a2c-41e1-92fd-416746745b83",
+      "columnList": [
+        {
+          "column": "The Australian Defence Force includes the:\n- Australian Army\n- Royal Australian Navy \n- Royal Australian Air Force.  \n\nThe Department of Defence manages many different groups within its organisational structure such as the Defence Science and Technology Group. \n\nIn 2024, Defence published two documents detailing their intended strategic direction, including the National Defence Strategy 2024 and the Defence Workforce Plan 2024. Regarding its workforce, these documents specify several recruitment and retention strategies to minimise Defence’s current strength deficit"
+        },
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/a609b5df-0b4e-4781-8fde-fe9aff6f5a3e.png)"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "c538e6df-18b6-4376-8b4b-4f4ba28a869d",
+      "columnList": null,
+      "title": "Workforce Mega Trends",
+      "description": null
+    },
+    {
+      "id": "d9d90527-0e72-4275-8981-41b07d9c8b9f",
+      "columnList": [
+        {
+          "column": "The CSC Correctional Services Training Package summarises the national standards for training within the Correctional Services industry-sector. \n\nThe training package is delivered through enterprise and independent Registered Training Organisations (RTOs). Some Correctional Services jurisdictions also function as an RTO, allowing them to deliver the training as part of the CSC Correctional Services Training Package. This ensures that training for Corrections officers meets the agreed national standards. \n\nAs a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package. Click [here](https://training.gov.au/Training/Details/CSC/summary) to learn more about the CSC Correctional Services Training Package."
+        },
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/f02b12d6-36c9-499a-99bb-f62f24cc7618)"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "dd44d5a5-fded-40f7-8b71-b5d571daf7d9",
+      "columnList": [
+        {
+          "column": "The LGA Local Government Training Package (the training package) provides training and development for employees working in Local Government roles. It includes a range of qualifications and units of competency that cover aspects of local government operations, such as governance, community engagement, environmental management, and regulatory services. The training package aims to ensure that local government employees have the necessary skills and knowledge to perform their roles effectively.\n\nAs a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package."
+        },
+        {
+          "column": "Click [here](https://training.gov.au/Training/Details/LGA/summary) to learn more about the LGA Local Government Training Package.\n\n![](https://psa-directus-prod.azurewebsites.net/assets/a4573ebd-0b34-419f-ac41-567470229954)"
+        }
+      ],
+      "title": "Local Government Training Package",
+      "description": null
+    },
+    {
+      "id": "deb3fcef-e0b0-478f-9ca5-582466837e78",
+      "columnList": [
+        {
+          "column": "## National\n\n[![](https://psa-directus-prod.azurewebsites.net/assets/b986e8d2-8f76-46d8-a5ee-b95cbdc53959)](https://www.publicskillsaustralia.org.au)"
+        },
+        {
+          "column": "## New South Wales\n\n[![Police](https://psa-directus-prod.azurewebsites.net/assets/2de256a4-9c7a-4bde-93a3-7c214e4c230a)](https://www.publicskillsaustralia.org.au)"
+        },
+        {
+          "column": "\n## **Victoria**\n\n[![Police](https://psa-directus-prod.azurewebsites.net/assets/b0965aed-d730-4100-8224-76f6cfc5addc.png)](https://www.publicskillsaustralia.org.au)"
+        },
+        {
+          "column": "## Queensland\n\n[![](https://psa-directus-prod.azurewebsites.net/assets/d1aee468-b421-4da7-8515-1a2bda5d3abc)](https://www.publicskillsaustralia.org.au)"
+        },
+        {
+          "column": "## Northern Territory\n\n[![Police](https://psa-directus-prod.azurewebsites.net/assets/abed334b-e67b-4023-8a56-94a59514ff66)](https://www.publicskillsaustralia.org.au)"
+        },
+        {
+          "column": "## Western Australia\n\n[![Police](https://psa-directus-prod.azurewebsites.net/assets/dedb3247-1754-472b-8f91-708c338fcc72)](https://www.publicskillsaustralia.org.au)"
+        },
+        {
+          "column": "## South Australia\n\n[![](https://psa-directus-prod.azurewebsites.net/assets/f05d4810-5795-425c-9bd1-9a4bdaf2f419)](https://www.publicskillsaustralia.org.au)\n"
+        },
+        {
+          "column": "## Australian Capital Territory\n\n[![](https://psa-directus-prod.azurewebsites.net/assets/e0d3d1d2-2c63-4ddd-9fea-32de2e706184)](https://www.publicskillsaustralia.org.au)\n"
+        }
+      ],
+      "title": null,
+      "description": null
+    },
+    {
+      "id": "e40cfeaa-43f5-4b3f-aeed-6c5e5d52afe0",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/9003c771-ca34-4449-ad6d-40068824a615)"
+        },
+        {
+          "column": "#### Workforce Lifecycle\nResearch and consultation identified challenges contributing to increased workforce challenges impacting across all stages of the Correctional Services workforce lifecycle, including: \n- Attraction: attracting a workforce that reflects the needs of a contemporary corrections environment. \n- Recruitment: modifying entry requirements to meet recruitment targets, with a targeted focus on the recruitment of First Nations employees. \n- Onboarding: equipping employees for the complexities of the physical and psychological demands of a Correctional Services role through pre-service training.\n- Retention: mitigating limitations on learning and development opportunities and effects of mental health impacts (resulting in increased psychological injury claims). \n- Exit / Separation: building a deeper understanding as to why employees exit, exploring exit/separation data limitations and assessing whether varying processes across organisations may provide additional insights.\n\n#### First Nations Workforce \nHigh attrition and retention of First Nations employees is a challenge that is impacted by low participation rates of other employees in cultural awareness or competency training. Embedding cultural competency in organisations, with the objective of promoting cultural safety for First Nations employees, may see a positive impact on retention rates."
+        }
+      ],
+      "title": "Identified Challenges",
+      "description": " "
+    },
+    {
+      "id": "ef91652a-42a6-4187-abba-5d2ced1e157a",
+      "columnList": [
+        {
+          "column": "![](https://psa-directus-prod.azurewebsites.net/assets/ef96b5ec-10c4-4e77-811d-63f39703326e)"
+        },
+        {
+          "column": "\n\n#### Unclear understanding of workforce skills needs across the public sector\nDue to diverse workforce planning approaches across the Federal and State/Territory Government workforces, the identification of common and consistent public sector skills needs is an ongoing challenge.\n\n\n#### Usage of pathway programs to address critical public sector skills needs\nPublic sector traineeship and apprenticeship pathways generally provide broad-based public sector skills and do not provide trainees/apprentices a clear occupational pathway into public sector roles."
+        }
+      ],
+      "title": "Identified Challenges",
+      "description": null
+    },
+    {
+      "id": "f784bc13-bd67-413f-a8a0-02daa42060c4",
+      "columnList": [
+        {
+          "column": "### Ordinary Members can:\n- attend and participate in meetings\n- vote in the election of Directors in accordance with our Constitution\n- exercise any other rights provided under our Constitution"
+        },
+        {
+          "column": "### Affiliate Members can:\n- attend and participate in meetings\n- exercise any other rights outlined in our Constitution"
+        }
+      ],
+      "title": "Member Information",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "news_id": null,
+      "asset_id": "12edc8fe-d374-48e1-a39e-f13f3f5f4738",
+      "sort": 1
+    },
+    {
+      "id": 2,
+      "news_id": null,
+      "asset_id": "96cc602a-bd6d-4096-9fa7-c7b0aaea9742",
+      "sort": 1
+    }
+  ]
+}

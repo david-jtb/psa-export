@@ -1,0 +1,2826 @@
+{
+  "data": [
+    {
+      "collection": "asset",
+      "meta": {
+        "collection": "asset",
+        "icon": "file_present",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 13,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "asset",
+        "comment": null
+      }
+    },
+    {
+      "collection": "asset_tag_mapping",
+      "meta": {
+        "collection": "asset_tag_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "asset",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "asset_tag_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_announcements",
+      "meta": {
+        "collection": "block_announcements",
+        "icon": "fiber_new",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Announcements"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 12,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_announcements",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_communities",
+      "meta": {
+        "collection": "block_communities",
+        "icon": null,
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Workspaces"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_communities",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_communities_community",
+      "meta": {
+        "collection": "block_communities_community",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "block_communities",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_communities_community",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_content",
+      "meta": {
+        "collection": "block_content",
+        "icon": "text_fields",
+        "note": null,
+        "display_template": "{{content}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Content"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 10,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_content",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_content_columns",
+      "meta": {
+        "collection": "block_content_columns",
+        "icon": "view_column",
+        "note": null,
+        "display_template": "{{title}}{{columnList}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Content with columns"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 11,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_content_columns",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_cta",
+      "meta": {
+        "collection": "block_cta",
+        "icon": "left_click",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "CTA"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_cta",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_faq",
+      "meta": {
+        "collection": "block_faq",
+        "icon": "question_mark",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "FAQ"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 8,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_faq",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_feature_background",
+      "meta": {
+        "collection": "block_feature_background",
+        "icon": null,
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Content with background"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 9,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_feature_background",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_features",
+      "meta": {
+        "collection": "block_features",
+        "icon": "view_column",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Features"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_features",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_features_item",
+      "meta": {
+        "collection": "block_features_item",
+        "icon": null,
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "block_features",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_features_item",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_features_item_mapping",
+      "meta": {
+        "collection": "block_features_item_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "block_features",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_features_item_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_form",
+      "meta": {
+        "collection": "block_form",
+        "icon": "mail",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Form"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_form",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_hero",
+      "meta": {
+        "collection": "block_hero",
+        "icon": "capture",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Hero"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_hero",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_hero_alt",
+      "meta": {
+        "collection": "block_hero_alt",
+        "icon": null,
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Hero (alternative)"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 13,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_hero_alt",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_hero_files",
+      "meta": {
+        "collection": "block_hero_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "block_hero",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_hero_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_logos",
+      "meta": {
+        "collection": "block_logos",
+        "icon": "gallery_thumbnail",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Logos"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_logos",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_logos_list",
+      "meta": {
+        "collection": "block_logos_list",
+        "icon": null,
+        "note": null,
+        "display_template": "{{logo.filename_download}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "block_logos",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_logos_list",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_projects",
+      "meta": {
+        "collection": "block_projects",
+        "icon": "task",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Projects"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 14,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_projects",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_projects_mapping",
+      "meta": {
+        "collection": "block_projects_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "block_projects",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_projects_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "blocks",
+      "meta": {
+        "collection": "blocks",
+        "icon": "folder",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "page",
+        "collapse": "closed",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": null
+    },
+    {
+      "collection": "block_team",
+      "meta": {
+        "collection": "block_team",
+        "icon": "supervisor_account",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Team"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_team",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_team_leadership",
+      "meta": {
+        "collection": "block_team_leadership",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "block_team",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_team_leadership",
+        "comment": null
+      }
+    },
+    {
+      "collection": "block_video",
+      "meta": {
+        "collection": "block_video",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Video"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 15,
+        "group": "blocks",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "block_video",
+        "comment": null
+      }
+    },
+    {
+      "collection": "category",
+      "meta": {
+        "collection": "category",
+        "icon": "label",
+        "note": null,
+        "display_template": "{{label}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 9,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "category",
+        "comment": null
+      }
+    },
+    {
+      "collection": "community",
+      "meta": {
+        "collection": "community",
+        "icon": null,
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Workspaces"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 16,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "community",
+        "comment": null
+      }
+    },
+    {
+      "collection": "form",
+      "meta": {
+        "collection": "form",
+        "icon": "mail",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Forms"
+          }
+        ],
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 14,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "form",
+        "comment": null
+      }
+    },
+    {
+      "collection": "form_field",
+      "meta": {
+        "collection": "form_field",
+        "icon": null,
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "form",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "form_field",
+        "comment": null
+      }
+    },
+    {
+      "collection": "form_query_type",
+      "meta": {
+        "collection": "form_query_type",
+        "icon": "contact_mail",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Query Types"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "form",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "form_query_type",
+        "comment": null
+      }
+    },
+    {
+      "collection": "form_submit",
+      "meta": {
+        "collection": "form_submit",
+        "icon": "mark_email_read",
+        "note": null,
+        "display_template": "{{data}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Form Submissions"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "form",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "form_submit",
+        "comment": null
+      }
+    },
+    {
+      "collection": "leadership",
+      "meta": {
+        "collection": "leadership",
+        "icon": "person",
+        "note": null,
+        "display_template": "{{fullName}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "leadership",
+        "comment": null
+      }
+    },
+    {
+      "collection": "leadership_see_also_mapping",
+      "meta": {
+        "collection": "leadership_see_also_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "leadership",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "leadership_see_also_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "navigation",
+      "meta": {
+        "collection": "navigation",
+        "icon": "menu",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Navigation"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#3399FF",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "Settings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "navigation",
+        "comment": null
+      }
+    },
+    {
+      "collection": "news",
+      "meta": {
+        "collection": "news",
+        "icon": "newspaper",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": null,
+        "collapse": "open",
+        "preview_url": "https://publicskillsaustralia.org.au/api/draft?secret=0LdcOM6a8E&model=news&id={{id}}",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "news",
+        "comment": null
+      }
+    },
+    {
+      "collection": "news_asset_mapping",
+      "meta": {
+        "collection": "news_asset_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "asset",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "news_asset_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "news_category",
+      "meta": {
+        "collection": "news_category",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "category",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "news_category",
+        "comment": null
+      }
+    },
+    {
+      "collection": "news_segment",
+      "meta": {
+        "collection": "news_segment",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "segment",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "news_segment",
+        "comment": null
+      }
+    },
+    {
+      "collection": "news_subcategory",
+      "meta": {
+        "collection": "news_subcategory",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "subcategory",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "news_subcategory",
+        "comment": null
+      }
+    },
+    {
+      "collection": "news_tag",
+      "meta": {
+        "collection": "news_tag",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "tag",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "news_tag",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page",
+      "meta": {
+        "collection": "page",
+        "icon": "description",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Pages"
+          }
+        ],
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": null,
+        "collapse": "closed",
+        "preview_url": "https://publicskillsaustralia.org.au/api/draft?secret=0LdcOM6a8E&model=page&id={{id}}",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page_blocks",
+      "meta": {
+        "collection": "page_blocks",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "page",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page_blocks",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page_careers",
+      "meta": {
+        "collection": "page_careers",
+        "icon": "cases",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Careers Page"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "singlePages",
+        "collapse": "open",
+        "preview_url": "https://publicskillsaustralia.org.au/careers",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page_careers",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page_events",
+      "meta": {
+        "collection": "page_events",
+        "icon": "draft",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Events Page"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": "singlePages",
+        "collapse": "open",
+        "preview_url": "https://publicskillsaustralia.org.au/events",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page_events",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page_news",
+      "meta": {
+        "collection": "page_news",
+        "icon": "draft",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "News Page"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "singlePages",
+        "collapse": "open",
+        "preview_url": "https://publicskillsaustralia.org.au/news",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page_news",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page_projects",
+      "meta": {
+        "collection": "page_projects",
+        "icon": "task",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Projects Page"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "singlePages",
+        "collapse": "open",
+        "preview_url": "https://publicskillsaustralia.org.au/projects",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page_projects",
+        "comment": null
+      }
+    },
+    {
+      "collection": "page_resources",
+      "meta": {
+        "collection": "page_resources",
+        "icon": "draft",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Resources Page"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "singlePages",
+        "collapse": "open",
+        "preview_url": "https://publicskillsaustralia.org.au/resources",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "page_resources",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project",
+      "meta": {
+        "collection": "project",
+        "icon": "task",
+        "note": null,
+        "display_template": "{{title}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "plural": "Projects",
+            "singular": "Project",
+            "translation": "Projects"
+          }
+        ],
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": [
+          "status",
+          "tags",
+          "images",
+          "title",
+          "shortDescription",
+          "ctaTitle",
+          "ctaUrl",
+          "stages",
+          "hyperlinks"
+        ],
+        "sort": 2,
+        "group": null,
+        "collapse": "closed",
+        "preview_url": "https://publicskillsaustralia.org.au/api/draft?secret=0LdcOM6a8E&model=project&id={{id}}",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project_category",
+      "meta": {
+        "collection": "project_category",
+        "icon": "task",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Project Categories"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "project",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project_category",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project_category_mapping",
+      "meta": {
+        "collection": "project_category_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "project_category",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project_category_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project_category_resource",
+      "meta": {
+        "collection": "project_category_resource",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "project_category",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project_category_resource",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project_files",
+      "meta": {
+        "collection": "project_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "project",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project_project_tag",
+      "meta": {
+        "collection": "project_project_tag",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "project_tag",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project_project_tag",
+        "comment": null
+      }
+    },
+    {
+      "collection": "project_tag",
+      "meta": {
+        "collection": "project_tag",
+        "icon": "task",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Project Tags",
+            "singular": "Project Tag",
+            "plural": "Project Tags"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "project",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "project_tag",
+        "comment": null
+      }
+    },
+    {
+      "collection": "redirect",
+      "meta": {
+        "collection": "redirect",
+        "icon": "redo",
+        "note": null,
+        "display_template": "{{source}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Redirects"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#3399FF",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "Settings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "redirect",
+        "comment": null
+      }
+    },
+    {
+      "collection": "resource",
+      "meta": {
+        "collection": "resource",
+        "icon": "draft",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Resources"
+          }
+        ],
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": null,
+        "collapse": "closed",
+        "preview_url": "https://publicskillsaustralia.org.au/api/draft?secret=0LdcOM6a8E&model=resource&id={{id}}",
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "resource",
+        "comment": null
+      }
+    },
+    {
+      "collection": "resource_asset_mapping",
+      "meta": {
+        "collection": "resource_asset_mapping",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "asset",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "resource_asset_mapping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "resource_category",
+      "meta": {
+        "collection": "resource_category",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "category",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "resource_category",
+        "comment": null
+      }
+    },
+    {
+      "collection": "resource_segment",
+      "meta": {
+        "collection": "resource_segment",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "segment",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "resource_segment",
+        "comment": null
+      }
+    },
+    {
+      "collection": "resource_subcategory",
+      "meta": {
+        "collection": "resource_subcategory",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "subcategory",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "resource_subcategory",
+        "comment": null
+      }
+    },
+    {
+      "collection": "resource_tag",
+      "meta": {
+        "collection": "resource_tag",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "tag",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "resource_tag",
+        "comment": null
+      }
+    },
+    {
+      "collection": "segment",
+      "meta": {
+        "collection": "segment",
+        "icon": "data_object",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 12,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "segment",
+        "comment": null
+      }
+    },
+    {
+      "collection": "segment_category",
+      "meta": {
+        "collection": "segment_category",
+        "icon": "label",
+        "note": null,
+        "display_template": "{{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "segment",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "segment_category",
+        "comment": null
+      }
+    },
+    {
+      "collection": "seo",
+      "meta": {
+        "collection": "seo",
+        "icon": null,
+        "note": null,
+        "display_template": "{{metaTitle}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 8,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "seo",
+        "comment": null
+      }
+    },
+    {
+      "collection": "settings",
+      "meta": {
+        "collection": "settings",
+        "icon": "settings",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": true,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Site Settings"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#3399FF",
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "Settings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "settings",
+        "comment": null
+      }
+    },
+    {
+      "collection": "Settings",
+      "meta": {
+        "collection": "Settings",
+        "icon": "settings",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#3399FF",
+        "item_duplication_fields": null,
+        "sort": 15,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": null
+    },
+    {
+      "collection": "singlePages",
+      "meta": {
+        "collection": "singlePages",
+        "icon": "folder",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Single Pages"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": null
+    },
+    {
+      "collection": "subcategory",
+      "meta": {
+        "collection": "subcategory",
+        "icon": "label",
+        "note": null,
+        "display_template": "{{label}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 10,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "subcategory",
+        "comment": null
+      }
+    },
+    {
+      "collection": "tag",
+      "meta": {
+        "collection": "tag",
+        "icon": "label",
+        "note": null,
+        "display_template": "{{label}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 11,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "tag",
+        "comment": null
+      }
+    },
+    {
+      "collection": "vacancies",
+      "meta": {
+        "collection": "vacancies",
+        "icon": "work",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": null,
+        "collapse": "closed",
+        "preview_url": null,
+        "versioning": false
+      },
+      "schema": {
+        "schema": "public",
+        "name": "vacancies",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_access",
+      "meta": {
+        "collection": "directus_access",
+        "hidden": false,
+        "singleton": false,
+        "icon": "admin_panel_settings",
+        "note": "$t:directus_collection.directus_access",
+        "translations": null,
+        "display_template": "{{ policy.name }}",
+        "accountability": "all",
+        "sort_field": "sort",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_access",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_activity",
+      "meta": {
+        "collection": "directus_activity",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_activity",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_activity",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_collections",
+      "meta": {
+        "collection": "directus_collections",
+        "hidden": false,
+        "singleton": false,
+        "icon": "database",
+        "note": "$t:directus_collection.directus_collections",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_collections",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_comments",
+      "meta": {
+        "collection": "directus_comments",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_comments",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_comments",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_fields",
+      "meta": {
+        "collection": "directus_fields",
+        "hidden": false,
+        "singleton": false,
+        "icon": "input",
+        "note": "$t:directus_collection.directus_fields",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_fields",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_files",
+      "meta": {
+        "collection": "directus_files",
+        "hidden": false,
+        "singleton": false,
+        "icon": "folder",
+        "note": "$t:directus_collection.directus_files",
+        "translations": null,
+        "display_template": "{{ $thumbnail }} {{ title }}",
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_folders",
+      "meta": {
+        "collection": "directus_folders",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_folders",
+        "translations": null,
+        "display_template": "{{ name }}",
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_folders",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_migrations",
+      "meta": {
+        "collection": "directus_migrations",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_migrations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_migrations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_permissions",
+      "meta": {
+        "collection": "directus_permissions",
+        "hidden": false,
+        "singleton": false,
+        "icon": "admin_panel_settings",
+        "note": "$t:directus_collection.directus_permissions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_permissions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_policies",
+      "meta": {
+        "collection": "directus_policies",
+        "hidden": false,
+        "singleton": false,
+        "icon": "admin_panel_settings",
+        "note": "$t:directus_collection.directus_policies",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_policies",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_presets",
+      "meta": {
+        "collection": "directus_presets",
+        "hidden": false,
+        "singleton": false,
+        "icon": "bookmark",
+        "note": "$t:directus_collection.directus_presets",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_presets",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_relations",
+      "meta": {
+        "collection": "directus_relations",
+        "hidden": false,
+        "singleton": false,
+        "icon": "merge_type",
+        "note": "$t:directus_collection.directus_relations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_relations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_revisions",
+      "meta": {
+        "collection": "directus_revisions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_revisions",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_revisions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_roles",
+      "meta": {
+        "collection": "directus_roles",
+        "hidden": false,
+        "singleton": false,
+        "icon": "supervised_user_circle",
+        "note": "$t:directus_collection.directus_roles",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_roles",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_sessions",
+      "meta": {
+        "collection": "directus_sessions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_sessions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_sessions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_settings",
+      "meta": {
+        "collection": "directus_settings",
+        "hidden": false,
+        "singleton": true,
+        "icon": null,
+        "note": "$t:directus_collection.directus_settings",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_settings",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_users",
+      "meta": {
+        "collection": "directus_users",
+        "hidden": false,
+        "singleton": false,
+        "icon": "people_alt",
+        "note": "$t:directus_collection.directus_users",
+        "translations": null,
+        "display_template": "{{ first_name }} {{ last_name }}",
+        "accountability": "all",
+        "archive_field": "status",
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_users",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_dashboards",
+      "meta": {
+        "collection": "directus_dashboards",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_dashboards",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_dashboards",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_panels",
+      "meta": {
+        "collection": "directus_panels",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_panels",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_panels",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_notifications",
+      "meta": {
+        "collection": "directus_notifications",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_notifications",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_notifications",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_shares",
+      "meta": {
+        "collection": "directus_shares",
+        "hidden": false,
+        "singleton": false,
+        "icon": "share",
+        "note": "$t:directus_collection.directus_shares",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_shares",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_flows",
+      "meta": {
+        "collection": "directus_flows",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_flows",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_flows",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_operations",
+      "meta": {
+        "collection": "directus_operations",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_operations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_operations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_translations",
+      "meta": {
+        "collection": "directus_translations",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_translations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_versions",
+      "meta": {
+        "collection": "directus_versions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_versions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_versions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_extensions",
+      "meta": {
+        "collection": "directus_extensions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_extensions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_extensions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_deployments",
+      "meta": {
+        "collection": "directus_deployments",
+        "hidden": false,
+        "singleton": false,
+        "icon": "cloud_upload",
+        "note": "$t:directus_collection.directus_deployments",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_deployments",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_deployment_projects",
+      "meta": {
+        "collection": "directus_deployment_projects",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_deployment_projects",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_deployment_projects",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_deployment_runs",
+      "meta": {
+        "collection": "directus_deployment_runs",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_deployment_runs",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_deployment_runs",
+        "comment": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "description": "Federal, State/Territory, and Local Governments are responsible for providing public services to shape Australia.",
+      "title": "Government",
+      "url": "/government",
+      "buttonText": "Learn more",
+      "image": "b80d039c-e9be-484a-9198-72ff3f64cde2"
+    },
+    {
+      "id": 2,
+      "description": "The Defence industry-sector is responsible for protecting Australia's national security interests. ",
+      "title": "Defence",
+      "url": "/defence",
+      "buttonText": "Learn more",
+      "image": "dea99f32-55a7-41a1-9664-2d78792072e6"
+    },
+    {
+      "id": 3,
+      "description": "\nAcross Australia, policing services are delivered by 8 jurisdictions. ",
+      "title": "Police",
+      "url": "/police",
+      "buttonText": "Learn more",
+      "image": "e7298834-bda3-4d9a-a3dd-caebed6a9e7e"
+    },
+    {
+      "id": 4,
+      "description": "Fire and Emergency Services organisations are much more than response agencies.",
+      "title": "Fire and Emergency Services",
+      "url": "/fire-and-emergency-services",
+      "buttonText": "Learn more",
+      "image": "9c152ac8-38ce-4043-ac29-eb4a8205f773"
+    },
+    {
+      "id": 5,
+      "description": "Correctional Services are an essential part of the criminal justice system.",
+      "title": "Correctional Services",
+      "url": "/correctional-services",
+      "buttonText": "Learn more",
+      "image": "061e5cad-96e2-4252-9db6-07867e3b94ed"
+    },
+    {
+      "id": 6,
+      "description": "HIIIIIIIIIIIIIIIIIIIII",
+      "title": "FEATURE",
+      "url": "feature",
+      "buttonText": "Learn more",
+      "image": null
+    },
+    {
+      "id": 7,
+      "description": null,
+      "title": "Conflict of Interest Register ",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/5739376e-626c-499c-8a75-7ebc9993f046",
+      "buttonText": "Download",
+      "image": "b80d039c-e9be-484a-9198-72ff3f64cde2"
+    },
+    {
+      "id": 8,
+      "description": null,
+      "title": "Disclosure of Board Director Remuneration – FY23/24",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/f793961a-e1a3-4d48-a53d-498d12572f13",
+      "buttonText": "Download",
+      "image": "b80d039c-e9be-484a-9198-72ff3f64cde2"
+    },
+    {
+      "id": 9,
+      "description": null,
+      "title": "View our Corrections 2024 Workforce Plan",
+      "url": "/",
+      "buttonText": "Learn more",
+      "image": "bd6966b1-fb93-40c1-9be3-be980d3ee277"
+    },
+    {
+      "id": 10,
+      "description": null,
+      "title": "2024 Defence ",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/0030db8f-bb21-45d6-8989-c04b22798157",
+      "buttonText": "Download",
+      "image": "dea99f32-55a7-41a1-9664-2d78792072e6"
+    },
+    {
+      "id": 11,
+      "description": null,
+      "title": "2024 Correctional Services",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/1795783e-35f3-4f0f-8ac4-6414b654a587",
+      "buttonText": "Download",
+      "image": "061e5cad-96e2-4252-9db6-07867e3b94ed"
+    },
+    {
+      "id": 12,
+      "description": null,
+      "title": "2024 Government",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/acd96fb3-8c56-4df4-9670-6a92e6eb696d",
+      "buttonText": "Download",
+      "image": "b80d039c-e9be-484a-9198-72ff3f64cde2"
+    },
+    {
+      "id": 13,
+      "description": null,
+      "title": "2024 Fire and Emergency Services",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/754f370e-4884-47c2-b8ce-4c1bd106ed73",
+      "buttonText": "Download",
+      "image": "9c152ac8-38ce-4043-ac29-eb4a8205f773"
+    },
+    {
+      "id": 14,
+      "description": null,
+      "title": "2024 Police",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/a33ba7b4-6b83-4bfe-8b54-b1b8600071ce",
+      "buttonText": "Download",
+      "image": "e7298834-bda3-4d9a-a3dd-caebed6a9e7e"
+    },
+    {
+      "id": 15,
+      "description": "The Annual Training Product Development Plan provides a summary of projects that will see updates to Training Packages within Public Skills Australia’s remit.",
+      "title": "2024-25 Annual Training Product Development Plan",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/62d2d169-ea00-419d-b97e-86fdd6d8fc36",
+      "buttonText": "View Annual Training Product Development Plan",
+      "image": null
+    },
+    {
+      "id": 16,
+      "description": "The Annual Implementation, Promotion and Monitoring Plan outlines the current projects to assess emerging capability requirements of industry-sectors or to analyse how to improve the delivery of existing Training Package products.",
+      "title": "2024-25 Annual Implementation, Promotion and Monitoring Plan",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/790d2efc-08ee-4230-8e05-f5b169a75459",
+      "buttonText": "View Annual Implementation, Promotion and Monitoring Plan",
+      "image": null
+    },
+    {
+      "id": 17,
+      "description": "2024 Workforce Plan",
+      "title": "Correctional Services",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/1795783e-35f3-4f0f-8ac4-6414b654a587",
+      "buttonText": "Download",
+      "image": "061e5cad-96e2-4252-9db6-07867e3b94ed"
+    },
+    {
+      "id": 18,
+      "description": "The Annual Training Product Development Plan provides a summary of projects that will see updates to Training Packages within Public Skills Australia’s remit.",
+      "title": "Current Annual Training Product Development Plan",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/d201a7bb-d474-47e6-9e6f-5e46611e410a.pdf",
+      "buttonText": "View Current Annual Training Product Development Plan",
+      "image": null
+    },
+    {
+      "id": 19,
+      "description": "The Annual Implementation, Promotion and Monitoring Plan outlines the current projects to assess emerging capability requirements of industry-sectors or to analyse how to improve the delivery of existing Training Package products.",
+      "title": "Current Annual Implementation, Promotion and Monitoring Plan",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/27c0ee6f-7e86-49a9-b5f8-7f491678678f.pdf",
+      "buttonText": "View Current Annual Implementation, Promotion and Monitoring Plan",
+      "image": null
+    },
+    {
+      "id": 20,
+      "description": null,
+      "title": "Local Government Workforce Insights Report",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/27231b35-4c58-42d7-87ce-5b9cc24d0408",
+      "buttonText": "Download",
+      "image": "b80d039c-e9be-484a-9198-72ff3f64cde2"
+    },
+    {
+      "id": 21,
+      "description": null,
+      "title": "Federal and State/Territory Workforce Insights Report",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/fc3d5c1a-e34b-4b5d-80c3-9439f94d219f",
+      "buttonText": "Download",
+      "image": "b80d039c-e9be-484a-9198-72ff3f64cde2"
+    },
+    {
+      "id": 22,
+      "description": null,
+      "title": "Public Safety Workforce Insights Report",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43",
+      "buttonText": "Download",
+      "image": "e7298834-bda3-4d9a-a3dd-caebed6a9e7e"
+    },
+    {
+      "id": 23,
+      "description": null,
+      "title": "Correctional Services Workforce Insights Report",
+      "url": "https://psa-directus-prod.azurewebsites.net/assets/52d72bd2-e69c-415d-9890-493543b2ea1a",
+      "buttonText": "Download",
+      "image": "061e5cad-96e2-4252-9db6-07867e3b94ed"
+    },
+    {
+      "id": 24,
+      "description": "Watch Now",
+      "title": "Workforce Launch Video",
+      "url": "https://vimeo.com/1125006965?share=copy",
+      "buttonText": "Learn more",
+      "image": null
+    }
+  ]
+}

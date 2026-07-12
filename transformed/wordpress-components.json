@@ -1,0 +1,2066 @@
+[
+  {
+    "title": "Hero",
+    "slug": "/hero",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Training Package Prioritisation Strategy",
+        "description": "The Training Package Prioritisation Strategy establishes a defined and transparent decision-making approach for initiating, prioritising, and managing updates to Training Packages. It outlines a mechanism to review Training Package products within an estimated five-year timeframe, maintaining their currency and relevance while responding to evolving industry needs in a timely and informed manner.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/026f29d3-fa1f-441f-88bc-162647207700",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/e6d6f017-4843-4c61-a8f8-919acb4f8b94"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Annual Project Plans",
+        "description": "Public Skills Australia is developing training products related to skills and capability priorities defined in the Workforce Plan, with support from key stakeholders from the Government and Public Safety industry-Sectors.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/be54d7d5-bfc1-4fd5-958f-b8b101209075"
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Police",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a4697f18-5940-47df-bae5-900f281a8886",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download Current Workforce Insights Report",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Public Skills Australia Workforce Insights Reports",
+        "description": "Our Workforce Insights Reports provide a snapshot of the Public Safety and Government industry-sectors, its workforce, and identified workforce challenges.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a249470e-8904-4e68-84a7-bf20d59a1cae",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Contact Us",
+          "url": "/contact"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Register Your Interest",
+        "description": "Be the first to receive our annual public safety and government workforce plans. \nRegister now and receive our annual national workforce plans for the corrections, defence, fire and emergency services, local government, state and federal government, and police industry-sectors at launch. The button below will open a new page on Microsoft Forms where you can register your interest now and be the first to receive our national workforce plans for your sector or you can open this link if no button appears: https://forms.office.com/r/txLkxidY1L",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/be54d7d5-bfc1-4fd5-958f-b8b101209075",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Register Now with Microsoft Forms",
+          "url": "https://forms.office.com/r/txLkxidY1L"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Join Our Strategic Networks",
+        "description": "Being part of a network provides opportunity for members to collaborate with peers across sectors and regions and to have a direct say on the development of training products and national workforce planning priorities.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/ea49179c-0df4-41f6-a2d2-58c2fad82e8a",
+        "cta": {
+          "type": "link",
+          "buttonLabel": " Membership Overview",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/c09dc2d2-61d2-4221-b111-3b0f1646d6f9.pdf"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Projects",
+        "description": "Public Skills Australia is developing training products related to skills and capability priorities defined in the Workforce Plan, with support from key stakeholders from the Government and Public Safety industry-Sectors. \n\nThe Annual Training Product Development Plan details approved project activities for 2025 and 2026. This plan outlines the development of training products and specifically addresses changes to training package products, such as updates, reviews, and creation of new products.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/1c6687da-0641-4666-92c0-405737eaf105",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Contact Us",
+          "url": "/contact"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Correctional Services",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a130d603-a3f9-4bba-a7bf-22e1bcba230c",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download Current Workforce Insights Report",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/52d72bd2-e69c-415d-9890-493543b2ea1a"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Subcommittees and Networks",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/dbee86f4-2ec0-4526-8e0d-b73d27422674"
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Become a Public Skills Australia Member",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/b3c1c071-d64c-4ea0-b4e0-70d2787466fe"
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Our Committees",
+        "description": null,
+        "image": null
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Local Government",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/8f151506-5771-4558-b5a0-1707dc8e5539",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download Current Workforce Insights Report",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/27231b35-4c58-42d7-87ce-5b9cc24d0408"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Our Purpose",
+        "description": "Who we are and what we do.",
+        "image": null
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Local Government Skills Audit and Review of the Uptake and Utility of the LGA Local Government Training Package National Report 2025-2026",
+        "description": "Explore the Local Government Skills Audit and Review of the Uptake and Utility of the LGA Local Government Training Package reports below. \n\nTo learn more about the project, visit the project page.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/4f9ffd8c-0ed3-4824-8962-f45ea41b3bdb",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Learn about the project",
+          "url": "/projects/local-government-skills-audit"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Defence Public Affairs Qualifications Review",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/fdfbb4f5-c540-4af3-9d55-682a8fda2749",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Contact Us",
+          "url": "/contact"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Emergency Tree Operations",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/08c3cec9-f290-47a7-864e-eb4a104f1eec",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Contact Us",
+          "url": "/contact"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Fire and Emergency Services",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/01cac292-72be-4bac-894a-c64f7a38193d",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download Current Workforce Insights Report",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Public Skills Australia",
+        "description": "The Australian Government has recently appointed, as one of 10 Jobs and Skills Councils (JSCs), the Public Safety Industry Committee to establish a new entity to provide services that support skilled and robust public safety and government workforces.",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/258fb9ca-1ec8-4dba-941d-96a2ce822ae4",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Contact Us",
+          "url": "/contact"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Firefighting Appliance Pump Technician",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/83f0f52b-233b-413e-81aa-9ca8b1f08a6a",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Contact Us",
+          "url": "https://psa-website-prod.azurewebsites.net/contact"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Our Governance",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/733b67a0-c1b2-4807-9bf8-3a3fa155bc73"
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Government",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/30fa072f-2d79-4e84-8535-a69336caa9c9",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download Current Workforce Insights Report",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/fc3d5c1a-e34b-4b5d-80c3-9439f94d219f"
+        }
+      },
+      {
+        "acf_fc_layout": "BlockHero",
+        "heading": "Defence",
+        "description": null,
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/8aa52dda-41c7-4f8b-9024-47f0e6ccb967",
+        "cta": {
+          "type": "link",
+          "buttonLabel": "Download Current Workforce Insights Report",
+          "url": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Features",
+    "slug": "/features",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockFeatures",
+        "heading": "Annual Plans",
+        "subheading": "Current Annual Plans",
+        "description": "To see a summary of current projects within Public Skills Australia’s workplan for 2025-26, please access the plans below.",
+        "featureItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "View Current Annual Training Product Development Plan",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/d201a7bb-d474-47e6-9e6f-5e46611e410a.pdf"
+            },
+            "heading": "Current Annual Training Product Development Plan",
+            "description": "The Annual Training Product Development Plan provides a summary of projects that will see updates to Training Packages within Public Skills Australia’s remit."
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "View Current Annual Implementation, Promotion and Monitoring Plan",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/27c0ee6f-7e86-49a9-b5f8-7f491678678f.pdf"
+            },
+            "heading": "Current Annual Implementation, Promotion and Monitoring Plan",
+            "description": "The Annual Implementation, Promotion and Monitoring Plan outlines the current projects to assess emerging capability requirements of industry-sectors or to analyse how to improve the delivery of existing Training Package products."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockFeatures",
+        "heading": "Previous Annual Plans",
+        "subheading": "View the past plans",
+        "description": "To see a summary of previous projects within Public Skills Australia’s workplan, please access the plans below.",
+        "featureItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "View Annual Training Product Development Plan",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/62d2d169-ea00-419d-b97e-86fdd6d8fc36"
+            },
+            "heading": "2024-25 Annual Training Product Development Plan",
+            "description": "The Annual Training Product Development Plan provides a summary of projects that will see updates to Training Packages within Public Skills Australia’s remit."
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "View Annual Implementation, Promotion and Monitoring Plan",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/790d2efc-08ee-4230-8e05-f5b169a75459"
+            },
+            "heading": "2024-25 Annual Implementation, Promotion and Monitoring Plan",
+            "description": "The Annual Implementation, Promotion and Monitoring Plan outlines the current projects to assess emerging capability requirements of industry-sectors or to analyse how to improve the delivery of existing Training Package products."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockFeatures",
+        "heading": "2025 Workforce Insights Reports",
+        "subheading": "Current Workforce Insight Reports",
+        "description": null,
+        "featureItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/52d72bd2-e69c-415d-9890-493543b2ea1a"
+            },
+            "heading": "Correctional Services Workforce Insights Report",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/27231b35-4c58-42d7-87ce-5b9cc24d0408"
+            },
+            "heading": "Local Government Workforce Insights Report",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/fc3d5c1a-e34b-4b5d-80c3-9439f94d219f"
+            },
+            "heading": "Federal and State/Territory Workforce Insights Report",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43"
+            },
+            "heading": "Public Safety Workforce Insights Report",
+            "description": null
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockFeatures",
+        "heading": "2024 Workforce Plans",
+        "subheading": "Previous Workforce Plans",
+        "description": null,
+        "featureItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/1795783e-35f3-4f0f-8ac4-6414b654a587"
+            },
+            "heading": "2024 Correctional Services",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/0030db8f-bb21-45d6-8989-c04b22798157"
+            },
+            "heading": "2024 Defence ",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/754f370e-4884-47c2-b8ce-4c1bd106ed73"
+            },
+            "heading": "2024 Fire and Emergency Services",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/acd96fb3-8c56-4df4-9670-6a92e6eb696d"
+            },
+            "heading": "2024 Government",
+            "description": null
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/a33ba7b4-6b83-4bfe-8b54-b1b8600071ce"
+            },
+            "heading": "2024 Police",
+            "description": null
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockFeatures",
+        "heading": "Who is Public Skills Australia?",
+        "subheading": "Services",
+        "description": "Public Skills Australia has been created to serve as this JSC and will provide a range of services to the public safety and government workforces. These services include:\n\n- Training Product Development \n- Workforce Planning \n- Implementation, Promotion and Monitoring\n- Industry Stewardship\n\nOur industry sectors are:",
+        "featureItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Learn more",
+              "url": "/correctional-services"
+            },
+            "heading": "Correctional Services",
+            "description": "Correctional Services are an essential part of the criminal justice system."
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Learn more",
+              "url": "/defence"
+            },
+            "heading": "Defence",
+            "description": "The Defence industry-sector is responsible for protecting Australia's national security interests."
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Learn more",
+              "url": "/fire-and-emergency-services"
+            },
+            "heading": "Fire and Emergency Services",
+            "description": "Fire and Emergency Services organisations are much more than response agencies."
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Learn more",
+              "url": "/government"
+            },
+            "heading": "Government",
+            "description": "Federal, State/Territory, and Local Governments are responsible for providing public services to shape Australia."
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Learn more",
+              "url": "/police"
+            },
+            "heading": "Police",
+            "description": "Across Australia, policing services are delivered by 8 jurisdictions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Content Media",
+    "slug": "/content-media",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/60c6a512-f4d8-42dc-9a3e-cceabf8e5009",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Workforce Overview",
+            "itemContent": "<p>Across Australia, policing services are delivered by 8 jurisdictions.</p>\n<p>Policing of the Australian Capital Territory (ACT) is conducted under an agreement with the Australian Federal Police (AFP), which directs ACT Policing under its portfolio.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/75609414-f039-4499-883e-5f069740acbe",
+        "textAlign": "right",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Strategy",
+            "itemContent": "<h4>Report Into the Drivers of Occupational Shortages and Impacts on Operational Capacity</h4>\n<p>Public Skills Australia proposes to develop a comprehensive analysis of the inputs and drivers of Police workforce shortages and operational capacity to inform the national evidence base. This will provide greater understanding of the factors influencing diminished operational capacity in the metropolitan and remote/regional/rural policing.</p>\n<h4>(Proposed) Case Study Analysis of Skilling and Professional Development Profile Mapping </h4>\n<p>Public Skills Australia proposes to deliver a case study analysis where a skilling and professional development profile has been overlaid with work force demographics to understand and identify Police skills gaps at a jurisdictional level. This work would seek to identify benefits and opportunities in adopting this approach to address gaps in skilling and professional development programs.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/c50f20a0-8763-446b-9cba-971b2c292096",
+        "textAlign": "right",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Workforce Overview",
+            "itemContent": "<p>Correctional Services are an essential part of the criminal justice system. This workforce keeps the community safe and assists persons in custody to reintegrate into society.</p>\n<p>The Correctional Services landscape is multifaceted as each state or territory governs their own Correctional Services program.</p>\n<p>State and Territory Correctional Services include:<br>- adult custodial <br>- community corrections <br>- specialist services</p>\n<p>Private prisons are managed by private industry.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/2e3515b6-a025-4c5b-8692-fb606aeadeca",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Strategy",
+            "itemContent": "<h4>Review of skills maintenance approaches throughout the workforce lifecycle</h4>\n<p>Explore existing skilling and professional development frameworks adopted by Correctional Services organisations, including non-accredited training, to identify opportunities for harmonisation of approaches.</p>\n<h4>Proposal to investigate barriers to First Nations participation in the Correctional Services workforce</h4>\n<p>Draft a proposal to gain industry support to examine the factors that limit the participation of First Nations people in the Correctional Services workforce, including the reasons for joining, attritional factors and motivation for remaining in the workforce.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": null,
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Membership Application Process",
+            "itemContent": null
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/0cf0b849-0a7e-4270-a969-234fccfef049",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Workforce Overview",
+            "itemContent": "<p>Local Governments play a significant role in building and maintaining cohesive and connected communities. This industry-sector has a broad remit, such as local infrastructure, town planning and land development. The breadth of these core services demonstrates that Local Government is an industry-sector that employs occupations from across the labour market, requiring a range of skills and training to support this workforce.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/8f51e7fe-afb0-4b66-8951-91ea627fd463",
+        "textAlign": "right",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Strategy",
+            "itemContent": "<h4>Skill Set Development for Priority Skilling Areas</h4>\n<p>Identify whether any existing training products can be used for priority skilling needs in Local Government. Should no training products exist, training products may be developed to support the priority skilling needs in Local Government.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/1d6ca594-8a0a-42fc-a25a-78366ac3aa09",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "How do JSCs work?",
+            "itemContent": "<p>JSCs are funded through Grant Agreements with the Department of Employment and Workplace Relations (DEWR). They work collaboratively with their industry-sectors and other stakeholders such as Jobs and Skills Australia to share industry intelligence and further the aims of the VET reforms.</p>\n<p>All JSCs are governed through an elected Board, and hold Annual General Meetings with its ordinary and affiliate memberships.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/88129e29-61db-495e-86bb-d3078e34d356",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "What is Public Skills Australia?",
+            "itemContent": "<p>Public Skills Australia is the JSC that works with the Public Safety and Government industry-sectors.</p>\n<p>We play a pivotal role in responding to the workforce challenges and skills needs of these industry-sectors by conducting comprehensive skills assessments, listening deeply with our networks, and accelerating the introduction of new skills into the job market.</p>\n<p>We aim to promote innovation in Public Safety and Government workforces, and identify potential shortages that our industry-sectors may face in the future.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/ebdc0a0d-e1e1-4206-96db-b3ae3c1771d8",
+        "textAlign": "right",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Collaborating with our partners and members",
+            "itemContent": "<p>Public Skills Australia values thorough consultation with its key industry and departmental stakeholders. This allows us to understand the workforce obstacles and training needs that are specific to each industry-sector.</p>\n<p>We engage with and gather feedback from our stakeholders across our projects and activities through: <br>- participating in regular engagements<br>- conducting direct consultations<br>- delivering webinars<br>- creating surveys<br>- running and participating in workshops <br>- attending industry-specific conferences and events.</p>\n<p>These approaches are implemented across all our subcommittees and networks that we work closely with to inform our work. Representatives from our industry-sectors have been invited to join our membership, or to participate in one of our subcommittees or networks.</p>\n<p>Click [here](https://psa-website-beta.azurewebsites.net/our-governance) to learn more about these invaluable groups.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/8ecea98c-efa6-4cfd-87d4-7e997d58ec66",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Workforce Overview",
+            "itemContent": "<p>Fire and Emergency Services organisations are much more than response agencies ─ they provide risk mitigation and practical information to governments, communities, and businesses to support community resilience and minimise potential exposure to harm.</p>\n<p>The Fire and Emergency Services industry-sector includes: <br>- Firefighting<br>- State Emergency Services (SES)<br>- Forest and Land Management <br>- Surf Lifesaving <br>- Air Services.</p>\n<p>Their main jobs are to save lives, protect property, conserve the environment in disasters and provide essential services during emergencies such as floods, storms and earthquakes.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/0014cd97-45ae-4605-8168-2e29b7fcf700",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Strategy",
+            "itemContent": "<h4>Volunteer Leadership Project</h4>\n<p>Review of previous and current volunteer leadership programs to address capability and/or capacity gaps.</p>\n<h4>Understanding the Youth Volunteer</h4>\n<p>Literature review on youth volunteering in partnership with volunteer organisations.</p>\n<h4>Complex Infrastructure Project</h4>\n<p>Engage with career firefighting organisations to determine infrastructure training gaps in the Public Safety Training Package and develop new training products or adjust existing ones.</p>\n<h4>Emerging Technologies Project</h4>\n<p>Analysis of existing technological and infrastructure adjacent products and development of training products to support contemporary skills requirements to work with new and emerging technologies.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/80506106-8b43-4d40-9986-df8946885b71",
+        "textAlign": "right",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Workforce Overview",
+            "itemContent": "<p>Federal, State and Territory, and Local Governments are responsible for providing public services and shaping Australian society.</p>\n<p>The government landscape in Australia is made up of local governments, state and territory governments, and a federal government.</p>\n<p>Each level of government has specific functions and is responsible for delivering different services.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/2bf0cf9e-d58f-4abd-a5b2-ded955325786",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Strategy",
+            "itemContent": "<h4>Skill Set Development for Priority Skilling Areas</h4>\n<p>Identify whether any existing training products can be used for priority skilling needs in Federal, State and Territory Governments. Should no training products exist, training products may be developed to support the priority skilling needs in Federal, State and Territory Governments.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a549fc81-e4ff-4dd5-8429-5ab8c4454343",
+        "textAlign": "right",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Workforce Overview",
+            "itemContent": "<p>The Defence industry-sector is responsible for protecting Australia's national security interests. It supports regional stability and diplomatic efforts, deters potential threats, and protects Australia’s maritime borders.</p>\n<p>Defence personnel work to counter threats both at home and overseas, and promote global peace through international collaborations.</p>"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockContentMedia",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a6a85fe2-3993-4dc4-9220-7295854c16af",
+        "textAlign": "left",
+        "contentMediaItems": [
+          {
+            "itemHeading": "Strategy",
+            "itemContent": "<h4>Training product development for emerging capabilities in the space domain</h4>\n<p>Public Skills Australia proposes to develop nationally accredited training products that meet the emerging skills needs of Defence in the space domain. This may include skills related to satellite imagery, intelligence, reconnaissance and communications.</p>\n<h4>Training product development for emerging capabilities in the cyber domain</h4>\n<p>Public Skills Australia proposes to develop nationally accredited training products that meet the emerging skills needs of Defence in the cyber domain. This may include practitioner skills to undertake risk assessments in ICT systems, or any other relevant skilling areas identified by key stakeholders.</p>\n<h4>Contemporary Cadet Training</h4>\n<p>Public Skills Australia proposes to Develop nationally accredited training products that meet the contemporary needs of ADF Cadets. This may include adjustment of current training products or development of new ones.</p>\n<h4>Development of Training Pathways for Transitioning Veterans</h4>\n<p>Public Skills Australia proposes to assist Defence in the development of training pathways and/or bridging courses and adjustment of existing training products to enable a more streamlined transitioning pathways for veterans.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wysiwyg",
+    "slug": "/wysiwyg",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>The Police workforce is comprised of State/Territory Police organisations, as well as the Australian Federal Police. The industry sector employs fulltime equivalent (FTE) of sworn Police Officers of approximately 59,359 across Federal, State and Territories.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Police organisations and unions highlighted that they are experiencing shortages of Police Officers <br>across all States/Territories. Additionally, stakeholders observed that national labour market datasets fail to capture the complexities of Police occupational shortages, overlooking factors such as government commitments, retention challenges, the impact of career progression, and the evolving demands of policing.</p>\n<p>These shortages can be caused by regionality, competition for labour and recruitment and retention efforts, all of which are discussed in the Workforce Insights Report.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Megatrends</h3>\n<p>In 2024, Public Skills Australia identified nine megatrends impacting across the Public Safety and Government industries. A brief overview of the key findings from 2024 are detailed below</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h6>Occupational shortages and operational capacity</h6>\n<p>Several drivers that may impact on Police occupational shortages and operational capacity that may not be fully understood due to analysis gaps.</p>\n<h6>Professional development and upskilling</h6>\n<p>The absence of comprehensive skills mapping impacts on the ability of public safety organisations to identify and address workforce skills gaps and occupational needs.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Policing is covered by the POL Police Training Package. Public Skills Australia collaborates closely with the Australian New Zealand Police Advisory Agency (ANZPAA) to review and keep this training package up to date.</p>\n<p>All police staff members and personnel Australia receive general training through an Academy or College. They can then undertake additional training for specialist roles as they progress their career in policing.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Click <a href=\"https://training.gov.au/Training/Details/?id=POL\">here</a> to learn more about the POL Police Training Package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2>References<br>Existing workforce strategies</h2>\n<p>ACT Policing, Annual Report 2022-23, <em>ACT Policing</em>, 2023, accessed 15 January 2024. <br>Australia Federal Police, <em>Annual Report 2022-23 AFP</em>, 2023, accessed 15 January 2024. <br>Australia New Zealand Policing Advisory Agency (ANZPAA), <em>Future Workforce, Police Workforce Compendium</em>, ANZPAA, 2019, accessed 22 September 2023.<br>New South Wales Police Force,&nbsp;<em>Annual Report 2022-2023</em>, New South Wales Police Force, 2023, accessed 15 January 2024. <br>Northern Territory Police, Fire &amp; Emergency Services, <em>2022-23 Annual Report</em>, Northern Territory Police, Fire &amp; Emergency Services, 2023, accessed 15 January 2024. <br>Queensland Police Service, <em>2022-23 Annual Report</em>, Queensland Police Service, 2023, accessed 15 January 2024. <br>South Australia Police, <em>2022-23 Annual Report</em>, South Australia Police, 2023, accessed 14 December 2023. <br>Tasmanian Government, Department of Police, <em>Fire and Emergency Management Annual Report 2022-23</em>, Tasmania Government, 2023, accessed 14 December 2023. <br>Victoria Police, <em>Annual Report 2022-2023</em>, Victoria Police, 2023, accessed 15 January 2024. <br>Western Australia Police Force, <em>Annual Report 2023</em>, Western Australia Police Force, 2023, accessed 15 January 2024.</p>\n<p><strong>Disclaimer</strong></p>\n<p>This data have been collected through consultation with industry-sector representatives as part of the <em>Workforce Plan 2025: Public Safety</em>. These figures represent a snapshot in time and are subject to change. Public Skills Australia Limited has made every effort to ensure that the information and data contained in this report are accurate, up to date and have been sourced appropriately. Our organisation will update these figures annually as part of its Workforce Planning function.&nbsp;</p>\n<p>Images: &copy; State of Queensland (Queensland Police Service) 2022 is licenced under CC BY 4.0.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Insights Reports Launch</h3>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Public Skills Australia operates across all key phases of growing a skilled workforce. From research, planning and the development of accredited Vocation Education and Training (VET) products, workforce planning, industry stewardship, and other strategic initiatives for Australia&rsquo;s Government and Public Safety industry-sectors.</p>\n<p>Our networks bring diverse subject matter expertise, community perspectives, and lived experience in providing advice on this important work. We are looking to diversify our approach by building the following network groups:</p>\n<ul>\n<li>Careers and Pathways network</li>\n<li>Diversity and Inclusion network</li>\n<li>First Nations network</li>\n<li>Registered Training Organisations network</li>\n<li>Volunteers network</li>\n</ul>\n<p>Being part of a network provides opportunity for members to collaborate with peers across sectors and regions and to have a direct say on the development of training products and national workforce planning priorities. We are seeking nominations by organisations and individuals who are recognised as an authority or advocate in these areas and are interested in supporting our industry-sectors to develop capability. Membership is voluntary with targeted online consultations and focus groups occurring every few months.&nbsp;</p>\n<p>If this opportunity interests you and you have some availability to participate then please get in touch with us using the button below and we will be happy to answer any questions and can send you a nominations form.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Elections for Public Skills Australia Directors&rsquo; Positions</h3>\n<p>Nominations for election to the Board of Directors of Public Safety Skills Australia Limited (the Company) at the Company&rsquo;s Annual General Meeting to be held on Tuesday 18 November 2025 are open until&nbsp;<strong>Sunday 19 October 2025</strong>.</p>\n<p>Nomination forms (that include the required consent to act as a director form) are provided by clicking on the link below or by contacting Jacqui Smith, <strong>Company Secretary</strong> at the Company on <strong>03 9875 8200</strong> ext. <strong>221</strong></p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>There are six vacancies, two of which, incumbents will be seeking re-election and two temporary Directors elected by the Board under rule 5.11 of the constitution will be seeking election to permanent Directorship.</p>\n<p>The nomination of Directors and the election of Directors by ordinary members of the company are governed under the constitution of Public Skills Australia at rules 5.5 and 5.6</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Correctional Services is one of the three pillars of the criminal justice system that support and promote public safety in Australia. This industry-sector delivers custodial and community-based services aimed at rehabilitation and reducing reoffending to help keep communities safe.</p>\n<p>The workforce spans a broad range of occupations, including frontline roles and supporting functions. This includes Correctional Officers (COs), who deliver custodial services in secure facilities, and Community Corrections Officers (CCOs), who supervise offenders serving non-custodial sentences or parole in the community. Community Corrections Officers typically engage in case management, risk assessment, and compliance monitoring. The broader workforce also includes public servants working inside and outside correctional environments across functions such as administration, education, policy, and intelligence</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Megatrends</h3>\n<p>In 2024, Public Skills Australia identified nine megatrends impacting across the Public Safety and Government industries. A brief overview of the key findings from 2024 are detailed below</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h6>Workforce Lifecycle</h6>\n<p>Research and consultation identified challenges contributing to increased workforce challenges impacting across all stages of the Correctional Services workforce lifecycle, including: <br>- Attraction: attracting a workforce that reflects the needs of a contemporary corrections environment. <br>- Recruitment: modifying entry requirements to meet recruitment targets, with a targeted focus on the recruitment of First Nations employees. <br>- Onboarding: equipping employees for the complexities of the physical and psychological demands of a Correctional Services role through pre-service training.<br>- Retention: mitigating limitations on learning and development opportunities and effects of mental health impacts (resulting in increased psychological injury claims). <br>- Exit / Separation: building a deeper understanding as to why employees exit, exploring exit/separation data limitations and assessing whether varying processes across organisations may provide additional insights.</p>\n<h6>First Nations Workforce </h6>\n<p>High attrition and retention of First Nations employees is a challenge that is impacted by low participation rates of other employees in cultural awareness or competency training. Embedding cultural competency in organisations, with the objective of promoting cultural safety for First Nations employees, may see a positive impact on retention rates.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>The CSC Correctional Services Training Package summarises the national standards for training within the Correctional Services industry-sector.</p>\n<p>The training package is delivered through enterprise and independent Registered Training Organisations (RTOs). Some Correctional Services jurisdictions also function as an RTO, allowing them to deliver the training as part of the CSC Correctional Services Training Package. This ensures that training for Corrections officers meets the agreed national standards.</p>\n<p>As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package. Click <a href=\"https://training.gov.au/Training/Details/CSC/summary\">here</a> to learn more about the CSC Correctional Services Training Package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2>References</h2>\n<p>CSC Training Package enrolment reference: National Centre for Vocational Education Research (NCVER),&nbsp;<em>Total VET students and courses 2022: DataBuilder&nbsp;</em>[data set], ncver.edu.au, 2023, accessed 15 January 2024.</p>\n<h3>Existing workforce strategies</h3>\n<p>Australian Capital Territory Corrective Services, <em>Corrections Management</em>, Australian Capital Territory Corrective Services, Government of Australian Capital Territory, 2018.</p>\n<p>Corrective Services NSW,&nbsp;<em>Change Management Plan for Corrective Services NSW (CSNSW): Custody based Service Delivery Model Change</em>, Corrective Services NSW, Government of New South Wales, 2023.</p>\n<p>Corrective Services Tasmania, Changing Lives,&nbsp;<em>Creating Futures: A Strategic Plan for Corrections in Tasmania 2023</em>, Corrective Services Tasmania, Tasmanian Government, 2023.</p>\n<p>Department for Correctional Services South Australia, <em>Department for Correctional Services Strategic Plan 2022─2026</em>, Department for Correctional Services South Australia, Government of South Australia, 2022.</p>\n<p>Northern Territory Correctional Services, <em>Strategic Plan 2023-2026</em>, Northern Territory Correctional Services, Northern territory Government.</p>\n<p>Queensland Corrective Services (QCS), <em>QCS Strategic Plan 2023-2027</em>, QCS, Queensland Government, 2023.</p>\n<p>Victoria Corrections Prisons and Parole, <em>Safety Corporate Plan 2023─2027</em>, Victoria Corrections Prisons and Parole, Victoria State Government, 2023.</p>\n<h3>Disclaimer</h3>\n<p>This data have been collected through consultation with industry-sector representatives as part of the <em>Workforce Plan 2024: Correctional Services</em>. These figures represent a snapshot in time and are subject to change. Public Skills Australia Limited has made every effort to ensure that the information and data contained in this report are accurate, up to date and have been sourced appropriately. Our organisation will update these figures annually as part of its Workforce Planning function.&nbsp;</p>\n<p>Correctional officers are also known as prison officers and custodial officers. Correctional officer has been used throughout this document as the preferred industry term and aligns to ANZSCO 442111. Community corrections officers are also known as probation officers, probation services officers, probation and parole officers, or parole officers. Community corrections officers has been used throughout this document as the preferred industry term and aligns to ANZSCO 411714.</p>\n<p>Also note: The Australia and New Zealand Standard Classification of Occupations (ANZSCO) does not currently delineate between supervisory or managerial roles for the Correctional Services workforce, and State/Territory annual reporting data rarely distinguishes between supervisory and non-supervisory staff. As such, data on this cohort is not currently available.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Public Skills Australia has established several networks and subcommittees that our work will progress through. These groups provide key insights into the effectiveness of our training products.</p>\n<h3>How to join a subcommittee or network</h3>\n<p>Whichever way you choose to collaborate with Public Skills Australia, we invite you to join us to innovate and support our important industry-sectors.</p>\n<p>If you have a particular interest in Workforce Planning or Training Product Development, there are several ways to get involved.</p>\n<p><a href=\"/contact\" target=\"_blank\" rel=\"noopener\">Contact us</a> to nominate to join a subcommittee or network.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h5>Ordinary Members can:</h5>\n<p>- attend and participate in meetings<br>- vote in the election of Directors in accordance with our Constitution<br>- exercise any other rights provided under our Constitution</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h5>Affiliate Members can:</h5>\n<p>- attend and participate in meetings<br>- exercise any other rights outlined in our Constitution</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>There are 537 Local Governments across Australia which are primarily concentrated on the east coast. Within these Local Governments, the top employing occupation is administration, with 151,000 employed across Australia.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Occupational shortages are also present within the Local Government industry-sector, in particular, engineers, town planners, building surveyors, environmental health officers, accountants and human resources professionals.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>These shortages can be caused by regionality, competition for labour and recruitment and retention efforts, all of which are discussed in the Workforce Insights Report.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Megatrends</h3>\n<p>In 2024, Public Skills Australia identified nine megatrends impacting across the Public Safety and Government industries. A brief overview of the key findings from 2024 are detailed below</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h6>Access to Training</h6>\n<p>Local Government workforces in regional, rural and remote areas are often limited in where and how they can access training needs. This includes limited access to RTOs that offer the LGA Local Government Training Package, directly impacting the uptake of this Training Package</p>\n<h6>Skills Gaps</h6>\n<p>The Local Government industry-sector is facing significant occupational shortages in certain occupations that require long training pathways, such as urban and regional planners, prompting growing interest in training products that require shorter timeframes for delivery for faster upskilling of priority areas. One key occupational area experiencing significant skills gaps is emergency management.</p>\n<h6>Resourcing and Recruitment</h6>\n<p>Access to adequate and affordable housing and social infrastructure remain key challenges in recruiting Local Government workforces in regional, rural and remote areas. Financial constraints imposed by other tiers of government also impact on the ability of Local Governments to sustain resourcing.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>The LGA Local Government Training Package (the training package) provides training and development for employees working in Local Government roles. It includes a range of qualifications and units of competency that cover aspects of local government operations, such as governance, community engagement, environmental management, and regulatory services. The training package aims to ensure that local government employees have the necessary skills and knowledge to perform their roles effectively.</p>\n<p>As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Click <a href=\"https://training.gov.au/Training/Details/LGA/summary\">here</a> to learn more about the LGA Local Government Training Package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h4>References</h4>\n<p>LGA training package enrolment reference: &nbsp;National Centre for Vocational Education Research (NCVER),<em> Total VET students and courses 2023: DataBuilder</em> [data set], 2023, accessed 20 February 2025.</p>\n<p>&nbsp;</p>\n<h4>Disclaimer</h4>\n<p>This data has been collected through consultation with industry-sector representatives as part of the <em>Workforce Insight Report 2025: Local Government</em>. These figures represent a snapshot in time and are subject to change. Public Skills Australia Limited has made every effort to ensure that the information and data contained in this report are accurate, up to date and have been sourced appropriately. Our organisation will update these figures annually as part of its Workforce Planning function.&nbsp;</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2>What are Jobs and Skills Councils (JSCs)?</h2>\n<p>JSCs are not-for-profit organisations that work with their industry-sectors to identify current workforce challenges or potential skills shortages. They develop and review relevant training packages and support the implementation, monitoring and promotion of vocational education and training (VET) within their industry-sectors.&nbsp;</p>\n<p>Every JSC is industry-owned and brings together employer and employee bodies as well as governments in a tripartite arrangement to workforce and training challenges.</p>\n<p>JSCs are responsible for the following four key functions:</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h5>Workforce Planning</h5>\n<p>Workforce Planning explores the challenges, risks, and current datasets that encompass the unique workforces of relevant industry sectors.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h5>Training Product Development</h5>\n<p>Training Product Development is key to addressing identified workforce challenges. It allows for regular reviews and new developments within training packages to ensure that training remains contemporary and fit for purpose.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h5>Implementation, Promotion and Monitoring</h5>\n<p>Implementation, Promotion and Monitoring supports the delivery and effectiveness of training packages, and supports learners and Registered Training Organisations.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h5>Industry Stewardship</h5>\n<p>Industry Stewardship requires JSCs to collect relevant information that guides the development of important policies, guidelines, and strategies.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p><em>Image credits: State of Queensland (Queensland Fire and Emergency Services) 2013-2024</em><br><em>State of Queensland (Queensland Police Service) 2022 is licenced under CC BY 4.0</em></p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2><strong>Corporate Documents</strong></h2>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p><strong>Training Products in Scope</strong></p>\n<p>Throughout this project, a consultation log will be maintained to document the feedback received. Information on consensus gathering will be published following the consultation phase.</p>\n<p>Details of this project&rsquo;s information sessions and workshops will be shared on the Consultation tab when available.</p>\n<p>This project will review three qualifications, their core units of competency, elective streams and packaging rules. Through this review, the broader learning pathways and qualification design will be considered, noting the key focus in these qualifications is to support Defence capability.&nbsp;</p>\n<p>The review will consider the potential for streamlining training products and enhancing understanding of career progression between these three qualifications.</p>\n<p>These qualifications include:</p>\n<p>&bull; DEF30417 Certificate III in Defence Public Affairs</p>\n<p>&bull; DEF40117 Certificate IV in Defence Public Affairs</p>\n<p>&bull; DEF50517 Diploma of Defence Public Affairs.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>A comprehensive review of the Defence Public Affairs qualification stream has been undertaken in collaboration with a project Technical Committee, representative of the three services of the Australian Defence Force and the Australian Defence College.&nbsp;</p>\n<p>The proposed updates to the qualifications have been designed to address several factors aimed to support the Defence sector and improve the operational value of the qualification stream.</p>\n<p>These factors include:</p>\n<ul>\n<li>Responding to the emerging Defence sector needs of the qualifications</li>\n<li>Increasing the implementation of the qualifications</li>\n<li>Designing the qualifications to recognise transferable skills and prior knowledge</li>\n<li>Reviewing the career pathways of candidates entering and exiting the qualifications</li>\n<li>Considering the Australian Qualification Framework requirements for each qualification level</li>\n<li>Summary of proposed updates</li>\n</ul>\n<p>Please see below for a high-level summary of proposed changes to be made to the Defence Public Affairs qualifications.</p>\n<p><strong>Certificate IV in Defence Public Affairs</strong></p>\n<p>The proposed changes to the Certificate IV in Defence Public Affairs include updates to the:</p>\n<ul>\n<li>Total number of units of competency required for the qualification reduced from 14 to 11.</li>\n<li>Packaging rules have been updated to increase the amount of core units of competency required.</li>\n<li>Imported of units of competency updated</li>\n<li>Qualification description refined</li>\n</ul>\n<p><strong>Diploma of Defence Public Affairs</strong></p>\n<p>The proposed changes to the Diploma of Defence Public Affairs include updates to the:</p>\n<ul>\n<li>Total number of units required for the qualification increased from 11 to 13</li>\n<li>Packaging rules have been updated to increase the amount of core units of competency required.</li>\n<li>Imported of units of competency updated</li>\n<li>Qualification description refined</li>\n<li>Minor editorial updates to Defence Public Affairs Units of Competency</li>\n</ul>\n<p>The following units of competency have had minor editorial changes to ensure consistency in grammar and language across their contents.</p>\n<ul>\n<li>DEFDPA001 Promote the organisation&rsquo;s mission and values</li>\n<li>DEFDPA002 Identify material suitable for media publication</li>\n<li>DEFDPA003 Conduct market profiling</li>\n<li>DEFDPA004 Manage media requirements at major events</li>\n<li>- DEFDPA005 Develop and implement media plans</li>\n<li>DEFDPA006 Develop and implement a public affairs strategic plan</li>\n<li>DEFDPA007 Develop and implement effective communication strategies</li>\n<li>DEFDPA008 Manage public affairs projects</li>\n<li>DEFDPA009 Apply knowledge of public affairs in a service environment</li>\n</ul>\n<p><strong>We want your feedback</strong></p>\n<p>Consultation on the proposed changes will be open from 1 October to 29 October 2024. During this timeframe, Public Skills Australia will conduct virtual workshops for public consultation with stakeholders on the proposed draft training products.</p>\n<p>Public Skills Australia invites you to these consultations so you can share your feedback.</p>\n<p>Workshops Schedule:</p>\n<ul>\n<li><strong>Session 1:</strong> 23 October 2024, 11:00am &ndash; 12:00pm AEDT</li>\n<li><strong>Session 2:</strong> 30 October 2024, 11:00am &ndash; 12:00pm AEDT</li>\n</ul>\n<p>Documents<br>Please use the form below to specify the qualification(s) or unit(s) of competency you wish to review and to register for the workshops.</p>\n<p>Click <a href=\"https://forms.office.com/pages/responsepage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUMldOTDQyNVRNUU1NTUxRSElUS0dYM0tSWiQlQCN0PWcu&amp;route=shorturl\" target=\"_blank\" rel=\"noopener\">here</a> to register for any of our workshops and receive the Draft Training Products pack.</p>\n<p>Upon reviewing the Draft Training Products pack, please click <a href=\"https://forms.office.com/pages/responsepage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUODZaVUlXRTNDSFozT0tYOTU2Q0pIT0VVNCQlQCN0PWcu&amp;route=shorturl\" target=\"_blank\" rel=\"noopener\">here</a> to submit your feedback.</p>\n<p>If you prefer to provide your feedback via email, or have any further questions, please contact our Training Product Development team at:</p>\n<p>tpd@publicskillsaustralia.org.au.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p><strong>Project Overview</strong></p>\n<p>This project will see the development of a Findings Report which will highlight the wide range of tree operations conducted by State Emergency Services (SES) and Fire and Emergency members, analyse their capability requirements, and consider the contextualisation of existing training products to meet these needs.</p>\n<p><br>Emergency Tree Operations require a wide range of skills, including an awareness of overhead hazards and the mitigation of risks within dynamic work environments. Due to the increase in severe weather events across Australia, these skills are in greater demand across the Fire and Emergency Services industry-sector.</p>\n<p><br>For the purposes of this report, the project will consider tree operations that include vegetation management practices in emergency contexts such as trimming, cross cutting and falling. This project will analyse existing training products that are available across different training packages for possible contextualisation within the Fire and Emergency Services industry-sector.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p><strong>Consultation</strong></p>\n<p>During this phase, Public Skills Australia will collaborate with key stakeholders within the Fire and Emergency Services industry-sector and other Jobs and Skills Councils to inform the development of the Emergency Tree Operations Findings Report.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2>Privacy Policy</h2>\n<h2>Purpose</h2>\n<ol>\n<li>To outline the basis on which Public Skills Australia will collect, process, use, and store personal information Public Skills Australia collects from you and you provide to the company.</li>\n</ol>\n<h2>Objectives</h2>\n<ol start=\"2\">\n<li>To ensure that Public Skills Australia respects and protects privacy, in accordance with the Australian Privacy Principles contained in Schedule 1 of the Australian&nbsp;<em>Privacy Act 1988</em>.</li>\n<li>Public Skills Australia will also look to the Office of the Australian Information Commission for guidance on continuous improvement for this policy, in particular when its information handling practices change.</li>\n</ol>\n<h2>Scope</h2>\n<ol start=\"4\">\n<li>This policy is to be read in conjunction with the Constitution of Public Safety Skills Australia Limited and all Public Skills Australia policies; no policy is a standalone document.</li>\n<li>All Public Skills Australia policies are to be read in conjunction with following Australian Government Department of Employment and Workplace Relations (DEWR) documents:</li>\n</ol>\n<p><em>Jobs and Skills Councils Code of Conduct</em></p>\n<p><em>Jobs and Skills Councils Integrity Framework</em></p>\n<p><em>Jobs and Skills Councils Performance Framework</em></p>\n<p><em>Jobs and Skills Councils Program Guidelines</em></p>\n<p><em>Performance and Monitoring Framework&nbsp;</em>(under development)</p>\n<p><em>Training Package Organising Framework (TPOF).</em></p>\n<ol start=\"6\">\n<li>All Public Skills Australia policies apply to staff and Company office holders, as well as contractors, subcommittees, networks, and working groups when undertaking work on behalf of Public Skills Australia.</li>\n</ol>\n<h2>Information Public Skills Australia collects and holds</h2>\n<ol start=\"7\">\n<li>From time to time Public Skills Australia will collect and hold personal information. Public Skills Australia may collect and hold personal information, without limitation, about:</li>\n</ol>\n<ul>\n<li>clients, business associates, training providers, potential clients and their employees</li>\n<li>suppliers and their employees</li>\n<li>learners</li>\n<li>employees, prospective employees and contractors</li>\n<li>other people who come into contact with Public Skills Australia.</li>\n</ul>\n<ol start=\"8\">\n<li>In general, the personal information Public Skills Australia collects and hold may, without limitation, include:</li>\n</ol>\n<ul>\n<li>your name, address and contact details</li>\n<li>information about your personal circumstances (such as marital status, age, gender, occupation)</li>\n<li>information about your identity (such as date of birth, country of birth, visa details)</li>\n<li>information about your employment (such as job title, work history, remuneration)</li>\n<li>information about your background (such as educational qualifications, languages spoken)</li>\n<li>website usage data, which may include your IP address, how you accessed Public Skills Australia&rsquo;s website and your wider geographic location</li>\n<li>information provided by the Commonwealth Government</li>\n<li>other information that assists Public Skills Australia to conduct its business, provide and market its services, and meet its legal obligations.</li>\n</ul>\n<h2>How Public Skills Australia collects and holds information</h2>\n<ol start=\"9\">\n<li>Public Skills Australia will collect personal information only by lawful and fair means. Public Skills Australia may collect information:</li>\n</ol>\n<ul>\n<li>from you directly when you provide your details to Public Skills Australia, including (for example) when you</li>\n<li>register with the company to receive updates</li>\n<li>engage with Public Skills Australia via social media or online portals</li>\n<li>enter one of Public Skills Australia&rsquo;s competitions or participate in one of its surveys</li>\n<li>from you indirectly, including (for example) through</li>\n<li>business cards, emails, forms, face-to-face meetings</li>\n<li>registration and attendance at events</li>\n<li>telephone conversations</li>\n<li>your use of Public Skills Australia&rsquo;s website and social media channels</li>\n<li>from third parties, including (for example)</li>\n<li>the Australian Department of Education and Workplace Relations (DEWR)</li>\n<li>Public Skills Australia&rsquo;s business partners</li>\n<li>subcontractors</li>\n<li>advertising networks</li>\n<li>analytics providers</li>\n<li>search information providers, third parties who analyse traffic at Public Skills Australia&rsquo;s website, blogs and social media channels (which may involve the use of cookies)</li>\n<li>about an individual from a third party, in some circumstances; for example, a report provided by a medical professional or an employment reference from another person.</li>\n</ul>\n<h2>Why Public Skills Australia collects, holds and discloses information</h2>\n<ol start=\"10\">\n<li>Public Skills Australia may collect, hold, use, and disclose your personal information for the purposes described in this policy or disclosed to you on Public Skills Australia&rsquo;s website. For example, the company may use your information:</li>\n</ol>\n<ul>\n<li>to undertake policy development, research, consultation, and evaluation</li>\n<li>to provide you with newsletters and other information, including updates about Public Skills Australia&rsquo;s website and its services, information about how to become involved in upcoming projects, or other information that Public Skills Australia reasonably believes may be of interest to you</li>\n<li>when Public Skills Australia engages with you via social media</li>\n<li>to administer Public Skills Australia&rsquo;s website and for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes</li>\n<li>to enable the performance of contracts</li>\n<li>to conduct events for which you have registered</li>\n<li>to respond to your comments and questions</li>\n<li>to provide customer service</li>\n<li>to process and deliver competition entries and prizes</li>\n<li>to undertake surveys</li>\n<li>to measure or understand the effectiveness of advertising Public Skills Australia serve to you and others, and to deliver relevant advertising to you to make for other business requirements.</li>\n<li>&nbsp;suggestions and recommendations to you and other users of Public Skills Australia&rsquo;s website about goods or services that may interest you or them</li>\n</ul>\n<h2>Who Public Skills Australia disclose your information to</h2>\n<ol start=\"11\">\n<li>Public Skills Australia will disclose your personal information if we are required to do so by law, regulation, court order, or statutory or public authority, or to protect Public Skills Australia&rsquo;s rights and property.</li>\n<li>Public Skills Australia may provide your personal information to:</li>\n</ol>\n<ul>\n<li>any third party that administers any facility, service, or promotion operated via Public Skills Australia&rsquo;s website on its behalf</li>\n<li>its employees</li>\n<li>its professional advisors</li>\n<li>contractors or service providers which Public Skills Australia has engaged or appointed to carry out or advise it with respect to its functions or activities</li>\n<li>any specific parties Public Skills Australia has advised you of at the time Public Skills Australia collects the relevant personal information</li>\n<li>the Commonwealth Government</li>\n<li>any other parties with your express or implied agreement.</li>\n</ul>\n<ol start=\"13\">\n<li>Public Skills Australia does not sell, reuse, rent, lease, loan, trade, or otherwise divulge the information provided to Public Skills Australia to anyone unless you specifically consent that the company provides such information to a third party.</li>\n</ol>\n<h2>Disclosing your information to overseas recipients</h2>\n<ol start=\"14\">\n<li>Public Skills Australia may disclose your personal information to the following overseas recipients:</li>\n</ol>\n<ul>\n<li>other companies or individuals who assist Public Skills Australia in providing services or who perform functions on its behalf (such as third-party service providers)</li>\n<li>anyone else to whom you authorise Public Skills Australia to disclose it</li>\n<li>anyone else where Public Skills Australia is required to do so by law.</li>\n</ul>\n<ol start=\"15\">\n<li>Public Skills Australia will only disclose your personal information to overseas recipients where it has taken reasonable steps (where practicable in the circumstances) to ensure that overseas recipients handle personal information in a manner consistent with this policy; however, Public Skills Australia is not responsible for ensuring that overseas recipients handle your personal information in compliance with Australian privacy laws.</li>\n</ol>\n<h3>Links to external sites</h3>\n<ol start=\"16\">\n<li>Public Skills Australia&rsquo;s website may include links to other websites. Public Skills Australia is not responsible for the content and privacy practices of other websites.</li>\n</ol>\n<h2>Protecting your personal information</h2>\n<ol start=\"17\">\n<li>Public Skills Australia will take reasonable steps to ensure the security of the personal information it collects and holds both in hard copy and electronically. This involves protecting the personal information from misuse, loss, unauthorised modification, and disclosure.</li>\n<li>If you are considering sending Public Skills Australia any personal information, please be aware that the information may be insecure in transit, and that any transmission is therefore at your own risk.</li>\n</ol>\n<h2>Accessing your personal information</h2>\n<ol start=\"19\">\n<li>Subject to the exceptions set out in the Australian&nbsp;<em>Privacy Act 1988</em>, you may seek access to and correction of the personal information Public Skills Australia holds about you by contacting its Privacy Officer at&nbsp;<a href=\"mailto:privacy@publicskillsaustralia.org.au\">privacy@publicskillsaustralia.org.au</a>.</li>\n</ol>\n<h2>How to make a privacy-related complaint</h2>\n<ol start=\"20\">\n<li>If you have any questions about privacy-related issues or wish to complain about a breach of the Australian Privacy Principles or the handling of your personal information by Public Skills Australia, please contact Public Skills Australia&rsquo;s Privacy Officer at&nbsp;<a href=\"mailto:privacy@publicskillsaustralia.org.au\">privacy@publicskillsaustralia.org.au</a>.</li>\n</ol>\n<p>Complaints will be investigated by the Privacy Officer and you will be notified of the decision in relation to your complaint as soon as practicable.</p>\n<ol start=\"21\">\n<li>If Public Skills Australia is unable to satisfactorily resolve your concerns about Public Skills Australia&rsquo;s handling of your personal information, you can contact the Office of the Australian Information Commissioner:</li>\n</ol>\n<p>GPO Box 5218</p>\n<p>Sydney NSW 2001</p>\n<p>Tel: 1300 363 992</p>\n<p><a href=\"http://www.oaic.gov.au/\">www.oaic.gov.au</a></p>\n<h2>Reviewing this policy</h2>\n<ol start=\"22\">\n<li>This policy will be reviewed when applicable and within 3 years.</li>\n</ol>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Organisations within this industry-sector have key responsibilities that align to the Emergency Management Continuum.</p>\n<p>The Fire and Emergency Services industry-sector creates safer and more resilient communities. It achieves this by minimising the impact of emergencies by providing responses as well as supporting communities in understanding risk, developing plans and delivering warnings.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Megatrends</h3>\n<p>In 2024, Public Skills Australia identified nine megatrends impacting across the Fire and Emergency Services industries. A brief overview of the key findings from 2024 are detailed below</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h6>Volunteer workforce</h6>\n<p>Barriers impacting on youth engagement and youth retention in volunteering, and limited leadership training opportunities for volunteers that focuses on the development of relevant skills when working with unpaid volunteers in an emergency context.</p>\n<h6>Technology</h6>\n<p>Modern urban infrastructure, coupled with new fire and emergency response technology, requires review or development of training products.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>This training package is applicable for the following emergency agencies.</p>\n<p>- Emergency Management<br>- Fire<br>- Land Management<br>- Surf Lifesaving<br>- Emergency Services<br>- Maritime Safety</p>\n<p>Public Skills Australia works with the Australasian Fire and Emergency Services Authorities Council (AFAC) to ensure review and keep the PAU Public Safety Training Package up to date.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package.</p>\n<p>Click <a href=\"https://training.gov.au/Training/Details/PUA\">here </a> to learn more about the PUA Public Safety Training Package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>References</h3>\n<p>PAU Training Package enrolment reference: National Centre for Vocational Education Research (NCVER),&nbsp;<em>Total VET students and courses 2022: DataBuilder</em>&nbsp;[data set], 2023, ncver.edu.au, accessed 15 January 2024.</p>\n<h4>Existing workforce strategies</h4>\n<p>Australasian Fire and Emergency Service Authorities Council (AFAC),&nbsp;<em>AFAC Strategic Directions for Fire and Emergency Services 2022─2026</em>, AFAC, 2021.</p>\n<p>AFAC,&nbsp;<em>AFAC Strategic Plan 2023─2027</em>, AFAC, 2023.</p>\n<p>Champions of Change Coalition &ndash; Fire and Emergency Group,&nbsp;<em>2022 Progress Report</em>, Champions of Change Coalition &ndash; Fire and Emergency Group, 2022.</p>\n<p>Volunteering Australia, <em>National Strategy for Volunteering 2023─2033</em>, 2022.</p>\n<h3>Disclaimer</h3>\n<p>This data have been collected through consultation with industry-sector representatives as part of the&nbsp;<em>Workforce Plan 2025: Fire and Emergency Services</em>. These figures represent a snapshot in time and are subject to change. Public Skills Australia Limited has made every effort to ensure that the information and data contained in this report are accurate, up to date and have been sourced appropriately. Our organisation will update these figures annually as part of its Workforce Planning function.&nbsp;</p>\n<p>Images provided courtesy of Fire Rescue Victoria. FRV images are used with permission and should not be reproduced without permission from the organisation.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>This project will see the development of training products to align with the workplace outcomes of Firefighting Appliance Pump Technicians.</p>\n<p>Firefighting Appliances are operational vehicles used by the Fire and Emergency Services industry-sector. These appliances are designed to extinguish fires, facilitate rescues and provide various other forms of assistance. Consequently, the pumps utilised within Firefighting Appliances require specialised skills and knowledge for maintenance, troubleshooting and fault diagnosis.</p>\n<p>In collaboration with the Australasian Fire and Emergency Services Authorities Council (AFAC), Public Skills Australia will identify the national practice standards of pump technicians and assist to build industry capacity of this workforce.</p>\n<p><strong>Technical Committee</strong></p>\n<p>Engagement with the Fire and Emergency Services industry-sector is currently taking place. In accordance with the Training Package Products Development and Endorsement Process Policy, a Technical Committee has been stood up to provide advice on the development of raining products.</p>\n<p>The Terms of Reference for the Technical Committee can be found below:</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Consultation Strategy</p>\n<p>Public Skills Australia will engage in thorough consultation with stakeholders to ensure that their perspectives, concerns and insights are thoroughly considered in the development process. Details of consultation, including mechanisms and identification of stakeholders, can be found below:</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Throughout this project, a consultation log will be maintained to document the feedback received. Information on consensus gathering will be published following the consultation phase.</p>\n<p>Details of this project&rsquo;s information sessions and workshops will be shared here when available.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Public Skills Australia has developed training products for Firefighting Appliance Pump Technicians in collaboration with the project&rsquo;s Technical Committee. The Technical Committee convened over multiple collaborative sessions to discuss the current and future requirements of this highly specialised job role.</p>\n<p>The Technical Committee members represented:</p>\n<ul>\n<li>Subject-matter experts and educational-experts nominated by the Australasian Fire and Emergency Service Authorities Council (AFAC)</li>\n<li>The Mining and Automotive Skills Alliance</li>\n<li>Stakeholders within the fire protection industry</li>\n<li>United Firefighters Union of Australia</li>\n<li>Registered training organisations and TAFE stakeholders.</li>\n</ul>\n<p>In partnership with the Technical Committee, Public Skills Australia developed a comprehensive Job Role Analysis outlining the skills, knowledge, and experience needed for the role. By utilising the Job Role Analysis, Public Skills Australia has assessed units of competency across relevant training packages to address this need.&nbsp;</p>\n<p>The Technical Committee identified that the existing units AURPTA110 Inspect and service pumping systems and AURPTA111 Diagnose and repair pumping systems may be suitable for contextualisation to address this industry requirement. However, the units failed to address the safety measures of the job role and complexities of large-scale appliance pump sets.</p>\n<p><strong>Training Package Update</strong></p>\n<p>In response to the advice from the Technical Committee, Public Skills Australia has drafted the Firefighting Appliance Pump Technician Skill Set.</p>\n<p>The proposed Firefighting Appliance Pump Technician Skill Set is composed of the following units:</p>\n<ul>\n<li>AURPTA110 &ndash; Inspect and service pumping systems</li>\n<li>AURPTA111 &ndash; Diagnose and repair pumping systems</li>\n<li>PUAOPEXXX &ndash; Conduct maintenance and repair of firefighting pumps</li>\n</ul>\n<p>This includes a proposal to develop a new unit of competency PUAOPEXXX Conduct maintenance and repair of firefighting pumps. This unit outlines the safety and technical requirements of personnel who conduct this work on firefighting appliance pump systems in the fire and emergency service sector. It places emphasis on:</p>\n<ul>\n<li>Risk mitigation by acknowledging that vehicle mounted, and portable pumps may be larger than domestic versions, this includes higher pressures and volume capacities that increase risk factors.</li>\n<li>Environmental considerations pertaining to foam and foam related product disposal from pump systems and storage tanks.</li>\n<li>Improving consistency amongst workshops and agencies to better support portability of skills and improve workflow during interstate/interservice maintenance operations.</li>\n</ul>\n<p><strong>We Want Your Feedback</strong></p>\n<p>Public Skills Australia is eager to incorporate stakeholder insights into the development process. Consultation will be open from 1 October to 29 October 2024. During this time, we will be holding virtual workshops for public consultation on the proposed draft training products. We invite you to participate in these sessions and share your valuable feedback.</p>\n<p>Workshop Schedule:</p>\n<ul>\n<li><strong>Session 1: </strong>Tuesday 8 October 2024, 11:00am &ndash; 12:00pm AEDT</li>\n<li><strong>Session 2:</strong> Sunday 13 October 2024, 1:00pm &ndash; 2:00pm AEDT</li>\n<li><strong>Session 3:</strong> Wednesday 23 October 2024, 7:00pm &ndash; 8:00pm AEDT</li>\n</ul>\n<p><strong>Documents</strong></p>\n<p>Please use the forms below to register for the workshops. Receive the Draft Training Product pack and specify the unit(s) of competency you wish to provide feedback for.</p>\n<p>Click <a href=\"https://forms.office.com/pages/responsepage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUNEFKS0xDM0xIVElWN1E1SjZOUDFNSUw3MSQlQCN0PWcu&amp;route=shorturl\" target=\"_blank\" rel=\"noopener\">here</a> to register for any of our workshops and/or receive the Draft Training Products pack.</p>\n<p>Upon reviewing the Draft Training Product, please click <a href=\"https://forms.office.com/pages/responsepage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRURTcySEg1RzRZM0VOR01RRjVOSlpITzlLTCQlQCN0PWcu&amp;route=shorturl\" target=\"_blank\" rel=\"noopener\">here</a> to submit your feedback.</p>\n<p>If you prefer to provide your feedback via email, or have any further questions, please contact our Training Product Development team at:</p>\n<p>tpd@publicskillsaustralia.org.au</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>There are 1,211 Government agencies across Australia, the number of public sector agencies varies across each State and Territory in Australia. Within the Government agencies, the top employing occupation is administration, with 274,900 employed across Australia.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Public sector work involves delivering frontline services to the community, including occupations such as education aides, early childhood educators and other allied health professionals. Many of these occupations are supported by other industry JSCs. A much smaller proportion of the State and Territory public sector play a role in working to support the delivery of these frontline services.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>These roles relate to administration, communications, project management, human resources, information technology, policy development and implementation.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Megatrends</h3>\n<p>In 2024, Public Skills Australia identified nine megatrends impacting across the Public Safety and Government industries. A brief overview of the key findings from 2024 are detailed below</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h6>Unclear understanding of workforce skills needs across the public sector</h6>\n<p>Due to diverse workforce planning approaches across the Federal and State/Territory Government workforces, the identification of common and consistent public sector skills needs is an ongoing challenge.</p>\n<h6>Usage of pathway programs to address critical public sector skills needs</h6>\n<p>Public sector traineeship and apprenticeship pathways generally provide broad-based public sector skills and do not provide trainees/apprentices a clear occupational pathway into public sector roles.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>The PSP Public Sector Training Package (PSP Training Package) provides nationally recognised qualifications and competency standards for employees working in the Federal and State/Territory public sector. The PSP Training Package includes a range of qualifications from Certificate II to Advanced Diploma levels, covering a wide variety of public sector roles.</p>\n<p>As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Click <a href=\"https://training.gov.au/Training/Details/PSP\">here</a> to learn more about the PSP Public Sector Training Package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2>References</h2>\n<p>PSP training package enrolment reference: National Centre for Vocational Education Research (NCVER),&nbsp;<em>Total VET students and courses 2022: DataBuilder</em> [data set], 2023, ncver.edu.au, accessed 15 January 2024.</p>\n<h2>Disclaimer</h2>\n<p>This data have been collected through consultation with industry-sector representatives as part of the <em>Workforce Plan 2025: Federal, State and Territory Governments</em>. These figures represent a snapshot in time and are subject to change. Public Skills Australia Limited has made every effort to ensure that the information and data contained in this report are accurate, up to date and have been sourced appropriately. Our organisation will update these figures annually as part of its Workforce Planning function.&nbsp;</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>The Australian Defence Force includes the:<br>- Australian Army<br>- Royal Australian Navy <br>- Royal Australian Air Force.</p>\n<p>The Department of Defence manages many different groups within its organisational structure such as the Defence Science and Technology Group.</p>\n<p>In 2024, Defence published two documents detailing their intended strategic direction, including the National Defence Strategy 2024 and the Defence Workforce Plan 2024. Regarding its workforce, these documents specify several recruitment and retention strategies to minimise Defence’s current strength deficit</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h3>Workforce Megatrends</h3>\n<p>In 2024, Public Skills Australia identified nine megatrends impacting across the Public Safety and Government industries. A brief overview of the key findings from 2024 are detailed below</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h6>Emerging Capabilities</h6>\n<p>The growing importance in Defence to operate within Space and cyber domains are catalysing upskilling and training requirements which may require bespoke qualifications and units of competency.</p>\n<h6>Professionalisation and Upskilling</h6>\n<p>Reducing reliance on contractors and consultants is increasing the needs to upskill the APS workforce and strengthening career pathways into the ADF through contemporary training for ADF Cadets.</p>\n<h6>Royal Commission into Defence and Veterans’ Suicide</h6>\n<p>Training pathways for transitioning Veterans, arising from the Royal Commission into Defence and Veterans’ Suicide.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>The DEF Defence Training Package holds the formal training undertaken by Defence personnel. <br>It is delivered through multiple training streams. As a Jobs and Skills Council, Public Skills Australia plays an important role in maintaining this training package.</p>\n<p>To meet the needs of specific organisations, single units of competency are regularly delivered to satisfy industry needs.</p>\n<p>Public Skills Australia works closely with employees and organisations from the Defence industry-sector, and the Australian Defence College to audit and keep the DEF Defence Training Package up to date.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<p>Click <a href=\"https://training.gov.au/training/details/DEF/summary\">here</a> to learn more about the DEF Defence Training Package.</p>"
+      },
+      {
+        "acf_fc_layout": "BlockWysiwyg",
+        "contentHtml": "<h2>References</h2>\n<h3>Existing workforce strategies</h3>\n<p>Department of Defence, <em>National Defence: Defence Strategic Review</em>, Department of Defence, Australian Government, 2023.</p>\n<p>Department of Home Affairs,&nbsp;<em>Alternative Commonwealth Capabilities for Crisis Response: Discussion Paper &ndash; August 2023</em>, National Emergency Management Agency (NEMA), Australian Government, 2023.</p>\n<p>Joint Standing Committee on Foreign Affairs, Defence and Trade,&nbsp;<em>Inquiry into the Department of Defence Annual Report 2021&ndash;22, Joint Standing Committee on Foreign Affairs</em>, Defence and Trade, Commonwealth of Australia, 2023.</p>\n<h3>Disclaimer</h3>\n<p>This data has been collected through consultation with industry-sector representatives as part of the <em>Workforce Plan 2025: Public Safety</em>. These figures represent a snapshot in time and are subject to change. Public Skills Australia Limited has made every effort to ensure that the information and data contained in this report are accurate, up to date and have been sourced appropriately. Our organisation will update these figures annually as part of its Workforce Planning function.&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "title": "Image",
+    "slug": "/image",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/269662b5-4cfc-4da9-99a0-dbaff3b42f35.png"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/0764047e-8870-4bec-aa30-d4eff779098a.png?width=6000&amp;height=3375"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/23bd916c-a164-47cd-85f9-72054fbaadb4.png"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a4697f18-5940-47df-bae5-900f281a8886"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/334b8a1f-6efc-4f1f-a2bb-5f3684e9607e"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/10e241fd-534a-4b9e-a920-5f5d6d1d9346.png?width=6000&amp;height=3375"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/9003c771-ca34-4449-ad6d-40068824a615"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/f02b12d6-36c9-499a-99bb-f62f24cc7618"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/c40e3c21-6474-4a7e-b378-022c93fbff4c"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/ca9b4b4e-333d-4611-b711-52ebda8d7be8"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/ab03cb1e-03b6-43f6-9673-c9debf9cc63d.png?width=6000&amp;height=3375"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/0fad702e-d6d7-4f02-9b48-d602885d6489"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a4573ebd-0b34-419f-ac41-567470229954"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-beta-website-docker.azurewebsites.net/assets/0a1aabdc-16ae-4392-9900-d14f2cd27cf0"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-beta-website-docker.azurewebsites.net/assets/d904270b-2aa4-4b45-b1c1-32281983721b"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-beta-website-docker.azurewebsites.net/assets/7a477fff-a1ef-4c75-bdcb-67e48f4ea2f1"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-beta-website-docker.azurewebsites.net/assets/23cb6d77-fa0f-4c81-87c7-29267f52411a"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/6e166f8f-7e6f-43aa-b3b7-2581a5ca8852"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/74db37d9-8965-4569-857e-274cbca8d8cc.png?width=6000&amp;height=3375"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/bc42ba43-7cfa-457e-aa40-2a698e1e881b"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/3a496f5d-f9a5-42e9-9e66-0e3245f5ddd8.png"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/55e6068a-3e48-4dcf-9d23-6c1e2262b61c"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/fd355253-51fe-4cb1-add8-cd45f96ac441.png"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/0c21c961-5925-4d34-b45f-a797ab002a05.png?width=6000&amp;height=3375"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/ef96b5ec-10c4-4e77-811d-63f39703326e"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/2157e8c3-0ebc-4a61-945d-ba685cdde7df"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/a609b5df-0b4e-4781-8fde-fe9aff6f5a3e.png"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/42a01c14-1a00-440d-b1f9-c17f072f9e55.png?width=6000&amp;height=3375"
+      },
+      {
+        "acf_fc_layout": "BlockImage",
+        "image": "https://psa-directus-prod.azurewebsites.net/assets/532bd001-156c-4a4b-a547-5fbbaf651119.png"
+      }
+    ]
+  },
+  {
+    "title": "Logos",
+    "slug": "/logos",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Members of Public Skills Australia from this Industry-Sector",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/32982de5-0da0-4539-94b4-abcdb53eeac3",
+            "url": "https://www.anzpaa.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/d8e85c72-e677-412d-8e22-d2d528a193ce",
+            "url": "https://pfa.org.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Members of Public Skills Australia from this industry-sector",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/61d646f0-dbe2-4a6f-861d-6fe9a822409d",
+            "url": "https://alga.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/4566d437-eb61-4c4f-9522-1e6ca54add4b",
+            "url": "http://www.asu.asn.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/99c8922e-d3b2-45ce-a3b4-2fa8a83bc597",
+            "url": "https://usu.org.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Members of Public Skills Australia from this industry-sector",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/8051c413-4025-4879-af28-219d6f25bd80",
+            "url": "https://www.afac.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/e92a0165-c919-4c73-bbfc-0f2b676efa88",
+            "url": "https://www.ufua.asn.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/af2761c1-c1fd-4743-ac44-6de0635034a3",
+            "url": "https://www.ses.org.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Our members",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/f51f2dfb-87e4-42c6-b839-a1536d6fdcfa",
+            "url": "https://www.afac.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/e895ee42-63c2-41b5-9e2e-18b92aafd451",
+            "url": "https://www.anzpaa.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/14ad223b-7dc2-4188-a5af-3dec7a3c6e54",
+            "url": "https://alga.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/6da04925-23db-4fb1-b360-af75db8958f3",
+            "url": "http://www.asu.asn.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/65b0bcad-8ebc-4c3d-b07c-663530d95dc2",
+            "url": "https://www.cpsu.org.au/"
+          },
+          {
+            "image": null,
+            "url": "https://www.ufua.asn.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/3cedf944-9f23-4f6c-9d02-ac53e1c5b2f2",
+            "url": "https://www.defence.gov.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/10ada876-8143-42bf-a6b5-ba4d148ac2cc",
+            "url": "https://pfa.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/4586ed89-ee29-46b2-b468-f384090c8b1e",
+            "url": "https://usu.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/d188699a-49e5-478b-ba9d-ccf66699aea1",
+            "url": "https://dfwa.org.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Members of Public Skills Australia from this industry-sector",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/14ad223b-7dc2-4188-a5af-3dec7a3c6e54",
+            "url": "https://alga.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/8b0dbf79-02b7-4189-aaa6-f8d869f18057",
+            "url": "https://www.cpsu-spsf.asn.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/2625ca26-51ed-4862-8c4d-c7c9728bbff4",
+            "url": "https://usu.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/fb26ecdf-c006-4294-95f9-f15c0db255b9",
+            "url": "http://www.asu.asn.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Members of Public Skills Australia from this industry-sector",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/3cedf944-9f23-4f6c-9d02-ac53e1c5b2f2",
+            "url": "https://www.defence.gov.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/e4ce131a-5252-48e2-ba95-d69e3c01f155",
+            "url": "https://dfwa.org.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Ordinary Members",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/f51f2dfb-87e4-42c6-b839-a1536d6fdcfa",
+            "url": "https://www.afac.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/32982de5-0da0-4539-94b4-abcdb53eeac3",
+            "url": "https://www.anzpaa.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/14ad223b-7dc2-4188-a5af-3dec7a3c6e54",
+            "url": "https://alga.com.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/65b0bcad-8ebc-4c3d-b07c-663530d95dc2",
+            "url": "https://www.cpsu.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/d4628924-4776-4f6c-b5a1-61ea7e5af6a2",
+            "url": "https://dfwa.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/3cedf944-9f23-4f6c-9d02-ac53e1c5b2f2",
+            "url": "https://www.defence.gov.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/10ada876-8143-42bf-a6b5-ba4d148ac2cc",
+            "url": "https://pfa.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/36ccf402-6972-40cb-8c9f-d18e8e019fda",
+            "url": "http://www.asu.asn.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/e92a0165-c919-4c73-bbfc-0f2b676efa88",
+            "url": "https://www.ufua.asn.au/"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLogos",
+        "heading": "Affiliate Members",
+        "logoItems": [
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/af2761c1-c1fd-4743-ac44-6de0635034a3",
+            "url": "https://www.ses.org.au/"
+          },
+          {
+            "image": "https://psa-directus-prod.azurewebsites.net/assets/89c8f166-d4e9-4dc3-8911-8d035b2cfb9b",
+            "url": "https://usu.org.au/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Accordion",
+    "slug": "/accordion",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "Australian Federal Police Diversity and Inclusion Strategy 2023-2026",
+            "contentHtml": "This strategy showcases the AFP’s focus on promoting psychosocial safety in the policing workplace by ensuring that Police Officers feel safe, connected, respected, and engaged."
+          },
+          {
+            "heading": "Australian Federal Police Strategic Workforce Plan 2022-2027",
+            "contentHtml": "The AFP’s Strategic Workforce Plan supports the agency’s commitment to developing and maintaining a skilled and capable workforce, driving innovation, and ensuring the secure delivery of AFP objectives."
+          },
+          {
+            "heading": "Australian Federal Police (including ACT Policing) Corporate Plan 2024-2025",
+            "contentHtml": "The Australian Federal Police (AFP) Corporate Plan emphasises their commitment to protecting Australian livelihoods, and the Commonwealth by remaining agile, innovative, and accountable in an evolving and complex operating environment. The AFP aims to attract and develop a skilled workforce, advance capabilities through responsible exploration of new technologies like artificial intelligence and strengthen relationships with domestic and international partners to enhance effectiveness in addressing criminal threats."
+          },
+          {
+            "heading": "Disability Inclusion Plan - 2023–2027 (TAS)",
+            "contentHtml": "This plan sets out the department’s goals and objectives for building upon and strengthening itself as a disability-confident workplace, and ensuring a supportive, positive and inclusive environment for all."
+          },
+          {
+            "heading": "Keeping You Safe: Victoria Police Strategy 2023-2028",
+            "contentHtml": "The strategy gives an overview of the Victoria Police demographics, along with a 5-year vision that is predominantly focused on being visible in the community and building public trust and positive community perceptions of Police. Promoting a diverse Police workforce that is inclusive of First Nations and other cultures, as well as the LGBTIQ+ community is also a priority area, alongside addressing cybercrime and streamlining internal processes for effective and efficient outcomes."
+          },
+          {
+            "heading": "LGBTIQA+ Action Plan - 2023-2026 (TAS)",
+            "contentHtml": "This Action Plan sets out expectations and goals for a three-year period to strengthen relationships with LGBTIQA+ communities and support employees, volunteers, and others who are a part of this community."
+          },
+          {
+            "heading": "NSW Police Force. Our Focus Our Future: Connected Workforce Connected Communities",
+            "contentHtml": "This plan focuses on cultivating a strong community by ensuring the values and behaviours of the workforce are aligned to that of the organisation, in turn building public trust and perceptions."
+          },
+          {
+            "heading": "NSW Police Force. ‘Be a cop in your Hometown’ initiative",
+            "contentHtml": "The ‘Be a Cop in Your Hometown’ initiative by NSW Police aims to strengthen regional policing by placing officers in their hometowns after graduation. This program enhances community engagement, workforce stability, and trust in law enforcement while promoting long-term sustainability and stronger local relationships."
+          },
+          {
+            "heading": "NT Police. Our Plan 2024-2027 (DRAFT)",
+            "contentHtml": "This document outlines a strategic roadmap to enhance public safety and address evolving crime trends. The plan aims to create a more inclusive Police force reflective of the Northern Territory’s diverse demographics."
+          },
+          {
+            "heading": "Queensland Police. Strategic Plan and Strategic Workforce Plan 2024-2028",
+            "contentHtml": "This Strategic Plan sets out an overview of the objectives for the Queensland Police Service for the next four years, focusing primarily on an effective workforce that efficiently delivers outcomes for the community."
+          },
+          {
+            "heading": "South Australia Police. 2030 Strategy - Safer Communities",
+            "contentHtml": "This strategy emphasises the importance of having a robust and aligned workforce to ensure community needs are met, being guided by five principles."
+          },
+          {
+            "heading": "WA Police Force. Agency Capability Review",
+            "contentHtml": "The WA Police Force Agency Capability Review (2023-24) calls for a clear long-term strategy to enhance operational effectiveness, workforce planning, and interagency collaboration."
+          },
+          {
+            "heading": "WA Police Strategic Framework",
+            "contentHtml": "This strategic framework outlines the values, functions, priorities, and operational fundamentals that are integral to how WA Police conduct themselves whilst undertaking their core duties."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Government Initiatives",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2024 Core Skills Occupation List – Key Findings Report",
+            "contentHtml": "The Core Skills Occupation List (CSOL) provides labour market analysis that informs the identification of occupations that are considered appropriate for employer-sponsored temporary migration through the Core Skills Stream of the Skills in Demand (SID) Visa."
+          },
+          {
+            "heading": "Australian Cyber Security Strategy",
+            "contentHtml": "The 2023 - 2030 Australian Cyber Security Strategy serves as a roadmap to achieve the Australian Government’s vision of becoming a world leader in cyber security by 2030."
+          },
+          {
+            "heading": "Better Together - The Jobs and Skills Report 2024",
+            "contentHtml": "As part of JSA’s mandated obligations to provide insight on the Australian labour market and advice on workforce needs and priorities, this report details evidence aligned to five strategic pillars to enable a more prosperous economic future. Specifically, this report outlines JSA’s key current and emerging datasets that provide useful insight on the intricacies of Australia’s labour market. This includes, but is not limited to, insight on the current VET workforce, First Nations employment participation, regional workforce investment, emerging roles and employment projections."
+          },
+          {
+            "heading": "Closing the Gap",
+            "contentHtml": "The Closing the Gap Report informs the development of recruitment, health and social programs specific to First Nations peoples. These programs are deployed across the Public Safety and Government industry-sectors."
+          },
+          {
+            "heading": "Occupation Standard Classification for Australia (OSCA)",
+            "contentHtml": "Formally known as ANZSCO, the OSCA is a standardised framework for classifying occupations within Australia. As part of the replacement process from ANZSCO to OSCA in 2024, the ABS announced that OSCA will undergo regular updates in accordance with the OSCA Maintenance Strategy."
+          },
+          {
+            "heading": "Occupational Shortage List (OSL)",
+            "contentHtml": "The OSL (formerly the Skills Priority List) offers an annual point-in-time review of the status of Australian occupations. Specifically, the OSL reports on whether occupations (at the four-digit and six-digit ANZSCO level) are experiencing shortages nationally and for each State/Territory in regional or metropolitan areas."
+          },
+          {
+            "heading": "The Australian Government’s Strategic Priorities",
+            "contentHtml": "The Federal Government’s strategic priorities provide a four-year (2022 - 2026) policy direction for the Australian Public Service (APS) and sets targets across key areas. These key areas include the economy, public health and climate change."
+          },
+          {
+            "heading": "The Clean Energy Generation: Workforce needs for a Net Zero Economy",
+            "contentHtml": "This series of reports considers emerging and future clean-energy workforce requirements as Australia strives to reach net-zero emissions by 2050. JSA’s preliminary modelling estimates Australia’s clean-energy workforce will need to grow from the current 53,000 workers to 84,000 workers by 2050."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "Aboriginal Employment, Retention & Professional Development Strategy 2024–2029",
+            "contentHtml": "This strategy was finalised in 2024 and aims to recognise and support the unique contributions of Aboriginal staff within South Australia’s correctional system. It focuses on improving employment outcomes through culturally safe practices, professional development, and retention initiatives. The strategy is part of a broader commitment to reducing incarceration rates among Aboriginal people and fostering a culturally inclusive workforce."
+          },
+          {
+            "heading": "General Skilled Migration Program Boost",
+            "contentHtml": "The Northern Territory’s General Skilled Migration (GSM) program supports the nomination of up to 1,600 overseas skilled workers annually across sectors including health, science, finance, agriculture, construction, IT, and hospitality. It offers both provisional and permanent visa pathways and aims to contribute $1.4 billion to the Territory’s economy by 2027. The initiative is part of the NT’s broader strategy to grow a $40 billion economy by 2030 and includes tools like WorkerConnect to match employers with skilled migrants."
+          },
+          {
+            "heading": "Government of South Australia Department for Correctional Services, Aboriginal Strategic Framework 2020-2025",
+            "contentHtml": "The Aboriginal Strategic Framework aims to improve outcomes for Aboriginal people in the correctional system. It focuses on integrating Aboriginal cultural practices into services, enhancing employee cultural competence through training, and strengthening community partnerships for rehabilitation and reintegration. The framework aims to reduce Aboriginal overrepresentation in the justice system and improve cultural safety and support."
+          },
+          {
+            "heading": "Government of South Australia, Department for Correctional Services, Safe at Work 2024-2026",
+            "contentHtml": "The 'Safe at Work' initiative is a key priority within the South Australian Department for Correctional Services (DCS) Strategic Plan 2022–2026, focusing on the safety of employees, partners, and individuals under DCS supervision. This initiative complements other departmental priorities, such as the '20by26' strategy, which aims to reduce reoffending by 20 per cent by 2026, and efforts to address the overrepresentation of Aboriginal people in the correctional system. The 'Safe at Work' initiative underscores DCS’s commitment to fostering a secure and supportive environment for all stakeholders."
+          },
+          {
+            "heading": "Government of South Australia, Office of the Commissioner for Public Sector Employment, Anti-Racism Action Plan 2023-2028",
+            "contentHtml": "The South Australian Public Sector Anti-Racism Action Plan 2023–2028 outlines five key priorities: enabling employees to act against racism; embedding anti-racism into leadership and decision-making; strengthening inclusive and safe workplaces; ensuring communications reinforce the commitment to anti-racism; and maintaining accountability for anti-racism efforts. These priorities aim to proactively eliminate racial inequity and foster inclusion within the public sector."
+          },
+          {
+            "heading": "NT Correctional Services Organisational Review – Executive Summary and Recommendations",
+            "contentHtml": "This review presents 481 recommendations to improve NT Correctional Services, including workforce development, leadership, and cultural safety. It identifies high attrition rates, unscheduled leave, and gaps in Aboriginal workforce representation, and proposes targeted reforms to address these issues."
+          },
+          {
+            "heading": "Prison Workforce Strategy 2024–2034",
+            "contentHtml": "This 10-year strategy outlines a comprehensive plan to build a skilled, diverse, and culturally safe prison workforce. It includes initiatives for recruitment, retention, professional development, and leadership pathways, with a strong focus on Aboriginal workforce participation and wellbeing."
+          },
+          {
+            "heading": "Queensland Corrective Services Mental Health Strategy 2022-2027",
+            "contentHtml": "The Queensland Corrective Services (QCS) Mental Health Strategy 2022–2027 aims to improve mental health support for individuals in custody by enhancing existing initiatives and establishing new ones. It emphasises case management and the development of health-focused facilities, like the Southern Queensland Correctional Precinct Stage 2, to elevate correctional mental health care standards. The strategy seeks to create a system that recognises and supports all individuals in custody."
+          },
+          {
+            "heading": "Queensland Corrective Services, Innovate Reconciliation Action Plan July 2024 - July 2026",
+            "contentHtml": "The Queensland Corrective Services (QCS) Innovate Reconciliation Action Plan (RAP) aims to reduce the number of First Nations people in custody by fostering respect, equity, and equality. It focuses on building relationships with First Nations communities, ensuring culturally safe environments, increasing workforce representation, and maintaining governance and accountability through a RAP Working Group."
+          },
+          {
+            "heading": "Recruitment and Retention of Aboriginal Staff – Report to Parliament",
+            "contentHtml": "This report investigates the barriers to recruiting and retaining Aboriginal staff in WA’s correctional system. It highlights high attrition rates, lack of cultural safety, and limited career progression, and recommends targeted incentives, mentorship, and inclusive workplace reforms."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Government Initiatives",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2024 Core Skills Occupation List – Key Findings Report",
+            "contentHtml": "The Core Skills Occupation List (CSOL) provides labour market analysis that informs the identification of occupations that are considered appropriate for employer-sponsored temporary migration through the Core Skills Stream of the Skills in Demand (SID) Visa."
+          },
+          {
+            "heading": "Australian Cyber Security Strategy",
+            "contentHtml": "The 2023 - 2030 Australian Cyber Security Strategy serves as a roadmap to achieve the Australian Government’s vision of becoming a world leader in cyber security by 2030."
+          },
+          {
+            "heading": "Better Together - The Jobs and Skills Report 2024",
+            "contentHtml": "As part of JSA’s mandated obligations to provide insight on the Australian labour market and advice on workforce needs and priorities, this report details evidence aligned to five strategic pillars to enable a more prosperous economic future. Specifically, this report outlines JSA’s key current and emerging datasets that provide useful insight on the intricacies of Australia’s labour market. This includes, but is not limited to, insight on the current VET workforce, First Nations employment participation, regional workforce investment, emerging roles and employment projections."
+          },
+          {
+            "heading": "Closing the Gap",
+            "contentHtml": "The Closing the Gap Report informs the development of recruitment, health and social programs specific to First Nations peoples. These programs are deployed across the Public Safety and Government industry-sectors."
+          },
+          {
+            "heading": "Occupation Standard Classification for Australia (OSCA)",
+            "contentHtml": "Formally known as ANZSCO, the OSCA is a standardised framework for classifying occupations within Australia. As part of the replacement process from ANZSCO to OSCA in 2024, the ABS announced that OSCA will undergo regular updates in accordance with the OSCA Maintenance Strategy."
+          },
+          {
+            "heading": "Occupational Shortage List (OSL)",
+            "contentHtml": "The OSL (formerly the Skills Priority List) offers an annual point-in-time review of the status of Australian occupations. Specifically, the OSL reports on whether occupations (at the four-digit and six-digit ANZSCO level) are experiencing shortages nationally and for each State/Territory in regional or metropolitan areas."
+          },
+          {
+            "heading": "The Australian Government’s Strategic Priorities",
+            "contentHtml": "The Federal Government’s strategic priorities provide a four-year (2022 - 2026) policy direction for the Australian Public Service (APS) and sets targets across key areas. These key areas include the economy, public health and climate change."
+          },
+          {
+            "heading": "The Clean Energy Generation: Workforce needs for a Net Zero Economy",
+            "contentHtml": "This series of reports considers emerging and future clean-energy workforce requirements as Australia strives to reach net-zero emissions by 2050. JSA’s preliminary modelling estimates Australia’s clean-energy workforce will need to grow from the current 53,000 workers to 84,000 workers by 2050."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Subcommittees",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "Public Safety Subcommittee",
+            "contentHtml": "**Chair: Graeme Murphy AM**\n\n• Australia New Zealand Policing Advisory Agency (ANZPAA)\n\n• Department of Defence\n\n• Australasian Fire and Emergency Services Authorities Council (AFAC)\n\n• Australian Council of States and Territory Emergency Services (ACSES)\n\n• Surf Life Saving Australia (SLSA)\n\n• Police Federation of Australia (PFA)\n\n• United Firefighters Union Australia (UFUA)\n\n• Public Sector Association New South Wales - SPSF"
+          },
+          {
+            "heading": "Correctional Services Subcommittee",
+            "contentHtml": "**Chair: TBC**\n\n• Corrective Services NSW\n\n• ACT Corrective Services\n\n• Department of Corrections - Northern Territory Government\n\n• SERCO\n\n• GEO Group\n\n• Unions Northern Territory\n\n• WA Prison Officers Union\n\n• Public Service Association of South Australia\n\n• Queensland Corrective Services\n\n• Victorian Corrective Services\n\n• Community and Public Sector Union Victoria - SPSF\n\n• Department of Justice and Community Safety Victoria\n\n• Public Service Association of South Australia - SPSF\n\n• Public Service Association of New South Wales - SPSF"
+          },
+          {
+            "heading": "Government Subcommittee",
+            "contentHtml": "**Chair: TBC**\n\n• Local Government Association of Queensland (QLD LGA)\n\n• Local Government NSW (LGNSW)\n\n• Department of Defence\n\n• Western Australia Local Government Association (WALGA)\n\n• Community and Public Sector Union - Victoria Branch\n\n• Australian Services Union (ASU)\n\n• Community and Public Sector Union - Public Service Association of New South Wales"
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2023 Local Government Workforce Shortages Survey in Western Australia",
+            "contentHtml": "The 2023 Local Government Workforce Shortage Survey in Western Australia, conducted by Local Government Professionals WA and the McCusker Centre UWA, reveals significant recruitment and retention challenges. Key issues include skills shortages, geographic barriers, and competition from other industry-sectors. Effective strategies include using social media for recruitment and employee reskilling. The survey recommends building a resilient workforce through flexible and targeted training to support Local Governments in addressing workforce shortages and enhancing community service delivery."
+          },
+          {
+            "heading": "2022 Local Government Workforce Skills and Capability Survey: Final Report",
+            "contentHtml": "The 2022 Local Government and Workforce Skills and Capability Survey: Final Report provides insights into Local Government workforce demographics and qualification profiles. The survey also highlights workforce challenges, particularly skills and occupational shortages, and outlines strategies to address them."
+          },
+          {
+            "heading": "National Housing Accord",
+            "contentHtml": "The Commonwealth, as well as all State/Territory governments agreed to build 1.2 million homes, over a five-year period, commencing in mid-2024. It is a component of the government’s housing agenda to support social housing and additional support for renters and homebuyers. The National Cabinet has endorsed the Commonwealth by providing $3.5 billion in payments to state, territory and local governments to support the delivery of this accord."
+          },
+          {
+            "heading": "The Inquiry into Local Government Sustainability",
+            "contentHtml": "This inquiry is currently being undertaken federally by a House of Representatives Committee. The Inquiry into Local Government Sustainability gathered feedback from Local Government stakeholders on issues such as: \n\n- Financial sustainability and funding \n- Evolving infrastructure and service delivery obligations \n- Structural barriers affecting Local Government workers and services \n- Trends in attracting and retaining skilled workers, including labour hire impacts."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Government Initiatives",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2024 Core Skills Occupation List – Key Findings Report",
+            "contentHtml": "The Core Skills Occupation List (CSOL) provides labour market analysis \nthat informs the identification of occupations that are considered \nappropriate for employer-sponsored temporary migration through \nthe Core Skills Stream of the Skills in Demand (SID) Visa."
+          },
+          {
+            "heading": "Australian Cyber Security Strategy",
+            "contentHtml": "The 2023 - 2030 Australian Cyber Security Strategy serves as a roadmap to achieve the Australian Government’s vision of becoming a world leader in cyber security by 2030."
+          },
+          {
+            "heading": "Better Together - The Jobs and Skills Report 2024",
+            "contentHtml": "As part of JSA’s mandated obligations to provide insight on the Australian labour market and advice on workforce needs and priorities, this report details evidence aligned to five strategic pillars to enable a more prosperous economic future. Specifically, this report outlines JSA’s key current and emerging datasets that provide useful insight on the intricacies of Australia’s labour market. This includes, but is not limited to, insight on the current VET workforce, First Nations employment participation, regional workforce investment, emerging roles and employment projections."
+          },
+          {
+            "heading": "Closing the Gap",
+            "contentHtml": "The Closing the Gap Report informs the development of recruitment, health and social programs specific to First Nations peoples. These programs are deployed across the Public Safety and Government industry-sectors."
+          },
+          {
+            "heading": "Occupation Standard Classification for Australia (OSCA)",
+            "contentHtml": "Formally known as ANZSCO, the OSCA is a standardised framework for classifying occupations within Australia. As part of the replacement process from ANZSCO to OSCA in 2024, the ABS announced that OSCA will undergo regular updates in accordance with the OSCA Maintenance Strategy."
+          },
+          {
+            "heading": "Occupational Shortage List (OSL)",
+            "contentHtml": "The OSL (formerly the Skills Priority List) offers an annual point-in-time review of the status of Australian occupations. Specifically, the OSL reports on whether occupations (at the four-digit and six-digit ANZSCO level) are experiencing shortages nationally and for each State/Territory in regional or metropolitan areas."
+          },
+          {
+            "heading": "The Australian Government’s Strategic Priorities",
+            "contentHtml": "The Federal Government’s strategic priorities provide a four-year (2022 - 2026) policy direction for the Australian Public Service (APS) and sets targets across key areas. These key areas include the economy, public health and climate change."
+          },
+          {
+            "heading": "The Clean Energy Generation: Workforce needs for a Net Zero Economy",
+            "contentHtml": "This series of reports considers emerging and future clean-energy workforce requirements as Australia strives to reach net-zero emissions by 2050. JSA’s preliminary modelling estimates Australia’s clean-energy workforce will need to grow from the current 53,000 workers to 84,000 workers by 2050."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Frequently Asked Questions",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "How do I establish a working relationship with Public Skills Australia?",
+            "contentHtml": "Organisations can establish a working relationship with Public Skills Australia by joining a relevant subcommittee or network. Visit Subcommittees and Networks to find out more about our governance groups.  \n\nGet in touch with us via the contact form on our website or subscribe to our mailing list to find out more about our upcoming projects.\n\nWe also attend relevant conferences across the country. Follow us on LinkedIn to find out where you can see us next."
+          },
+          {
+            "heading": "How do I subscribe to receive updates?",
+            "contentHtml": "We regularly provide updates on our projects and published reports through our membership portal. By signing up to the Public Skills Australia membership platform, you can register your interest in our different projects and receive updates on our work. This platform will be launched in 2025.  \n\nIn the meantime, follow us on LinkedIn and stay up to date with all things Public Skills Australia."
+          },
+          {
+            "heading": "Which training packages are Public Skills Australia responsible for? ",
+            "contentHtml": "Public Skills Australia is responsible for reviewing and maintaining the following training packages: \n\n- • CSC Correctional Services\n- • DEF Defence \n- • LGA Local Government\n- • POL Police\n- • PSP Public Sector\n- • PUA Public Safety"
+          },
+          {
+            "heading": "What is Workforce Planning?",
+            "contentHtml": "One of Public Skills Australia’s core functions as a JSC, Workforce Planning aims to understand current and future workforce challenges and skills gaps to develop strategies in line with industry needs. \n\nEach year, the Workforce Planning team produces a unique workforce plan for each industry-sector. The key findings from the workforce plans inform the other core JSC functions, including Training Product Development and Industry Stewardship."
+          },
+          {
+            "heading": "Why is Workforce Planning important? ",
+            "contentHtml": "Workforce Planning provides strategic direction for Public Skills Australia’s other core functions as a JSC. These are: \n\n\n- •\tTraining Product Development \n- •\tImplementation, Promotion and Monitoring\n- •\tIndustry Stewardship functions. \n\n\nThe identified skills gaps and workforce challenges allow Public Skills Australia to develop more targeted training products and share knowledge with industry."
+          },
+          {
+            "heading": "What methodology does Workforce Planning use?",
+            "contentHtml": "The Workforce Planning team used a mix of industry and federal datasets, and industry consultation to develop the workforce plans. Data from Jobs and Skills Australia, the Australian Bureau of Statistics and annual reports were used to create an accurate picture of the Public Safety and Government industry in 2024."
+          },
+          {
+            "heading": "How have the Workforce Plans been implemented? ",
+            "contentHtml": "The key findings from the workforce plans have enabled Public Skills Australia to provide critical feedback to the Australian Bureau of Statistics on behalf of our industry to inform the Australia and New Zealand Standard Classification of Occupations (ANZSCO). \n\nAdditionally, the identified skills gaps have been used to provide feedback on the national Skills Priority List that is published by Jobs and Skills Australia."
+          },
+          {
+            "heading": "How can I get involved with the next workforce plans?",
+            "contentHtml": "Public Skills Australia develops workforce plans annually in line with our Grant Agreement with DEWR. \n \nConsultation with industry is conducted year-round, so get in touch to provide your input for the next workforce plans."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "AFAC Strategic Directions for Fire and Emergency Services",
+            "contentHtml": "The Strategic Directions provide the Fire and Emergency Services industry-sector with a shared vision and a joint commitment to enhanced community resilience. It informs, clarifies intent and identifies the actions required across AFAC agencies, engaging high-level officials and Government Ministers. The six key areas of focus for the sector point to the collective priorities identified by organisations across the country, which are supporting resilient communities through risk reduction, providing a trusted response, using credible and timely information and data, fostering a safe, capable and diverse workforce informed by knowledge innovation and research, and effective and transparent governance."
+          },
+          {
+            "heading": "AFAC Strategic Plan 2023-2027",
+            "contentHtml": "The AFAC Strategic Plan 2023 - 2027 highlights the need for a national capability to address two challenges: the changing climate and the evolving community expectations of Emergency Services capacity in response to crises. The report identifies specific workforce challenges, including an aging workforce, a need to improve diversity, and an increased demand for workplace flexibility. These challenges are addressed within the context of the increasing frequency, scale and severity of disasters that require an emergency response."
+          },
+          {
+            "heading": "Champions of Change Coalition - Fire and Emergency",
+            "contentHtml": "The Champions of Change Coalition is an internationally recognised strategy to improve gender equality and the representation of women in the workforce and develop respectful and inclusive workplaces. The 2022 progress report identifies two priority areas to improve gender equality outcomes in this industry-sector: \n- growing the talent pool, through recruitment, retention and promotion of women\n- building better buy-in for gender equality by fostering respect, addressing sexual harassment, and developing workplace responses to domestic and family violence."
+          },
+          {
+            "heading": "National Strategy for Volunteering 2023-2033",
+            "contentHtml": "The National Strategy for Volunteering is a 10-year plan, setting a strategic framework for more sustainable volunteering. The plan includes a range of strategic objectives, focus areas and aims that seek to provide a stronger rationale for the value of volunteering."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Government Initiatives",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2024 Core Skills Occupation List – Key Findings Report",
+            "contentHtml": "The Core Skills Occupation List (CSOL) provides labour market analysis that informs the identification of occupations that are considered appropriate for employer-sponsored temporary migration through the Core Skills Stream of the Skills in Demand (SID) Visa."
+          },
+          {
+            "heading": "Australian Cyber Security Strategy",
+            "contentHtml": "The 2023 - 2030 Australian Cyber Security Strategy serves as a roadmap to achieve the Australian Government’s vision of becoming a world leader in cyber security by 2030."
+          },
+          {
+            "heading": "Better Together - The Jobs and Skills Report 2024",
+            "contentHtml": "As part of JSA’s mandated obligations to provide insight on the Australian labour market and advice on workforce needs and priorities, this report details evidence aligned to five strategic pillars to enable a more prosperous economic future. Specifically, this report outlines JSA’s key current and emerging datasets that provide useful insight on the intricacies of Australia’s labour market. This includes, but is not limited to, insight on the current VET workforce, First Nations employment participation, regional workforce investment, emerging roles and employment projections."
+          },
+          {
+            "heading": "Closing the Gap",
+            "contentHtml": "The Closing the Gap Report informs the development of recruitment, health and social programs specific to First Nations peoples. These programs are deployed across the Public Safety and Government industry-sectors."
+          },
+          {
+            "heading": "Occupation Standard Classification for Australia (OSCA)",
+            "contentHtml": "Formally known as ANZSCO, the OSCA is a standardised framework for classifying occupations within Australia. As part of the replacement process from ANZSCO to OSCA in 2024, the ABS announced that OSCA will undergo regular updates in accordance with the OSCA Maintenance Strategy."
+          },
+          {
+            "heading": "Occupational Shortage List (OSL)",
+            "contentHtml": "The OSL (formerly the Skills Priority List) offers an annual point-in-time review of the status of Australian occupations. Specifically, the OSL reports on whether occupations (at the four-digit and six-digit ANZSCO level) are experiencing shortages nationally and for each State/Territory in regional or metropolitan areas."
+          },
+          {
+            "heading": "The Australian Government’s Strategic Priorities",
+            "contentHtml": "The Federal Government’s strategic priorities provide a four-year (2022 - 2026) policy direction for the Australian Public Service (APS) and sets targets across key areas. These key areas include the economy, public health and climate change."
+          },
+          {
+            "heading": "The Clean Energy Generation: Workforce needs for a Net Zero Economy",
+            "contentHtml": "This series of reports considers emerging and future clean-energy workforce requirements as Australia strives to reach net-zero emissions by 2050. JSA’s preliminary modelling estimates Australia’s clean-energy workforce will need to grow from the current 53,000 workers to 84,000 workers by 2050."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "APS Location Framework",
+            "contentHtml": "The APS Location Framework is a guide that helps agencies use ‘workforce location’ to attract and retain skilled employees. It provides tools for decision-making and managing a distributed workforce."
+          },
+          {
+            "heading": "APS Strategic Commissioning Framework",
+            "contentHtml": "The APS Strategic Commissioning Framework provides clear guidelines regarding moving APS agencies away from outsourcing work that is deemed to be the primary function of the APS or associated agency."
+          },
+          {
+            "heading": "The 1000 NSW Public Sector Apprentices and Trainees Program",
+            "contentHtml": "The 1000 NSW Public Sector Apprentices and Trainees Program aims to enhance capacity and position the public sector as a leader in employing apprentices and trainees while addressing skills shortages."
+          },
+          {
+            "heading": "Australian Government Apprenticeship Program (AGAP)",
+            "contentHtml": "A 12-month apprenticeship program was developed by the Department \nof Employment and Workplace Relations (DEWR) to support participants \nwith on-the-job learning opportunities within the APS, skills and career \nprogression, and the provision of a *Diploma of Government*."
+          },
+          {
+            "heading": "Australian Public Service Commission State of the Service Report",
+            "contentHtml": "The *2023-2024 State of the Service Report* is collated by the Australian Public Service Commission in conjunction with APS Agencies to demonstrate how the APS supports the Australian Government, Parliament and community by delivering government initiatives within the APS Values framework."
+          },
+          {
+            "heading": "Australian Public Service Reform Annual Progress Report 2024",
+            "contentHtml": "The APS Reform program endeavours to strengthens the public service, enabling it to adapt to changes in public needs and expectations of government. The *Annual Progress Report 2024* provides an update on the reform initiatives."
+          },
+          {
+            "heading": "Grow Your Own Regional Workforce Program",
+            "contentHtml": "The Queensland Government’s 2022-2025 Action Plan, *Good People, Good Jobs: Queensland Workforce Strategy 2022-2032*, includes the ‘Grow Your Own Regional Workforce Program.’ This initiative helps local stakeholders identify workforce needs and plan for the skills required in their sectors to support community and economic goals."
+          },
+          {
+            "heading": "NSW Public Service Commission Strategic Workforce Planning Framework",
+            "contentHtml": "The NSW Public Service Commission Strategic Workforce Planning Framework provides a viable and values-driven approach to strategic workforce planning. The framework is intended to be used across all areas of a NSW public sector agency to ensure that the NSW public sector workforce is agile, capable and can effectively respond to digital advancements, community expectations and demographic changes."
+          },
+          {
+            "heading": "NSW Skills Plan 2024-28: Building Skills and Shaping Success",
+            "contentHtml": "The *NSW Skills Plan 2024-28*, aligned with the Department of Education’s ‘Our Plan for Public Education’, aims to strengthen the VET system and prepare the workforce for future challenges. \nIt focuses on essential skills in industries facing shortages, such as construction, digital, cyber, and energy transition."
+          },
+          {
+            "heading": "Queensland Government Workforce Planning: Agency Requirements",
+            "contentHtml": "The Queensland Public Sector Commission outlines what agencies in the Queensland Public Service need to do to meet their strategic workforce planning obligations. The agency requirements provide support and resources, while also enabling the agencies to build strategic workforce plans that also line up with both sector and agency strategic objectives, and any legislative requirements."
+          },
+          {
+            "heading": "Queensland Public Sector Commission Even Better Public Sector for Queensland Strategy",
+            "contentHtml": "The ‘*Even Better Public Sector for Queensland*’ Strategy provides guidance and support to enabling the sector to deliver advice and services to a high standard, with a series of goals to be achieved in a 5-year period to provide leadership and stewardship to the Queensland Public Service. The overall \naim is for a strong foundation across agencies to be implemented to facilitate ongoing success in the Queensland Public Service."
+          },
+          {
+            "heading": "SA Office of the Commissioner for Public Employment State of the Service Report 2024",
+            "contentHtml": "The State of the Sector Report is provided to the Parliament of South Australia annually, to provide information as to how the South Australian public sector is operating under the public sector principles \nand outlines actions to support the public sector principles described in the Public Sector Act 2009."
+          },
+          {
+            "heading": "The Northern Territory Public Sector (NTPS) Workforce Strategy",
+            "contentHtml": "The *NTPS Workforce Strategy 2021-2026* aims to enhance the public sector's ability to deliver policies and services effectively. It focuses on building workforce capability with an emphasis on adaptability \nand resilience."
+          },
+          {
+            "heading": "Victorian Cyber Internship Program",
+            "contentHtml": "The Cyber Internship Program has been rolled out in Victoria as a 6-month paid internship program and provides a pathway for successful applicants to gain vital skills in addition to hands-on experience in the field. Interns additionally gain a *Certificate IV in Cyber Security* upon successful completion of the program, and the opportunity to move into cyber-security roles within the Victorian Public Service (VPS)."
+          },
+          {
+            "heading": "WA Public Sector Commission 2023-24 Annual Report",
+            "contentHtml": "The *2023-24 WA Public Sector Commission Annual Report* outlines the current strategic plan for the WA Public Sector for the next 4 years. Key areas of focus are attraction, recruitment, retention and selection of the workforce."
+          },
+          {
+            "heading": "WA Public Sector Commission School-Based Traineeship Program",
+            "contentHtml": "The School Based Traineeship Program is an entry-level pathway for high school students and provides them with real world experience working in participating government agencies across the Western Australian public sector over an 18-month period, as well as completion of a *Certificate II in Government*."
+          },
+          {
+            "heading": "Youth Employment Pathways",
+            "contentHtml": "Under the umbrella of the South Australian public sector jobs portal ‘I WORK FOR SA’, the South Australian public sector has created an additional pathway for youth employment in the public sector with the intention to create opportunities, provide support and facilitate an adaptable and diverse public sector workforce."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Government Initiatives",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2024 Core Skills Occupation List – Key Findings Report",
+            "contentHtml": "The Core Skills Occupation List (CSOL) provides labour market analysis that informs the identification of occupations that are considered appropriate for employer-sponsored temporary migration through \nthe Core Skills Stream of the Skills in Demand (SID) Visa."
+          },
+          {
+            "heading": "Australian Cyber Security Strategy",
+            "contentHtml": "The *2023 - 2030 Australian Cyber Security Strategy* serves as a roadmap to achieve the Australian Government’s vision of becoming a world leader in cyber security by 2030."
+          },
+          {
+            "heading": "Better Together - The Jobs and Skills Report 2024",
+            "contentHtml": "As part of JSA’s mandated obligations to provide insight on the Australian labour market and advice on workforce needs and priorities, this report details evidence aligned to five strategic pillars to enable a \nmore prosperous economic future. Specifically, this report outlines JSA’s key current and emerging datasets that provide useful insight on the intricacies of Australia’s labour market. This includes, but is not limited to, insight on the current VET workforce, First Nations employment participation, regional workforce investment, emerging roles and employment projections."
+          },
+          {
+            "heading": "Closing the Gap",
+            "contentHtml": "The Closing the Gap Report informs the development of recruitment, health and social programs specific to First Nations peoples. These programs are deployed across the Public Safety and Government industry-sectors."
+          },
+          {
+            "heading": "Occupation Standard Classification for Australia (OSCA)",
+            "contentHtml": "Formally known as ANZSCO, the OSCA is a standardised framework for classifying occupations within Australia. As part of the replacement process from ANZSCO to OSCA in 2024, the ABS announced that \nOSCA will undergo regular updates in accordance with the OSCA Maintenance Strategy."
+          },
+          {
+            "heading": "Occupational Shortage List (OSL)",
+            "contentHtml": "The OSL (formerly the Skills Priority List) offers an annual point-in-time review of the status of Australian occupations. Specifically, the OSL reports on whether occupations (at the four-digit and six-digit ANZSCO level) are experiencing shortages nationally and for each State and Territory in regional or metropolitan areas."
+          },
+          {
+            "heading": "The Australian Government’s Strategic Priorities",
+            "contentHtml": "The Federal Government’s strategic priorities provide a four-year (2022 - 2026) policy direction for the Australian Public Service (APS) and sets targets across key areas. These key areas include the economy, public health and climate change."
+          },
+          {
+            "heading": "The Clean Energy Generation: Workforce needs for a Net Zero Economy",
+            "contentHtml": "This series of reports considers emerging and future clean-energy workforce requirements as Australia strives to reach net-zero emissions by 2050. JSA’s preliminary modelling estimates Australia’s clean-energy workforce will need to grow from the current 53,000 workers to 84,000 workers by 2050."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "Australian Government 2024 Defence Workforce Plan",
+            "contentHtml": "The 2024 Defence Workforce Plan outlines Australia’s strategy to expand and enhance the Australian Defence Force (ADF) and Australian Public Service (APS) workforce, aiming to grow the permanent ADF workforce to 69,000 by the early 2030s and the combined ADF and APS workforce to around 100,000 by 2040. Key initiatives include extending the Continuation Bonus, increasing Operational Reserves, improving mental health support, and aligning workforce growth with capability needs across various domains. The plan also emphasizes cultural improvements and significant financial investments, with $5.7 billion allocated over the next four years and $50.3 billion over the next decade"
+          },
+          {
+            "heading": "Australian Government Defence Industry Development Strategy",
+            "contentHtml": "The Defence Industry Development Strategy outlines Australia’s plan to build a sovereign defence industrial base to enhance national security and military preparedness. It emphasises the need for a robust industrial structure, identifies seven Sovereign Defence Industrial Priorities (SDIPs), and details initiatives for industry growth, workforce development, innovation, and exports. The strategy also highlights the importance of security measures to protect sensitive technologies and information."
+          },
+          {
+            "heading": "Australian Government Integrated Investment Program",
+            "contentHtml": "The Integrated Investment Program outlines the Defence capability investment priorities, including, but not limited to: Undersea Warfare, Maritime capabilities, Space and Cyber, Targeting and Long-Range Strike, and Missile Defence. The Integrated Investment Program includes developing a skilled workforce in identified investment areas."
+          },
+          {
+            "heading": "Australian Government National Defence Strategy",
+            "contentHtml": "The National Defence Strategy outlines the Government’s approach to Australia’s National Defence risks. Six priorities are highlighted in the strategy including: \n- Acquisition of nuclear-powered submarines through AUKUS  \n- Developing long-range capabilities\n- Improvements to bases\n- Improving the growth and retention of the workforce \n- Lifting Australia’s capacity to rapidly translate disruptive new technologies into ADF capability \n- Prioritising international partnerships"
+          },
+          {
+            "heading": "Australian Government National Defence: Defence Strategic Review",
+            "contentHtml": "The National Defence: Defence Strategic Review 2023 outlines the Defence strategy to maintain national sovereignty, security and prosperity. One of the obstacles to achieving this overarching goal is recruitment. This is currently being addressed with the Total Workforce Model which, in part, seeks to better utilise ADF Reserves within operational roles. The review further recommends reintroduction of the Ready Reserve Scheme, which seeks to increase recruitment of young people into operational roles without full commitment to ADF membership."
+          },
+          {
+            "heading": "Australian Government Response to the Final Report of the Royal Commission into Defence and Veteran Suicide",
+            "contentHtml": "The Australian Government Response to the Final Report of the Royal Commission into Defence and Veteran Suicide commits to addressing systemic issues and risk factors related to suicide among current and former ADF members, agreeing to most of the Royal Commission’s 122 recommendations. \n\nKey reforms focus on mental health and wellbeing, cultural and structural changes, workforce and capability improvements, and enhanced governance and accountability, with a new statutory entity established to oversee implementation and ensure ongoing reform."
+          },
+          {
+            "heading": "Portfolio Budget Statements 2024-25",
+            "contentHtml": "The Portfolio Budget Statements 2024-25 for the Defence Portfolio outlines a strategic focus on enhancing Australia’s defence capabilities through significant investments in nuclear-powered submarines, guided weapons, and northern bases, with a total resourcing of $58.1 billion. It emphasises workforce growth and cultural improvements within the Australian Defence Force (ADF) and Australian Public Service (APS) and highlights major acquisition and sustainment projects like the F-35A Lightning II Aircraft and Hunter Class Frigates. The document also underscores international collaborations, particularly through the AUKUS partnership, and the role of Defence Housing Australia (DHA) in providing housing solutions for ADF members."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Existing Industry Strategies",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "AFAC Strategic Directions for Fire and Emergency Services",
+            "contentHtml": "The Strategic Directions provide the Fire and Emergency Services industry-sector with a shared vision and a joint commitment to enhanced community resilience. It informs, clarifies intent and identifies the actions required across AFAC agencies, engaging high-level officials and Government Ministers. The six key areas of focus for the sector point to the collective priorities identified by organisations across the country, which are supporting resilient communities through risk reduction, providing a trusted response, using credible and timely information and data, fostering a safe, capable and diverse workforce informed by knowledge innovation and research, and effective and transparent governance."
+          },
+          {
+            "heading": "AFAC Strategic Plan 2023-2027",
+            "contentHtml": "The AFAC Strategic Plan 2023 - 2027 highlights the need for a national capability to address two challenges: the changing climate and the evolving community expectations of Emergency Services capacity in response to crises. The report identifies specific workforce challenges, including an aging workforce, a need to improve diversity, and an increased demand for workplace flexibility. These challenges are addressed within the context of the increasing frequency, scale and severity of disasters that require an emergency response."
+          },
+          {
+            "heading": "Champions of Change Coalition - Fire and Emergency",
+            "contentHtml": "The Champions of Change Coalition is an internationally recognised strategy to improve gender equality and the representation of women in the workforce and develop respectful and inclusive workplaces. The 2022 progress report identifies two priority areas to improve gender equality outcomes in this industry-sector: \n- growing the talent pool, through recruitment, retention and promotion of women\n- building better buy-in for gender equality by fostering respect, addressing sexual harassment, and developing workplace responses to domestic and family violence."
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockAccordion",
+        "heading": "Government Initiatives",
+        "description": null,
+        "accordionPanels": [
+          {
+            "heading": "2024 Core Skills Occupation List – Key Findings Report",
+            "contentHtml": "The Core Skills Occupation List (CSOL) provides labour market analysis that informs the identification of occupations that are considered appropriate for employer-sponsored temporary migration through the Core Skills Stream of the Skills in Demand (SID) Visa."
+          },
+          {
+            "heading": "Australian Cyber Security Strategy",
+            "contentHtml": "The 2023 - 2030 Australian Cyber Security Strategy serves as a roadmap to achieve the Australian Government’s vision of becoming a world leader in cyber security by 2030."
+          },
+          {
+            "heading": "Better Together - The Jobs and Skills Report 2024",
+            "contentHtml": "As part of JSA’s mandated obligations to provide insight on the Australian labour market and advice on workforce needs and priorities, this report details evidence aligned to five strategic pillars to enable a more prosperous economic future. Specifically, this report outlines JSA’s key current and emerging datasets that provide useful insight on the intricacies of Australia’s labour market. This includes, but is not limited to, insight on the current VET workforce, First Nations employment participation, regional workforce investment, emerging roles and employment projections."
+          },
+          {
+            "heading": "Closing the Gap",
+            "contentHtml": "The Closing the Gap Report informs the development of recruitment, health and social programs specific to First Nations peoples. These programs are deployed across the Public Safety and Government industry-sectors."
+          },
+          {
+            "heading": "Occupation Standard Classification for Australia (OSCA)",
+            "contentHtml": "Formally known as ANZSCO, the OSCA is a standardised framework for classifying occupations within Australia. As part of the replacement process from ANZSCO to OSCA in 2024, the ABS announced that OSCA will undergo regular updates in accordance with the OSCA Maintenance Strategy."
+          },
+          {
+            "heading": "Occupational Shortage List (OSL)",
+            "contentHtml": "The OSL (formerly the Skills Priority List) offers an annual point-in-time review of the status of Australian occupations. Specifically, the OSL reports on whether occupations (at the four-digit and six-digit ANZSCO level) are experiencing shortages nationally and for each State/Territory in regional or metropolitan areas."
+          },
+          {
+            "heading": "The Australian Government’s Strategic Priorities",
+            "contentHtml": "The Federal Government’s strategic priorities provide a four-year (2022 - 2026) policy direction for the Australian Public Service (APS) and sets targets across key areas. These key areas include the economy, public health and climate change."
+          },
+          {
+            "heading": "The Clean Energy Generation: Workforce needs for a Net Zero Economy",
+            "contentHtml": "This series of reports considers emerging and future clean-energy workforce requirements as Australia strives to reach net-zero emissions by 2050. JSA’s preliminary modelling estimates Australia’s clean-energy workforce will need to grow from the current 53,000 workers to 84,000 workers by 2050."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Video",
+    "slug": "/video",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockVideo",
+        "vimeoId": "1146448275"
+      }
+    ]
+  },
+  {
+    "title": "Link List",
+    "slug": "/link-list",
+    "blocks": [
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Join Our Strategic Networks",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Join Our Strategic Networks",
+              "url": "mailto:networks@publicskillsaustralia.org.au"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Director Nomination Form - nomination of other",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/bb7eaf74-0619-4167-9605-a6a88c37bfb0"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Director Nomination Form &ndash; nomination of self",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/51b07c43-bf3a-447b-9b8e-9294f304a2f1"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "PSA Board Director Consent Form",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/dc1f5de9-cfbc-465a-a45c-8ab072ce6d58"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Public Skills Australia Constitution",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/c0b92ba1-5856-4255-965f-e8c12d034c2d"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Annual Training Product Develpment Plan",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Download",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/3cadabe7-9158-4426-afef-05f2c3660a53"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Defence Projects",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Defence Public Affairs Qualifications Review",
+              "url": "/defence-public-affairs-qualifications-review"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "DEFEXO Defence Explosive Ordnance",
+              "url": "/defexo-defence-explosive-ordnance"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Fire & Emergency Services Projects",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Firefighting Appliance Pump Technicians",
+              "url": "/firefighting-appliance-pump-technician"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Emergency Tree Operations",
+              "url": "/emergency-tree-operations"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Police Projects",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "POL Police Training Package Release 9.0",
+              "url": "/pol-police-training-package-release-90"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Reports",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "National",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/6af2fa51-4fd8-4a5a-bb0f-f42c42405849.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "New South Wales",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/bfbdaa41-bd2b-4e30-9cd9-da4d0988d87e.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Victoria",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/93a41f95-112a-4ca7-9e02-65bc18e44d8e.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Queensland",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/c200e49d-1b01-41e6-97fe-40db35f11d39.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Northern Territory",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/3ec8673c-00ea-466a-8fbe-eb850a926580.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Western Australia",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/9f2e413b-02bf-4746-8661-e357330bea7a.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "South Australia",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/15a9de29-f8ad-4172-9d3d-9bcb7d92e62c.pdf"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Australian Capital Territory",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/c9979612-ba5a-4f1e-9af3-647010bf267d.pdf"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Defence Public Affairs - Technical Committee ToR",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/8ffd51d6-95d5-44cd-b748-6cc853a9407a"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Defence Public Affairs Qualifications Review - Consultation Strategy",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/e8916771-0ca4-4a10-98e0-9a240b647512"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Firefighting Appliance Pump Technician - Technical Committee ToR",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/80dfe443-44f8-4741-8ecd-4b2b837dbbbd"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": null,
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Firefighting Appliance Pump Technician - Consultation Strategy",
+              "url": "https://psa-directus-prod.azurewebsites.net/assets/eff2058b-dcad-4182-8ed2-bcc6d3342d5b"
+            }
+          }
+        ]
+      },
+      {
+        "acf_fc_layout": "BlockLinkList",
+        "heading": "Find out more",
+        "description": null,
+        "linkItems": [
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Members",
+              "url": "/members"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Committees",
+              "url": "/committees"
+            }
+          },
+          {
+            "cta": {
+              "type": "link",
+              "buttonLabel": "Subcommittees and networks",
+              "url": "/subcommittees-and-networks"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

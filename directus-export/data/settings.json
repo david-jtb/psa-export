@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "7b5029cf-a21a-4884-913e-4022f4af568a",
+    "site_name": "Public Skills Australia",
+    "logo": "f4990479-45ab-4f3f-8265-606ebe8f5fa9",
+    "footerLogo": "5474a7ab-1602-40ac-9c8b-f3bd91bfa5af",
+    "email": "test@mail.com",
+    "address": "Test",
+    "phone": "03 9875 8200",
+    "footerDescription": "Public Skills Australia respectfully acknowledges the Traditional Custodians of Country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.",
+    "titleTemplate": "Public Skills Australia",
+    "defaultTitle": "Public Skills Australia",
+    "defaultDescription": "Public Skills Australia respectfully acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community.",
+    "globalScripts": null,
+    "googleTagManager": null,
+    "googleAnalytics": "G-G9553BGMS0",
+    "logoJSC": "582de68b-594b-4699-97fe-1c17756ecba1",
+    "membersOnlyTitle": "PSA made this resource available to members only.",
+    "membersOnlyDescription": "Not an PSA member? Sign up today here to enjoy great savings on CPD courses, events, conferences unlimited access to local and international research publications, special offers from our partners more!",
+    "membersOnlySignUpLink": "https://google.com",
+    "membersOnlyLoginLink": "https://google.com"
+  }
+}

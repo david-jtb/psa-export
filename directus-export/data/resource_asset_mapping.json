@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "resource_id": null,
+      "asset_id": "736d7971-ca2f-405b-bbff-72343157cbbf",
+      "sort": 1
+    },
+    {
+      "id": 2,
+      "resource_id": null,
+      "asset_id": "487647ac-244d-4a67-9021-684c5dbfea95",
+      "sort": 1
+    },
+    {
+      "id": 3,
+      "resource_id": null,
+      "asset_id": "b9feb976-1f8e-41e4-9021-0973298e0d78",
+      "sort": 2
+    }
+  ]
+}

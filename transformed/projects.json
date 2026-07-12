@@ -1,0 +1,1643 @@
+[
+  {
+    "id": "147ef326-0361-4602-88bf-537e406d1007",
+    "status": "published",
+    "dateCreated": "2025-09-22T02:13:23.514Z",
+    "slug": "defence-capability-vet-systems-pathways-framework",
+    "title": "Defence Capability – VET Systems Pathways Framework",
+    "shortDescription": "Public Skills Australia is working in collaboration with the Defence sector to utilise the VET System to support the skilling requirements of the Defence sector across multiple occupations and capability domains.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/20033861-25e3-4941-8fed-0f0a78eba7f8"
+    ],
+    "categories": [
+      {
+        "id": 6,
+        "name": "Defence",
+        "slug": "defence-public-affairs-qualifications"
+      }
+    ],
+    "tags": [
+      {
+        "id": 45,
+        "name": "Implementation Project"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-08-01",
+      "endDate": "2026-12-31",
+      "isDone": true,
+      "stageDescription": "This project aims to support Defence in addressing new and evolving skills requirements emerging from current and future Defence sector priorities as outlined in the following documents:\n\n- 2024 National Defence Strategy\n- 2024 Integrated Investment Program\n- 2024 Defence Workforce Plan\n\nPublic Skills Australia will engage with key stakeholders within the Australian Defence Force and the Department of Defence to outline the education and training environment across defence, and establish how the VET System is currently being utilised. Engagement will cover a variety of areas including workforce planning, skills identification, training, credentialing and delivery of VET qualifications within the Defence sector.\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-09-01",
+        "endDate": "2026-05-29",
+        "isDone": false,
+        "stageDescription": "This stage has not yet commenced. Details on consultation methodology and outcomes will be uploaded here when available."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-31",
+        "isDone": false,
+        "stageDescription": "#### Completion\nOn completion of the project, the evidence collected will inform a framework to outline the ways in which the VET System could be leveraged to support Defence in delivering national skill standards to meet new and evolving skills requirements. "
+      }
+    ]
+  },
+  {
+    "id": "2f89727d-7207-47d1-9028-d1ca6abc0031",
+    "status": "draft",
+    "dateCreated": "2026-02-25T03:46:04.193Z",
+    "slug": "youth-volunteer-project",
+    "title": "Youth Volunteer Project",
+    "shortDescription": "The Youth Volunteer project will draw on insights from survey data and facilitated workshops with youth volunteers, from across sectors such as surf lifesaving and fire and emergency services.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/c33af0f4-9f76-4b43-8a28-c4fa558249c1"
+    ],
+    "categories": [
+      {
+        "id": 5,
+        "name": "Fire and Emergency Services",
+        "slug": "fire-and-emergency-services"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-07-31",
+      "endDate": "2026-06-30",
+      "isDone": false,
+      "stageDescription": "In 2025 Public Skills Australia conducted research into the workforce challenges facing the Fire and Emergency Services industry-sector. \n\nThis research identified challenges to retain youth volunteers in the Fire and Emergency Services industry-sector. Findings also revealed that volunteers aged under 30 years make up the lowest proportion of volunteers in fire and emergency services. \n\nIn response, a specific project focused on “Understanding the Youth Volunteer” was set up to better understand the specific drivers for volunteer youth attraction, recruitment and retention in Fire and Emergency Services, focused on volunteers aged under 30.  \n\nThe project will draw on insights from survey data and facilitated workshops with youth volunteers, from across sectors such as surf lifesaving and fire and emergency services. \n\nKey project outcomes in mid-2026 will include an insights report, to support organisations to retain and engage with their youth volunteers."
+    },
+    "stages": []
+  },
+  {
+    "id": "3fa210ca-86c0-47e0-8c18-af6fd4cd1a33",
+    "status": "published",
+    "dateCreated": "2025-05-30T04:23:26.053Z",
+    "slug": "review-of-procurement-and-contracting-qualifications",
+    "title": "Review of Procurement and Contracting Qualifications ",
+    "shortDescription": "The review of the Procurement and Contracting qualifications will see the update of several qualifications and overall PSP Public Sector Training Package maintenance.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/b29325e6-bb57-4f7b-96f8-91cb0acd1413"
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Government",
+        "slug": "government"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Change Summary",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/d722a0b4-100f-44d8-92d5-4bd3b6d1261c.pdf"
+      },
+      {
+        "title": "Procurement and Contracting Draft Products",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/f17ff8fd-dea5-462f-8e75-a1f639653d3a.zip"
+      },
+      {
+        "title": "Register for Consultations",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUN0lGUVRWV1hDSklXWVhYWEFTOFpPN0ZTVCQlQCN0PWcu"
+      },
+      {
+        "title": "Consultation Strategy ",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/a086ee80-4dc1-4887-b345-336613c3328c"
+      },
+      {
+        "title": "Skills Review Summary",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/38c54ae0-1e41-4ab5-adf2-ffd46009c99c"
+      },
+      {
+        "title": "Terms of Reference",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/7d9d7ed2-4533-488b-a800-dc22879351e7"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-05-01",
+      "endDate": "2026-12-31",
+      "isDone": true,
+      "stageDescription": "The Procurement and Contracting Stream of qualifications outline the job role requirements for professionals responsible for procuring goods and services, as well as managing both operational and strategic procurement activities across the public and private sectors. It serves as a core framework for training procurement professionals. \n\nThese qualifications were last reviewed in 2016 and require updates to meet the emerging capability requirements of the public sector. The updated qualifications will incorporate contemporary best practices as outlined in the 2024 Commonwealth Procurement Rules and other legislative changes since 2016. \n\nBy addressing the gaps between industry practice and existing qualifications, the project will aim to ensure training reflects current procurement methods, risk management practice, supply chain coordination and technological advancements. \n\n**Feedback on the draft products can be provided [here](https://forms.office.com/r/RChBZiiQqY).**\n\n**Procurement and Contracting Qualifications**\n- PSP40616 Certificate IV in Procurement and Contracting \n- PSP50616 Diploma of Procurement and Contracting \n- PSP60616 Advanced Diploma of Procurement and Contracting \n- PSP80116 Graduate Certificate in Strategic Procurement \n-  PSPSS00042 Procurement Fundamentals Skill Set \n- PSPSS00043 Delegation Skill Set \n- PSPSS00061 Procurement Basics Skill Set \n- PSP Public Sector Training Package Maintenance \n\nDuring this release of the Training Package, several additional qualifications are scheduled to be updated to replace superseded units of competency within their packaging rules. Additional supporting information for stakeholders will be provided during the consultation phase of this project to highlight changes within updated units. \n\n**Qualifications identified for these updates are:**\n- PSP20122 Certificate II in Government \n- PSP30122 Certificate III in Government \n- PSP40122 Certificate IV in Government \n- PSP40216 Certificate IV in Court Operations \n- PSP40316 Certificate IV in Government Security \n- PSP40522 Certificate IV in Trade Measurement \n- PSP40716 Certificate IV in Heavy Vehicle Compliance \n- PSP50316 Diploma of Government Security \n- PSP50716 Diploma of Fraud Control \n\n**Proposed Qualifications for Deletion**\n\nAs part of the upcoming release of the PSP Public Sector Training Package, the following qualifications will be proposed for deletion:\n\n- PSP50216 Diploma of Court Operations \n- PSP50522 Diploma of Trade Measurement  \n\nThis will be communicated and consulted on with relevant stakeholders during the development stage of the project. These qualifications have been proposed for deletion due to: \n\n- No enrolments / completions in the preceding three years, \n- Low usage without an identifiable specialist occupational outcome, or \n- Duplication of occupational outcomes with other native qualifications (or the broader Training Package landscape). \n\n### Project Phases\n\nThis project will be conducted over two phases. \n\n**Phase 1: Research and Industry Engagement**\n\nThis first phase of the project will see mapping of training products within the PSP Public Sector Training Package and touch points across training products that use imported units of competency. Public Skills Australia will engage industry to assess job roles, functions and future requirements in the procurement and contracting landscape to inform technical committee meetings. \n\n**Phase 2: Training Product Development**\n\nFor this project, Public Skills Australia has determined that two technical committees will be required, one for the Procurement and Contracting qualifications and a second committee for PSP Public Sector Training Package maintenance. Technical committee membership will meet the requirements of Training Package Organising Framework (2025). \n\nTechnical Committees will provide be established to advice on: \n\n- Design and alignment of training products \n- The purpose and occupational outcomes of qualifications \n- Consideration for streamlining training products \n- Methods of consultation to maximise engagement and opportunities for stakeholder input \n- Assess implementation challenges for Registered Training Organisations \n- Advice on equivalency and transferability of units within qualification \n\nOn commencement of Phase 2, a detailed Consultation Strategy and Technical Committee terms of reference will be made available on this page. "
+    },
+    "stages": [
+      {
+        "stageTitle": "Research and Analysis ",
+        "startDate": "2025-05-01",
+        "endDate": "2025-12-31",
+        "isDone": true,
+        "stageDescription": "This first phase of the project will see mapping of training products within the PSP Public Sector Training Package and touch points across training products that use imported units of competency. Public Skills Australia will engage industry to assess job roles, functions and future requirements in the procurement and contracting landscape to inform technical committee meetings. "
+      },
+      {
+        "stageTitle": "Product Development ",
+        "startDate": "2025-12-01",
+        "endDate": "2026-04-30",
+        "isDone": true,
+        "stageDescription": "Phase 1 has now been completed, culminating in a comprehensive Skills Review Report. The findings from this report have informed Technical Committee discussions and guided the development of draft training products.\n\nConsultation on the draft products will take place from May to June 2026. This process will include a mix of in-person workshops, online consultation sessions, and a structured product feedback form, providing stakeholders with multiple opportunities to contribute and provide input."
+      },
+      {
+        "stageTitle": "Consultation ",
+        "startDate": "2026-05-01",
+        "endDate": "2026-06-30",
+        "isDone": true,
+        "stageDescription": "**Consultation Completed**\n\nConsultation occurred from 5 May 2026 to 4 June 2026. \n\nA summary of the feedback compiled will be published here soon.\n\n**Consultation Methodology**\n\nAn open and inclusive national consultation process that enables contributions from key users of the training products being developed is essential to the development process. This will ensure industry relevance and stakeholder support for the final products. Consultation is also intended to ensure that the Qualification Development Quality Principles are applied to training product work throughout the process.\n\nConsultations to take place during the following dates:\n\n- 5 May 2026, **Sydney**, 9:00am – 11:30am\n- 7 May 2026, **Canberra**, 12:30pm – 3:00pm\n- 12 May 2026, **Darwin**, 9:00am – 11:30am\n- 15 May 2026, **Online Only**, 1:00pm – 3:00pm\n- 19 May 2026, **Hobart**, 12:30pm – 3:00pm\n- 21 May 2026, **Brisbane**, 9:00am – 11.30am\n- 27 May 2026, **Melbourne**, 12:30pm – 3:00pm\t\n- 2 June 2026, **Perth**, 12:30pm – 3:00pm\n- 4 June 2026, **Adelaide**, 9:00am – 11:30am"
+      },
+      {
+        "stageTitle": "Review",
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-31",
+        "isDone": false,
+        "stageDescription": "This stage has not yet commenced. "
+      },
+      {
+        "stageTitle": "Finalisation ",
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-31",
+        "isDone": false,
+        "stageDescription": "Further details on the finalisation of this project will be shared here when available."
+      }
+    ]
+  },
+  {
+    "id": "466d2827-9f57-48f0-92c8-784416a1f03d",
+    "status": "published",
+    "dateCreated": "2025-08-29T03:15:10.529Z",
+    "slug": "police-training-package-release-11",
+    "title": "Police Training Package Release 11",
+    "shortDescription": "The POL Police Training Package Release 11 will see the update to a range of qualifications to support the Policing industries workforce capability and training priorities.\n\nPublic Skills Australia will update the POL Police Training Package Release 11 in collaboration with the Australia New Zealand Policing Advisory Agency (ANZPAA), the peak body of the policing industry within Australia and New Zealand.\n\nThis project will support the supervisory and management capabilities within police agencies. Additionally, police agencies have prioritised the update of the Not for Public Access (NFPA) training products regarding Bomb Technical Response to be included in the upcoming release.\n\nRelease 11 presents a valuable opportunity to engage with a key industry partner through alignment of the qualifications with cross-jurisdictional strategies and capability development frameworks.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/04cf481e-9d82-4f98-8fcd-2c698728ccd1"
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Police",
+        "slug": "police"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Consultation Strategy",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/a9536bee-9857-497b-ae94-e921dd694644"
+      },
+      {
+        "title": "Terms of Reference - Search and Rescue",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/90240915-28ff-4595-a915-0c652b4a4913"
+      },
+      {
+        "title": "Terms of Reference - Bomb Technical Response",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/d5b6bede-28cd-4034-952f-f02a8de34dc3"
+      },
+      {
+        "title": "Consultation Log",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/5c438ba2-20d9-45e1-8ad1-e88d4c3b14e2.pdf"
+      },
+      {
+        "title": "Submission form",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/3b735880-c84d-493b-ac3b-1f0aa6a2efa4.pdf"
+      },
+      {
+        "title": "Anti-Discrimination Assessment Report",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/d2fc1a12-2edb-4ee3-bf63-faaef7184815.pdf"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-08-01",
+      "endDate": "2026-06-30",
+      "isDone": true,
+      "stageDescription": "The project aims to update the following qualifications:\n- POL50218 Diploma of Police Bomb Technical Response (NFPA) \n- POL58121 Diploma of Police Search and Rescue Coordination (Marine/Land)\n- POL60421 Advanced Diploma of Police Search and Rescue Management  \n\n#### Project Objectives\nPublic Skills Australia will support the Policing Industry to update the training package by:\n- Updating the Police management, leadership and Bomb Technical Response qualifications to reflect contemporary policing practice. \n- Rationalising and streamlining training products to mitigate duplication. \n- Updating training products to incorporate recent advancements in technology, as well as contemporary methods of asset detection. \n- Increasing the utilisation of qualifications within policing agencies. \n\n\n#### Technical Committee\n\nEngagement with the Police sector is currently taking place. In accordance with the *Training Package Organising Framework (2025)*, a Technical Committee has been stood up to provide advice on amendments to the POL Police Training Package Release 11. The Technical Committee will provide expert advice, grounded in evidence to assist in the design and development of the training products.\n\n#### Get in touch\nPlease check this project page periodically for further updates.\nFor any queries about this project, please email the Training Product Development team at tpd@publicskillsaustralia.org.au.\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Project Updates",
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31",
+        "isDone": false,
+        "stageDescription": "# Finalisation of Training Products \n\n**Release 11 of the POL Police Training Package**  \n\nThe Police Training Package Release 11 project, led by Public Skills Australia in collaboration with the Australia New Zealand Policing Advisory Agency, is in its final stage. It updates key policing qualifications to better align with current workforce needs and industry priorities, strengthens leadership and management capability, and modernises specialised areas such as bomb technical response. \n\nThis includes updates to the following qualifications and their core units of competency:  \n\n- POL50218 Diploma of Police Bomb Technical Response (NFPA) \n\n- POL58121 Diploma of Police Search and Rescue Coordination (Marine/Land) \n\n- POL60421 Advanced Diploma of Police Search and Rescue Management \n\n**Products Submitted to Assurance Body** \n\nA detailed list of updated products, the nature of each update, and their equivalence is available here:\n\n- [POL 11 - Attachment A](https://psa-directus-prod.azurewebsites.net/assets/dd648655-089a-4a86-8a6b-4ffc378c1993.xlsx)\n\n- [Products](https://psa-directus-prod.azurewebsites.net/assets/68a7c2b6-db3c-453f-8c2b-44441abc88cc.zip)\n\n- [CVIG](https://psa-directus-prod.azurewebsites.net/assets/7303ebad-2151-4944-8d57-ddac4c4e43dd.pdf)\n\n- [Mapping](https://psa-directus-prod.azurewebsites.net/assets/364cb71d-d253-4367-9b5d-7269923a089e.xlsx)\n\n**Note:** Not‑For‑Public‑Access products include sensitive material and cannot be shared publicly.  \n\n**Consultation Summary**  \n\nThe updated training products have achieved national consensus across the policing sector. Every Australian police agency has endorsed the changes, with formal approval provided by each jurisdiction’s Commissioner and the President of the Police Federation of Australia. Following public and government consultation, letters of support were also received from the Senior Responsible Officers in all states and territories. A summary of the public consultation is available here:\n\n- [Consultation Log](https://psa-directus-prod.azurewebsites.net/assets/5c438ba2-20d9-45e1-8ad1-e88d4c3b14e2.pdf)\n\n- [Consultation Strategy](https://psa-directus-prod.azurewebsites.net/assets/a9536bee-9857-497b-ae94-e921dd694644)\n\n**Finalisation**  \n\nAs part of the training product submission process, a submission form to the Training Package Assurance Body has been prepared. The details of this can be found below: \n\n- [Submission Form](https://psa-directus-prod.azurewebsites.net/assets/3b735880-c84d-493b-ac3b-1f0aa6a2efa4.pdf)\n\n- [Anti-Discrimination Assessment Report](https://psa-directus-prod.azurewebsites.net/assets/d2fc1a12-2edb-4ee3-bf63-faaef7184815.pdf)"
+      },
+      {
+        "stageTitle": "Development of Draft Training Products",
+        "startDate": "2025-08-01",
+        "endDate": "2025-12-15",
+        "isDone": true,
+        "stageDescription": "More information will be made available shortly regarding the development of Draft Training Products."
+      },
+      {
+        "stageTitle": "Public and Government Consultation Activities and Feedback Incorporation",
+        "startDate": "2025-12-01",
+        "endDate": "2026-02-09",
+        "isDone": true,
+        "stageDescription": "### Consultation Period Closed\nPublic consultation on the proposed updates to the POL Police Training Package Release 11 is now closed.\n\nPublic Skills Australia conducted public consultation from 15 December 2025 to 29 January 2026.\nWe appreciate the time and expertise contributed by all participants throughout this process. \n\nA summary of the feedback compiled in the consultation log can be found [here](https://psa-directus-prod.azurewebsites.net/assets/2f24fd72-a515-4bdb-8f93-5b8bb27bd75d)."
+      },
+      {
+        "stageTitle": "Finalisation and Preparation for Assurance Body Submission ",
+        "startDate": "2026-03-01",
+        "endDate": "2026-05-31",
+        "isDone": true,
+        "stageDescription": "This project is undergoing internal governance and will be submitted to the Training Package Assurance body for assessment in May 2026."
+      },
+      {
+        "stageTitle": "Assurance Body Review ",
+        "startDate": "2026-05-15",
+        "endDate": "2026-06-16",
+        "isDone": true,
+        "stageDescription": "This project is now undergoing review by the Training Package Assurance Body."
+      },
+      {
+        "stageTitle": "Skills Ministers’ Endorsement",
+        "startDate": "2026-06-16",
+        "endDate": "2026-07-30",
+        "isDone": false,
+        "stageDescription": "Skills Ministers’ Endorsement is pending."
+      }
+    ]
+  },
+  {
+    "id": "4f7519f1-ceb5-426b-8279-5c657e9cf506",
+    "status": "archived",
+    "dateCreated": "2024-09-16T01:12:57.352Z",
+    "slug": "firefighting-appliance-pump-technician",
+    "title": "Firefighting Appliance Pump Technician ",
+    "shortDescription": "This project will see the development of training products to align with the workplace outcomes of Firefighting Appliance Pump Technicians.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/83f0f52b-233b-413e-81aa-9ca8b1f08a6a"
+    ],
+    "categories": [
+      {
+        "id": 5,
+        "name": "Fire and Emergency Services",
+        "slug": "fire-and-emergency-services"
+      }
+    ],
+    "tags": [],
+    "hyperlinks": [
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      },
+      {
+        "title": "Download Consultation Log ",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/9f7a13a8-a437-4f6d-b7ba-9273e1a06ad5"
+      },
+      {
+        "title": "Download Draft Skill Set",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/13ff5ecc-e525-43a5-906a-37b5f23a3e50"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-01",
+      "isDone": true,
+      "stageDescription": "This project will see the development of training products to align with the workplace outcomes of Firefighting Appliance Pump Technician.\n\nFirefighting Appliances are operational vehicles used by the Fire and Emergency Services industry-sector. These appliances are designed to extinguish fires, facilitate rescues and provide various other forms of assistance. Consequently, the pumps utilised within Firefighting Appliances require specialised skills and knowledge for maintenance, troubleshooting and fault diagnosis.\n\nIn collaboration with the Australasian Fire and Emergency Services Authorities Council (AFAC), Public Skills Australia will identify the national practice standards of pump technicians and assist to build industry capacity of this workforce."
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2024-10-01",
+        "endDate": "2024-11-30",
+        "isDone": true,
+        "stageDescription": "**13 December 2024**\n\nThe second consultation period for the Firefighting Appliance Pump Technician Project has closed. \n\n**26 November 2024**\n\nPublic Skills Australia has opened a second round of consultation for the Firefighting Appliance Pump Technician project.\n\n**8 November 2024**\n\nThe first consultation period for the Firefighting Appliance Pump Technician Project has now ended.\n\n**01 October 2024**\n\nPublic Skills Australia has opened the first round of consultation for the Firefighting Appliance Pump Technician project.\n\n#### Technical Committee\n\nEngagement with the Fire and Emergency Services industry-sector is currently taking place. In accordance with the Training Package Products Development and Endorsement Process Policy, a Technical Committee has been stood up to provide advice on the development of raining products.\n\nThe Terms of Reference for the Technical Committee can be found below:\n\n[Firefighting Appliance Pump Technician – Technical Committee TOR](https://psa-directus-prod.azurewebsites.net/assets/80dfe443-44f8-4741-8ecd-4b2b837dbbbd)\n\n#### Consultation Strategy\n\nPublic Skills Australia will engage in thorough consultation with stakeholders to ensure that their perspectives, concerns and insights are thoroughly considered in the development process. Details of consultation, including mechanisms and identification of stakeholders, can be found below:\n\n[Firefighting Appliance Pump Technician – Consultation Strategy](https://psa-directus-prod.azurewebsites.net/assets/abc69dbc-7ad9-4f52-a09d-7adf9e8d0fba)\n\nThroughout this project, a consultation log will be maintained to document the feedback received. Information on consensus gathering will be published following the consultation phase.\n\nDetails of this project’s information sessions and workshops will be shared here when available."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2024-11-04",
+        "endDate": "2024-11-04",
+        "isDone": true,
+        "stageDescription": "This project is now complete.\n\nYou can find the finalised Skill Sets [here](https://psa-directus-prod.azurewebsites.net/assets/13ff5ecc-e525-43a5-906a-37b5f23a3e50)."
+      }
+    ]
+  },
+  {
+    "id": "579bbeeb-f663-49dd-b589-791ce9a40c77",
+    "status": "archived",
+    "dateCreated": "2024-09-16T01:06:39.941Z",
+    "slug": "emergency-tree-operations",
+    "title": "Emergency Tree Operations",
+    "shortDescription": "This project will see the development of a Findings Report which will highlight the wide range of tree operations conducted by State Emergency Services (SES) and Fire and Emergency members, analyse their capability requirements, and consider the contextualisation of existing training products to meet these needs.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/ea5be95b-1aac-42e2-b99d-19ab54d3887e"
+    ],
+    "categories": [
+      {
+        "id": 5,
+        "name": "Fire and Emergency Services",
+        "slug": "fire-and-emergency-services"
+      }
+    ],
+    "tags": [
+      {
+        "id": 47,
+        "name": "Monitoring"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Contact Us",
+        "url": "https://psa-website-prod.azurewebsites.net/contact"
+      },
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-30",
+      "isDone": true,
+      "stageDescription": "This project will see the development of a Findings Report which will highlight the wide range of tree operations conducted by State Emergency Services (SES) and Fire and Emergency members, analyse their capability requirements, and consider the contextualisation of existing training products to meet these needs.\n\n\nEmergency Tree Operations require a wide range of skills, including an awareness of overhead hazards and the mitigation of risks within dynamic work environments. Due to the increase in severe weather events across Australia, these skills are in greater demand across the Fire and Emergency Services industry-sector.\n\n\nFor the purposes of this report, the project will consider tree operations that include vegetation management practices in emergency contexts such as trimming, cross cutting and falling. This project will analyse existing training products that are available across different training packages for possible contextualisation within the Fire and Emergency Services industry-sector."
+    },
+    "stages": [
+      {
+        "stageTitle": "First Consultation Round",
+        "startDate": "2024-10-01",
+        "endDate": "2024-11-30",
+        "isDone": true,
+        "stageDescription": "During this phase, Public Skills Australia will collaborate with key stakeholders within the Fire and Emergency Services industry-sector and other Jobs and Skills Councils to inform the development of the Emergency Tree Operations Findings Report."
+      },
+      {
+        "stageTitle": "Second Consultation Round",
+        "startDate": "2025-02-01",
+        "endDate": "2025-03-31",
+        "isDone": true,
+        "stageDescription": "This consultation phase will see Public Skills Australia engage with the Fire and Emergency Services industry-sector to validate it's key findings for the report."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2025-04-01",
+        "endDate": "2025-05-31",
+        "isDone": true,
+        "stageDescription": "This phase will see the finalisation of the Emergency Tree Operations Findings Report with recommendations for future activities."
+      }
+    ]
+  },
+  {
+    "id": "70da20cb-551b-4925-81f4-22544b3408fd",
+    "status": "published",
+    "dateCreated": "2025-05-30T02:09:10.110Z",
+    "slug": "review-of-government-investigations-qualifications",
+    "title": "Review of Government Investigations Qualifications ",
+    "shortDescription": "The Review of the Government Investigations Qualifications will see the update of several qualifications aligned to the Australian Government Investigation Standards. ",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/063d7453-d31a-4b11-a051-04f1111502f6"
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Government",
+        "slug": "government"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Change Summary",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/7e7c8781-9875-4660-bfef-516a408d87b5.pdf"
+      },
+      {
+        "title": "PSP Maintenance Draft Products",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/b4d851f3-6806-4e97-9ee5-4278b85775ce.zip"
+      },
+      {
+        "title": "Register for Consultations",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUOVFKQkpaQkpKTFBLUUM2QlJaSllFRjZRTiQlQCN0PWcu"
+      },
+      {
+        "title": "Consult Strategy",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/9ab57fea-40d6-4206-b820-3310285b3bdc"
+      },
+      {
+        "title": "Skills Review Summary",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/a70da891-3771-4f16-ae1b-bc9780f4f7d9"
+      },
+      {
+        "title": "Terms of Reference",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/1e38ab73-5390-4d8a-8576-c30c74e43bec"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-05-01",
+      "endDate": "2026-12-31",
+      "isDone": true,
+      "stageDescription": "The Government Investigation qualification stream defines the essential competencies required to conduct official investigations and ensure regulatory compliance on behalf of government agencies. These qualifications are explicitly outlined as requirements within the Australian Government Investigation Standards 2022 (AGIS).  \n\nThe AGIS establishes a benchmark for organisations carrying out administrative, civil, or criminal investigations for state or Commonwealth government entities. As the portfolio agency of the Attorney-General’s Department, the Australian Federal Police is responsible for maintaining the AGIS to meet whole-of-government standards.  \n\nGiven the strong alignment between the AGIS and this qualification stream, it is crucial that training products are regularly reviewed and updated to remain compliant with legislative requirements and accurately reflect capability needs within the public sector.  \n\nThis project will involve a review of three qualifications and a Skill Set within this stream from the PSP Public Sector Training Package. \n\n**Feedback on the draft products can be provided [here](https://forms.office.com/r/RChBZiiQqY).**\n\n**Phase 1: Research and Analysis** \n\nThis phase focuses on the initial engagement of stakeholders to support data collection. Public Skills Australia will undertake research and analysis to assess the usability and relevance of the qualification streams. The project will seek to align the investigatory roles with the latest Investigative Standards. Stakeholder engagement will include consultation with the relevant agencies who conduct government investigations, Registered Training Organisations, and other relevant agencies. \n\n**Phase 2: Development** \n\nThroughout the development phase, Public Skills Australia will draft training products based on the advice of a Technical Committee, composed of members outlined with the Training Package Organising Framework (2025). Through Technical Committee meetings, Public Skills Australia use the data gathered from phase one to determine relevant updates. \n\nDuring this phase, further details on the Consultation Strategy and the Technical Committee’s Terms of Reference, will be made available on the website. \n\n**Scope of Government Investigations Qualifications**\n\nThe review and update of this stream will include the following qualifications and skill set: \n\n### PSP40416 Certificate IV in Government Investigations \n\nPSPINV001 Plan and initiate an investigation  \n\nPSPINV003 Finalise an investigation \n\nPSPINV004 Conduct an investigation  \n\n### PSP50416 Diploma of Government Investigations \n\nPSPREG021 Coordinate investigation processes \n\nPSPREG026 Review and evaluate investigations \n\n### PSP60122 Advanced Diploma of Government (Investigations) \n\nPSPGEN112 Apply government systems  \n\nPSPGEN115 Uphold and support inclusive workplace practices  \n\nPSPGEN143 Prepare high-level written communication \n\nPSPPCY018 \tManage policy implementation \n\n### PSPSS00040 Government Investigations Skill Set \n\nPSPSS00040 Government Investigations Skill Set \n\n### Additional units of competency in scope: \n\nPSPREG033 Apply regulatory powers  \n\nPSPREG039 Gather information through interviews "
+    },
+    "stages": [
+      {
+        "stageTitle": "Research and Analysis ",
+        "startDate": "2025-05-01",
+        "endDate": "2025-12-31",
+        "isDone": true,
+        "stageDescription": "This phase focuses on the initial engagement of stakeholders to support data collection. Public Skills Australia will undertake research and analysis to assess the usability and relevance of the qualification streams. The project will seek to align the investigatory roles with the latest Investigative Standards. Stakeholder engagement will include consultation with the relevant agencies who conduct government investigations, Registered Training Organisations, and other relevant agencies. "
+      },
+      {
+        "stageTitle": "Product Development ",
+        "startDate": "2025-12-01",
+        "endDate": "2026-04-30",
+        "isDone": true,
+        "stageDescription": "Phase 1 has now been completed, culminating in a comprehensive Skills Review Report. The findings from this report have informed Technical Committee discussions and guided the development of draft training products."
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-04-01",
+        "endDate": "2026-05-31",
+        "isDone": true,
+        "stageDescription": "**Consultation Completed**\n\nConsultation occurred from 5 May 2026 to 4 June 2026. \n\nA summary of the feedback compiled will be published here soon.\n\n**Consultation Methodology**\n\nTo establish an open and inclusive national consultation process that enables contributions from key users of the Government Investigations training products being developed, is essential to the development process. This will ensure industry relevance and stakeholder support for the final products. Consultation is also intended to ensure that the Qualification Development Quality Principles are applied to training product work throughout the process. \n\nConsultations to take place during the following dates:\n\n5 May 2026 - **Sydney** - 1:00pm – 3:00pm\n\n7 May 2026 - **Canberra** - 9:00am – 11:30am\n\n12 May 2026 - **Darwin** - 1:00pm – 3:00pm\n\n15 May 2026\t- **Online Only** - 9:00am – 11:30am AEST\n\n19 May 2026 - **Hobart**- 9:00am – 11:30am\n\n21 May 2026 - **Brisbane** - 1:00pm - 3:00pm\n\n27 May 2026\t- **Melbourne** - 9:00am – 11:30am\n\n2 June 2026\t- **Perth** - 9:00am – 11:30am\n\n4 June 2026 - **Adelaide** - 1:00pm - 3:00pm"
+      },
+      {
+        "stageTitle": "Review",
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-31",
+        "isDone": false,
+        "stageDescription": "This stage has not yet commenced. "
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-31",
+        "isDone": false,
+        "stageDescription": "This stage has not yet commenced. At this stage final checks are completed, and report will be submitted to the Department of Employment and Workplace relations for their consideration. Details will be shared here when available. "
+      }
+    ]
+  },
+  {
+    "id": "76241f99-8153-4874-b0f7-68171e7ef00d",
+    "status": "archived",
+    "dateCreated": "2024-09-16T00:35:03.394Z",
+    "slug": "defence-public-affairs-qualifications-review",
+    "title": "Defence Public Affairs Qualifications Review",
+    "shortDescription": "This project aims to review and enhance Defence Public Affairs qualifications to equip personnel with the skills necessary for effective engagement with the media, stakeholders and the public. ",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/fa7873a2-dbbf-41a8-9266-917a010c704b"
+    ],
+    "categories": [
+      {
+        "id": 6,
+        "name": "Defence",
+        "slug": "defence-public-affairs-qualifications"
+      }
+    ],
+    "tags": [],
+    "hyperlinks": [
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      },
+      {
+        "title": "Download Consultation Log",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/c74c38c1-acdb-47eb-aac5-29c9f288df52"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2024-06-01",
+      "endDate": "2024-10-01",
+      "isDone": true,
+      "stageDescription": "This project aims to review and enhance Defence Public Affairs qualifications to equip personnel with the skills necessary for effective engagement with the media, stakeholders and the public. Considering the critical role of public trust in the Defence sector, this initiative underscores the importance of transparency, reputation management and strategic communication.\n\nThrough benchmarking, collaboration with industry experts and establishment of a Technical Committee, the initiative will update Defence Public Affairs qualifications to ensure continued alignment with industry best practices and evolving requirements within Defence.\n\n### Technical Committee\n\nEngagement with the Defence sector is currently taking place. In accordance with the Training Package Products Development and Endorsement Process Policy, a Technical Committee has been stood up to provide advice on amendments to the Defence Public Affairs Qualifications.\n\nThe Terms of Reference for the Technical Committee can be found below:\n[\nDefence Public Affairs – Technical Committee TOR](https://psa-directus-prod.azurewebsites.net/assets/8ffd51d6-95d5-44cd-b748-6cc853a9407a)\n\n### Consultation Strategy\n\nPublic Skills Australia will engage in thorough consultation with stakeholders to ensure that their perspectives, concerns and insights are thoroughly considered in the development process. Details of consultation, including mechanisms and identification of stakeholders, can be found below:\n\nTo view the consultation strategy for this project, please click below:\n[\nDefence Public Affairs – Consultation Strategy\n](https://psa-directus-prod.azurewebsites.net/assets/e8916771-0ca4-4a10-98e0-9a240b647512)\n\n### Training Products in Scope\n\nThroughout this project, a consultation log will be maintained to document the feedback received. Information on consensus gathering will be published following the consultation phase.\n\nDetails of this project’s information sessions and workshops will be shared on the Consultation tab when available.\n\nThis project will review three qualifications, their core units of competency, elective streams and packaging rules. Through this review, the broader learning pathways and qualification design will be considered, noting the key focus in these qualifications is to support Defence capability. \n\nThe review will consider the potential for streamlining training products and enhancing understanding of career progression between these three qualifications.\n\nThese qualifications include:\n\n• DEF30417 Certificate III in Defence Public Affairs\n\n• DEF40117 Certificate IV in Defence Public Affairs\n\n• DEF50517 Diploma of Defence Public Affairs."
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2024-10-01",
+        "endDate": "2024-11-30",
+        "isDone": true,
+        "stageDescription": "#### 8 November 2024\nThe consultation period for the Defence Public Affairs Qualifications Review Project has now ended. \n\nBased on the feedback received, Public Skills Australia will collaborate with the project’s Technical Committee to determine if any revisions to the products are required.\n\nThe project's Consultation Log, which includes feedback and responses to feedback, is now available for download on this page.\n\n\n#### 12 October 2024\nThe consultation period for the Defence Public Affairs Qualification Review has now closed. \n\nThe Training Product Development team is now compiling the valuable insights and recommendations gathered from these consultation sessions into a consultation log, which will be made available on this project webpage shortly. \n\nThank you to everyone who participated in this valuable process. Please check back soon for further information and access to the consultation outcomes."
+      }
+    ]
+  },
+  {
+    "id": "78fe0c26-527d-4e25-8c57-2d2fb18d17b7",
+    "status": "archived",
+    "dateCreated": "2025-02-02T23:25:27.465Z",
+    "slug": "correctional-services-implementation-findings-report",
+    "title": "Correctional Services Implementation Findings Report",
+    "shortDescription": "This project will help identify the targeted support Public Skills Australia can provide Registered Training Organisations (RTOs) in delivering CSC30122 Certificate III in Correctional Practice.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/257311cc-99fe-4ead-9301-b07e9f8f0014"
+    ],
+    "categories": [
+      {
+        "id": 9,
+        "name": "Correctional Services",
+        "slug": "corrections"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      },
+      {
+        "id": 46,
+        "name": "Completed"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-02-01",
+      "endDate": "2025-11-01",
+      "isDone": true,
+      "stageDescription": "CSC30122 Certificate III in Correctional Practice is recognised by industry as the foundational qualification to be employed as an Adult Custodial or Community Corrections Officer. This qualification is provided through a range of contexts, usually divided into phases that consist of classroom-based learning, self-paced online modules, and on-the-job training.\n\nThis project will help identify the targeted support Public Skills Australia can provide Registered Training Organisations (RTOs) in delivering this important qualification. It will also examine supports that can be offered to candidates undergoing the training and assessment as well as provide recommendations to improve and promote the delivery and implementation of the qualification.\n\nThe scope of the project includes:\n\n- compiling a Job Role Analysis to capture candidate and industry requirements for Adult Custodial and Community Correction Officers.\n- identifying the challenges and barriers faced by industry, RTOs and candidates completing CSC30122 Certificate III in Correctional Practice.\n- providing recommendations that strengthen the implementation and delivery of the qualification.\n\nTo inform the project, Public Skills Australia will directly engage with RTOs and academies to collect and analyse evidence-based insights into the implementation and delivery challenges that Corrective Services academies, RTOs and candidates are currently experiencing.\n\nPlease check the project page periodically for further updates.\nFor any queries about this project, please email the Training Product Development team at: tpd@publicskillsaustralia.org.au.\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-05-01",
+        "endDate": "2025-07-30",
+        "isDone": true,
+        "stageDescription": "Details on consultation methodology and outcomes will be uploaded here when available."
+      },
+      {
+        "stageTitle": "Review",
+        "startDate": "2025-07-10",
+        "endDate": "2025-08-30",
+        "isDone": true,
+        "stageDescription": "Stakeholder feedback for this project will be uploaded here once available."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2025-08-30",
+        "endDate": "2025-11-22",
+        "isDone": true,
+        "stageDescription": "Further details on the finalisation of this project will be shared here when available."
+      }
+    ]
+  },
+  {
+    "id": "7963908f-1732-418f-a6b5-1493e25cb700",
+    "status": "archived",
+    "dateCreated": "2025-08-19T04:07:48.136Z",
+    "slug": "defence-cyber-risk-assessment",
+    "title": "Defence Cyber Risk Assessment",
+    "shortDescription": "Public Skills Australia is working in collaboration with the Department of Defence to develop vocational training products that strengthen Australia’s cyber defence and resilience capabilities and support career pathways within the cyber domain.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/a6a85fe2-3993-4dc4-9220-7295854c16af"
+    ],
+    "categories": [
+      {
+        "id": 6,
+        "name": "Defence",
+        "slug": "defence-public-affairs-qualifications"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-08-01",
+      "endDate": "2026-08-31",
+      "isDone": true,
+      "stageDescription": "This project responds to the growing need for cyber security expertise across Defence and Government. It focuses on improving cyber risk assessment capabilities, particularly in managing threats to Information and Communications Technology systems.\n\nCyber threats are evolving rapidly due to technological advancements and increased capability among state and non-state actors. These risks extend beyond typical industry concerns, encompassing national security and critical infrastructure protection.\n\nTo address these challenges, the project will develop a new credential within the DEF Defence Training Package, specifically targeting cyber security risk assessment functions. This includes international benchmarking research to understand factors of cyber resilience by leaders in the field, reviewing existing units of competency, developing new units where gaps exist, and ensuring alignment with national frameworks and interagency applicability.\n\nBy creating fit-for-purpose training solutions, this initiative will support Defence-aligned career pathways, promote cross-sectoral use of training products, and enable lateral entry for skilled workers, bolstering Australia’s resilience in the cyber domain and safeguarding national interests.\n\n\n**Timeline**\n\nCommencement: August 2025\n\nConsultation: April – May 2026\n\nGovernance and Finalisation: June – August 2026\n\nCompletion: August 2026\n\n\n\n*Images provided courtesy of the Department of Defence.*\n*Department of Defence images are used with permission and should not be reproduced without permission from the organisation.*\n\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-04-01",
+        "endDate": "2026-05-31",
+        "isDone": true,
+        "stageDescription": "Consultation is currently scheduled to take place during April – May 2026. \n\n#### Objective of Consultation\nPublic Skills Australia will work directly with the Department of Defence and the Australian Defence College to establish collaborative partnerships aimed at enhancing the development of training products. By engaging with the Department of Defence and the Australian Defence College, Public Skills Australia seeks to leverage their specialised knowledge and experience in Defence education and training. Consultation will allow for meaningful involvement of stakeholders and further enhance the development process.\n\n#### Consultation Plan\n| Project Phase | Description | Communication Activity |\n| ------ | ------ | ------ |\n| Commencement of Project | Publication of project overview information | Upload the Annual Training Product Development Plan to the Public Skills Australia website. |\n|  |  |Upload project overview information on the Public Skills Australia website. |\n| Establishment of Technical Committee and Consultation Strategy | Notify Assurance Body, State Training Authorities (STA), Senior Responsible Officers (SRO) and other Jobs and Skills Councils (JSC) of Technical Committee membership details and Consultation Strategy. Due to the sensitivity of information sharing within Police, Technical Committee member names will not be published, only organisation, jurisdiction and job title. | Email notification to STAs and SROs, and to relevant JSCs. |\n| Public and Government Consultation | Provide stakeholders with workshop registration forms that detail the dates and times of virtual sessions, as well as the qualifications and units of competency they wish to review. Once consultation begins, these forms will be directly accessible from each project’s **Consultation** page on Public Skills Australia’s website. | Public Skills Australia to provide access to draft training products with downloadable documents and a survey link for feedback. |\n|   | Conduct public information sessions webinars. | Provide a link to register interest for information sessions on Public Skills Australia website. |\n| Internal Governance | Public Skills Australia to progress the draft training products to its established governance groups. | Conduct hybrid meetings with established governance groups. |\n\n#### Stakeholder Identification\nKey stakeholders may be drawn from:\n \n-\tDefence National Skills Framework (Education Experts)\n-\tDefence Registered Training Organisation (RTO)\n-\tDepartment of Defence\n-\tFuture Skills Organisation JSC\n-\tState Training Authorities & Senior Responsible Officers (SROs)\n \nOther stakeholders may be identified through research and industry engagement by the project team.\n\n#### Consultation mechanisms\nPublic Skills Australia is dedicated to conducting thorough consultations with stakeholders to ensure that their perspectives, concerns and insights are carefully incorporated into the development process, a meticulous consultation log will be maintained. Noting security limitations around publishing details of Australian Defence Force personnel, where necessary, a summary of members’ feedback, issues and the attainment of consensus through the project.\n\nIn instances where consensus cannot be achieved, the Public Skills Australia Alternative Dispute Resolution policy will be invoked. Public Skills Australia will conduct a range of consultation initiatives to ensure the involvement and engagement of diverse stakeholders.\n\nThis will include consultation activities and methods, such as:\n- Online information sessions to provide information on draft training products to interested parties and facilitate feedback gathering\n- Consultation with established Public Skills Australia network groups to gather the perspectives of diverse communities including First Nations peoples, women and culturally and linguistically diverse groups\n- Engagement with State and Territory Training Authorities\n- Public Skills Australia’s website and social media platforms.\n\n\n\n"
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-31",
+        "isDone": true,
+        "stageDescription": "Further details on the finalisation of this project will be shared here when available."
+      }
+    ]
+  },
+  {
+    "id": "7a0150fa-0913-4a75-a100-17b55ff57e6b",
+    "status": "published",
+    "dateCreated": "2025-05-26T23:35:52.742Z",
+    "slug": "local-government-skills-audit",
+    "title": "Local Government Skills Audit",
+    "shortDescription": "The Local Government Skills Audit is a national initiative led by Public Skills Australia to identify vocational skills gaps across Australian Local Government Areas.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/8f51e7fe-afb0-4b66-8951-91ea627fd463"
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Local Government",
+        "slug": "local-government"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Implementation, Promotion and Monitoring Annual Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-05-01",
+      "endDate": "2026-06-30",
+      "isDone": true,
+      "stageDescription": "This project aims to build an evidence base to address workforce capability challenges and recommend improvements to training pathways for Local Government. The project includes a national audit of skills data, stakeholder consultations, and analysis of the uptake and utility of existing LGA VET training packages. It will map skills shortages against current training offerings and propose strategies such as curriculum reform, RTO engagement, and policy enhancements to strengthen the skilled labour pipeline and ensure future workforce readiness in the Local Government sector. \n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-09-01",
+        "endDate": "2026-01-31",
+        "isDone": true,
+        "stageDescription": "**Consultation and data collection**\nPublic Skills Australia is dedicated to ensuring stakeholder needs guide project processes, outcomes and recommendations. As such, Public Skills Australia will work collaboratively with State and Federal peak bodies, RTOs and all relevant stakeholders to build a quantitative and qualitative data set to articulate the skills needs and shortages with Local Government. We are committed to adopting a flexible and agile approach to data collection and consultation that represents the unique needs of Local Governments and their stakeholders.\n\n**Data analysis and skills mapping**\nThe collection of quantitative data articulating the nature and volume of skills shortages will facilitate the mapping of these shortages against the content of LGA VET products. This will allow Public Skills Australia to determine training gaps within VET products and assess opportunities for increased agility in training delivery. The qualitative data collected will inform the project of the real-world challenges faced by Local Governments including barriers in accessing training, multi-role staff models and challenges faced by rural and remote Local Governments.\n"
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2025-12-01",
+        "endDate": "2026-06-30",
+        "isDone": false,
+        "stageDescription": "The final report detailing the project findings and recommendations will be submitted to the Department of Employment and Workplace Relations in June 2026."
+      }
+    ]
+  },
+  {
+    "id": "7a81ef31-a462-4a7c-a60d-5e8c8b3e3c5f",
+    "status": "archived",
+    "dateCreated": "2025-08-27T05:01:48.157Z",
+    "slug": "volunteer-leadership-project",
+    "title": "Volunteer Leadership Project",
+    "shortDescription": "The Volunteer Leadership Project addresses critical capability gaps in non-operational leadership roles across Australia’s volunteer-based Fire and Emergency Services.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/3dba42ec-5e97-4f81-96a8-f6f7a55958fc"
+    ],
+    "categories": [
+      {
+        "id": 5,
+        "name": "Fire and Emergency Services",
+        "slug": "fire-and-emergency-services"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      },
+      {
+        "id": 46,
+        "name": "Completed"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-08-01",
+      "endDate": "2026-05-31",
+      "isDone": true,
+      "stageDescription": "**Project Scope and Activities** \n\nThe Volunteer Leadership Project focuses on enhancing non-operational leadership across Australia’s volunteer emergency services, including Volunteer Fire Brigades, State Emergency Services (SES), and Marine Rescue organisations. \n\nKey activities include: \n\n- Conducting a desktop environmental scan of existing leadership training models \n\n- Engaging stakeholders through structured consultation processes \n\n- Analysing data to identify common themes and capability gaps \n\nInsights from these activities will inform the future development or revision of training products within the PUA Public Safety Training Package, helping to build a more consistent and effective leadership framework for volunteer emergency services nationwide. "
+    },
+    "stages": [
+      {
+        "stageTitle": "Project Updates",
+        "startDate": "2025-08-01",
+        "endDate": "2026-05-31",
+        "isDone": true,
+        "stageDescription": "### Agency Consultation Activities\n\n#### Consultation is closed\n\nThe Volunteer Leadership Project was established to support the Fire and Emergency Services industry-sector identify the capability requirements of non-operational leaders within agencies. The findings of the project will be used to inform changes to the PUA Public Safety Training Package to support these roles.\n\nDuring the initial project phase, Public Skills Australia established a Volunteer Leadership Working Group comprising members from each state and territory and across fire, State and Territory Emergency Service and Surf Life Saving agencies."
+      },
+      {
+        "stageTitle": "Desktop Environment Scan ",
+        "startDate": "2025-09-01",
+        "endDate": "2025-10-31",
+        "isDone": true,
+        "stageDescription": "A scan of the environment through desktop research."
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-10-01",
+        "endDate": "2026-04-30",
+        "isDone": true,
+        "stageDescription": "### Consultation sessions\n\nA range of online meetings were held between 4 February and 15 February 2026 to gather feedback. \n\n### Agency Consultation Activities\n\nWe conducted face-to-face consultations for the Volunteer Leadership Project with stakeholders across Australia, which included Fire and Emergency services, Surf Life Saving, Marine Rescue and SES. \n\nThe sessions were held across Western Australia (DFES Forrestfield), Queensland (SES Headquarters Nundah) and South Australia (SES Headquarters Keswick). The sessions focused on non-operational volunteer leadership, job role capabilities and knowledge to show our stakeholders how we are unlocking the potential of vocational education and training across Australia.\n\nThe consultations were a great opportunity for stakeholders and working groups to share their expertise and make contributions to the project. With working groups having representation around the country, covering every jurisdiction.\n\nThe findings align with two Ministerial priorities: qualifications reform and the federal government’s productivity agenda, with a focus on building a skilled, adaptable and inclusive volunteer workforce.\n\nThe Ministerial priorities have informed the development of the report, which include updates to training products embed Qualification Reform principles, undertaking activity that supports building a skilled, adaptable and inclusive workforce, and identify opportunities to strengthen capabilities of the public safety and government workforces in preparing for and responding to emergency events, including identification of emerging or revised skill requirements."
+      },
+      {
+        "stageTitle": "Stakeholder Insights and Stakeholder Training Reports Submitted",
+        "startDate": "2026-04-01",
+        "endDate": "2026-06-30",
+        "isDone": true,
+        "stageDescription": "Training Needs Report delivered based on consultation, feedback and analysis."
+      }
+    ]
+  },
+  {
+    "id": "99a91a64-c590-4e86-bd96-8b413e5f3ccd",
+    "status": "archived",
+    "dateCreated": "2024-10-02T01:34:20.429Z",
+    "slug": "defexo-defence-explosive-ordnance",
+    "title": "DEFEXO Defence Explosive Ordnance",
+    "shortDescription": "This project will see the development of a new unit of competency within the DEF Defence Training Package to support the Defence sector’s capability in testing and evaluating explosive ordnance. ",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/bca1716f-1705-4875-9e76-40edff1b75a5"
+    ],
+    "categories": [
+      {
+        "id": 6,
+        "name": "Defence",
+        "slug": "defence-public-affairs-qualifications"
+      }
+    ],
+    "tags": [],
+    "hyperlinks": [
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      },
+      {
+        "title": "Download Consultation Log",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/addc4a03-81b4-477f-951e-a17ee0ae164a"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-01",
+      "isDone": true,
+      "stageDescription": "This project will see the development of a new unit of competency within the DEF Defence Training Package to support the Defence sector’s capability in testing and evaluating explosive ordnance. This project has been identified in collaboration with the Department of Defence to support the safe testing of explosive ordnance and safeguard the wellbeing of its personnel within this capability. \n\nInitial engagements with subject-matter experts and stakeholders in the Defence sector have identified the technical components and requirements of this specialised unit of competency.\n\nPublic Skills Australia acknowledges the use of explosive ordnance units within the mining industry-sector and will engage with the Mining and Automotive Skills Alliance (AUSMASA), to identify relevant organisations for consultation. Public Skills Australia will work closely with the Australian Defence College to support the tri-service accreditation of Australian Defence Force staff and ensure the new unit of competency is effectively implemented.\n\n#### Technical Committee\n\nEngagement with the Defence sector is currently taking place. In accordance with the Training Package Products Development and Endorsement Process Policy, a Technical Committee has been stood up to provide advice on amendments to the DEF Defence Explosive Ordnance qualifications. The Technical Committee will provide expert advice, grounded in evidence to assist in the design and development of the training products.\n\n#### Terms of Reference\n\nThe Terms of Reference for the Technical Committee can be found below:\n\n[Defence Explosive Ordnance – TOR](https://psa-directus-prod.azurewebsites.net/assets/1c8c4556-af3b-401b-85dc-1a63a5f68aa1)\n\nNote: multiple members of the Technical Committee have had their identifying information omitted from the Terms of Reference.\n\nConsultation Strategy\nPublic Skills Australia will engage in thorough consultation with stakeholders to ensure that their perspectives, concerns and insights are fully considered in the development process. Details of consultation, including mechanisms and identification of stakeholders can be found here:\n\n[Defence Explosive Ordnance – Consultation Strategy](https://psa-directus-prod.azurewebsites.net/assets/916a050c-e5db-44ed-9b1f-1197fdf5aa88)"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2024-10-01",
+        "endDate": "2024-11-30",
+        "isDone": false,
+        "stageDescription": "#### 13 November 2024\nThe consultation period for the Defence Explosive Ordnance Project has now ended. \n\nBased on the feedback received, Public Skills Australia will collaborate with the project’s Technical Committee to determine if any revisions to the products are required.\n\nThe project's Consultation Log, which includes feedback and responses to feedback, is now available for download on this page.\n\n\n#### 15 October 2024\nPublic Skills Australia has developed a draft unit of competency based on advice from the Defence Explosive Ordnance Technical Committee. \n\nThis proposed new unit of competency, **‘DEFEXOXXX Conduct explosive ordnance test and evaluation processes'** has been designed to support the Australian Defence Force’s explosive ordnance testing and evaluation capabilities. Addressing the necessary skills and knowledge, it aims to assist in providing a safer environment for personnel undertaking ordnance test and evaluation activities. \n\nThe unit covers identifying test requirements and methods, safety considerations, developing evaluation plans and drafting reports. \n\nThis unit applies to Defence explosive ordnance test and evaluation supervisors, managers and team leaders but is relevant to any individuals who work in this field. It has been identified to be included as an elective unit within DEF41122 Certificate IV in Explosive Ordnance Proof and Experimental.\n\n### We want your feedback\n\nFrom 15 October to 12 November 2024, Public Skills Australia will conduct virtual workshops for public consultation with stakeholders on the proposed draft training products. PSA invites you to these consultations so you can share your feedback.\n\n### Workshop Schedule\n\n**Session 1:** Wednesday 23 October 2024, 11:00am – 12:00pm AEDT\n\n**Session 2:** Wednesday 30 October 2024, 11:00am – 12:00pm AEDT\n\n\n"
+      }
+    ]
+  },
+  {
+    "id": "99fc2e7d-94ac-40ec-b0b0-a4d6cdd2fb7c",
+    "status": "published",
+    "dateCreated": "2026-03-12T00:10:20.227Z",
+    "slug": "cross-industry-biosecurity-skills-review",
+    "title": "Cross-Industry Biosecurity Skills Review",
+    "shortDescription": "The Biosecurity Skills Review is a cross-JSC project to support the implementation of the National Biosecurity Strategy - an Australian Government Priority.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/31615e14-1ebe-42c4-9cb6-cd282489af7e"
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Government",
+        "slug": "government"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2026-03-01",
+      "endDate": "2027-02-01",
+      "isDone": true,
+      "stageDescription": "The Biosecurity Skills Review is a cross-JSC project to support the implementation of the National Biosecurity Strategy - an Australian Government Priority.\n\nBiosecurity refers to the controls and measures to manage the risk of pests, weeds and diseases entering, emerging, establishing or spreading within Australia.  The scope of this project covers exotic and established pests, weeds and diseases, including zoonotic diseases, but does not extend to human biosecurity.\n\nPublic Skills Australia will support Skills Insight by looking at an extensive range of occupations that relate to biosecurity including standard, ancillary and surge workforces. Through research and industry consultation the report will map current biosecurity occupation and other occupations that have relevant skills and knowledge that can support biosecurity.  These will be aligned to current training offerings and any skills gaps identified.  The final report will provide recommendations for workforce development, training and the potential for a national skills capability framework to support the National Biosecurity Implementation Committee.  "
+    },
+    "stages": [
+      {
+        "stageTitle": "Research and Stakeholder Identification ",
+        "startDate": "2026-03-01",
+        "endDate": "2026-04-30",
+        "isDone": true,
+        "stageDescription": "To register your interest in this project and be notified of updates, please click on the link below:\n\n [Cross-Industry Biosecurity Skills Review register](https://forms.office.com/Pages/ResponsePage.aspx?id=0kV-uiZxa0Kt3xs9pY_VpsyUmcIoYqNDgZaNWh4R1BxURFgxQzkwWjdRR0E1WFI5RFM4SlJLQUswNS4u). \n\n\n"
+      },
+      {
+        "stageTitle": "Establish Steering Committee",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-01",
+        "isDone": true,
+        "stageDescription": "A Steering Committee will be established once Research and Stakeholder Identification has been completed."
+      },
+      {
+        "stageTitle": "Consultation ",
+        "startDate": "2026-05-01",
+        "endDate": "2026-08-31",
+        "isDone": false,
+        "stageDescription": "Details on consultation methodology and outcomes will be provided here when available."
+      },
+      {
+        "stageTitle": "Report Preparation",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-30",
+        "isDone": false,
+        "stageDescription": "The Biosecurity Skills Review Report will be delivered based on consultation, feedback and analysis."
+      },
+      {
+        "stageTitle": "Stakeholder Review",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-31",
+        "isDone": false,
+        "stageDescription": "The report will be reviewed and any final amendments based on consultation, feedback and analysis will be made."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2027-01-01",
+        "endDate": "2027-02-28",
+        "isDone": false,
+        "stageDescription": "This stage has not yet commenced. At this stage final checks are completed, and report will be submitted to Department of Employment and Workplace Relations for consideration. Details will be shared here when available."
+      }
+    ]
+  },
+  {
+    "id": "be1d7e04-bdee-4faf-8883-67656891ca96",
+    "status": "archived",
+    "dateCreated": "2025-03-02T23:37:54.513Z",
+    "slug": "auslan-interpreting-and-translating-qualification-review-phase-1",
+    "title": "Auslan, Interpreting and Translating Qualification Review (Phase 1)",
+    "shortDescription": "A review to assess the uptake, use and challenges relating to the Auslan, Interpreting and Translating qualifications.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/3c08eca6-0a64-4888-9233-7ea59a9775e3"
+    ],
+    "categories": [
+      {
+        "id": 10,
+        "name": "Community",
+        "slug": "community"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      },
+      {
+        "id": 46,
+        "name": "Completed"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Annual Implementation, Promotion and Monitoring Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-02-01",
+      "endDate": "2025-12-31",
+      "isDone": true,
+      "stageDescription": "The Auslan, Interpreting and Translating Qualification Review Project has been initiated in response to the Disability Royal Commission 2023 recommendation 6.2: \n\n*Increase the number of Auslan Interpreters and support the Deaf Census Report - Understanding Auslan.* \n\nSpecifically, this project will explore:\n\n- The utilisation of the Auslan training qualification, including factors that influence its adoption, accessibility, and relevance in the industry.\n- The ability of Registered Training Organisations (RTOs) and Technical and Further Education (TAFE) to effectively deliver Auslan interpreter training, addressing challenges related to course content, delivery methods, and training capacity.\n- The transition from training qualification to employment as an Auslan Interpreter, exploring the barriers to employment and identifying pathways to successful career entry in the interpreting field.\n\nThe project will be delivered in two phases:\n\n**Phase 1**\n\nThis phase will be focussed on the development of a Findings and Recommendations Report to assess the uptake, use and challenges concerning the Auslan, Interpreting and Translating qualifications. It will identify key areas for improvement, and assess how the training can be better leveraged to increase overall use and effectiveness. \n\nComprehensive insights and feedback, data will be collected through:\n- Desktop Environmental Scan\n- Facilitated workshops across Australia with key stakeholders\n\n**Phase 2**\n\nThis phase will be aimed at the Review, Update, Promotion, and/or Implementation of the Auslan, Interpreting and Translating qualifications (hereafter referred to as Auslan qualification). It will focus on refining the relevant qualifications and promoting their broader use, delivery and implementation. \n\nThe outcomes of this phase are expected to enhance the accessibility and quality of Auslan training, ensuring it meets the needs of both the interpreting community and the Deaf community.\n\n\n\n\n### Qualifications in Review\n\nQualifications in review:\n\n• PSP20218 - Certificate II in Auslan\n\n• PSP30218 - Certificate III in Auslan\n\n• PSP40818 - Certificate IV in Auslan\t\t\n\n• PSP51018 - Diploma of Auslan\n\n• PSP50922 - Diploma of Interpreting\n\n• PSP50822 - Diploma of Translating\n\n• PSP60922 - Advanced Diploma of Interpreting \n\n\n• PSP60822 - Advanced Diploma of Translating\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Project Updates",
+        "startDate": "2025-10-01",
+        "endDate": "2025-12-01",
+        "isDone": true,
+        "stageDescription": "## Phase 1 of this project is complete\n\nThe project team have finalised the [Auslan, Interpreting and Translating Qualification Review](https://psa-directus-prod.azurewebsites.net/assets/a4b496b8-7882-413f-a5d5-7934baac2495.pdf) report. \n\nThis recommendation report will inform Phase 2 of this project. You can view details of Phase 2 by [clicking here](https://publicskillsaustralia.org.au/projects/auslan-interpreting-and-translating-qualification-review-phase2). \n"
+      },
+      {
+        "stageTitle": "Desktop Environmental Scan",
+        "startDate": "2025-02-01",
+        "endDate": "2025-03-01",
+        "isDone": true,
+        "stageDescription": "This research stage explored the use of the Auslan qualifications, challenges for training providers and structure of delivery. \n\nIt also identified stakeholders, gaps in the number of Certified Interpreters and existing pathways to certification. "
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-04-01",
+        "endDate": "2025-09-01",
+        "isDone": true,
+        "stageDescription": "Comprehensive insights, feedback, data were collected through a series of facilitated workshops across Australia. \n\nThese workshops involved key stakeholders, including:\n- peak industry bodies\n- advocacy groups\n- service providers\n- Deaf community members\n- training providers\n\nThese workshops collaboratively developed content, and sought specialist input and guidance regarding relevant cultural considerations.  "
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2025-09-01",
+        "endDate": "2025-10-01",
+        "isDone": true,
+        "stageDescription": "Insights from consultative workshops have been developed into a set of findings and recommendations. \n\nThe proposed recommendations have been developed to address key challenges raised by stakeholders through updates practical to the Training Package. In collaboration with a Technical Committee, these recommendations will provide scope and direction for Phase 2 of the project.\n\nThe following video provides a summary of the recommendations and findings, however, for further information, please refer to [Public Skills Australia Validation of Findings and Recommendations](https://psa-directus-prod.azurewebsites.net/assets/e8c119ec-4433-45ee-970d-f30b8787d651).\n\n<iframe src=\"https://player.vimeo.com/video/1125753289?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1024\" height=\"768\" frameborder=\"0\" align=\"left\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></script></iframe>\n"
+      }
+    ]
+  },
+  {
+    "id": "c9c9ba72-2b74-4a38-964b-04f76733ab04",
+    "status": "published",
+    "dateCreated": "2026-05-14T05:44:52.182Z",
+    "slug": "police-occupational-pathways",
+    "title": "Police Occupational Pathways",
+    "shortDescription": "The Police Occupational Pathways Project was established in response to the Public Skills Australia 2025 Public Safety Workforce Insights Report.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/60c6a512-f4d8-42dc-9a3e-cceabf8e5009"
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Police",
+        "slug": "police"
+      }
+    ],
+    "tags": [
+      {
+        "id": 45,
+        "name": "Implementation Project"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": null,
+    "stages": [
+      {
+        "stageTitle": "Overview",
+        "startDate": "2026-01-01",
+        "endDate": "2026-12-31",
+        "isDone": true,
+        "stageDescription": "The Police Occupational Pathways Project was established in response to the Public Skills Australia [2025 Public Safety Workforce Insights Report](https://psa-directus-prod.azurewebsites.net/assets/8606dd9e-6351-4d5d-b595-2dcfdd27bf43). \n\nThe report identified increased pressures on police workforce sustainability and emphasised the need to better understand the drivers of police specialist occupation shortages.   \n\nThe term “specialist occupations” refers to policing roles that focus on a specific area of law enforcement requiring advanced training beyond a general duties police officer, such as forensics, crash investigations or bomb technical response. \n\nTo address workforce pipeline challenges associated with specialist occupations, Public Skills Australia is collaborating with Australian policing agencies and the Australian New Zealand Policing Advisory Agency to: \n- Identify drivers that may be limiting specialist occupation capacity across policing agencies. \n- Design innovative pathways that recognise employees existing skills to increase employee transferability into specialist occupations. \n- Provide policing agencies with insights into the common skills across policing to support pathways between specialist occupations.  \n- Determine how the Vocation Education and Training (VET) system could support efforts to address shortages in specialist occupations. \n- Provide recommendations (if relevant) to streamline training package products to increase inter-industry skills transferability. "
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-03-01",
+        "endDate": "2026-05-31",
+        "isDone": true,
+        "stageDescription": "Public Skills Australia held online consultations in March 2026 with all Australian policing agencies. These consultations examined how policing agencies manage training for their specialist occupations and identified associated workforce challenges.  \n\nIn-person consultations will be conducted with all policing agencies and unions in May 2026 to support the development of enhanced training pathways into and between specialist occupations.   "
+      },
+      {
+        "stageTitle": "Research and Analysis",
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-31",
+        "isDone": false,
+        "stageDescription": "The Project will analyse the POL Police Training Package for the 21 VET qualifications that align with specialist occupations to: \n- Identify common skills \n- Determine the extent to which those skills overlap across qualifications \n- Map patterns of capability transfer"
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-31",
+        "isDone": false,
+        "stageDescription": "On completion of the Project, a Pathways Documentation product will be developed to support policing agencies: \n\n**Understand which specialist occupations have the greatest overlap of skills**.  This will assist in guiding career pathways for personnel seeking to transition between specialist occupations and enable stronger transfer of capability. \n\n**Identify elements and performance criteria across the 21 VET qualifications that have a high degree of similarity**. This will allow training for one qualification to be designed and delivered in a way that also satisfies the requirements of other related qualifications. \n\n**Recommend new training products to upskill personnel across multiple specialist occupations**. This will support policing agencies to increase workforce mobility.  "
+      }
+    ]
+  },
+  {
+    "id": "cddca652-b2e0-4d5b-a5fa-174da0a1628c",
+    "status": "published",
+    "dateCreated": "2026-03-18T03:39:41.862Z",
+    "slug": "maintenance-of-psp-public-sector-package",
+    "title": "Maintenance of PSP Public Sector Package",
+    "shortDescription": "Broad maintenance of qualifications within the PSP Public Sector Training Package to support reform across the VET sector and to ensure training products accurately reflect current industry practice.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/18c3db2a-5099-472f-a642-f1975bf4338b"
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Government",
+        "slug": "government"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Change Summary",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/036c23db-66e3-4758-aebc-a0cce9648695.pdf"
+      },
+      {
+        "title": "PSP Maintenance Draft Products",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/32e9f847-79a3-4985-90c5-35650c12d61b.zip"
+      },
+      {
+        "title": "Register for Consultations",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUNUhaVjVYWlpFS09BV05YWTVPTUQ1RFJZNyQlQCN0PWcu"
+      },
+      {
+        "title": "Terms of Reference",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/9777e0ba-12e8-427d-bd0a-ce2f86c0de66.pdf"
+      },
+      {
+        "title": "Consultation Strategy",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/9a6a766b-ec76-4dc8-9b46-3d46744a1dcb"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-05-31",
+      "endDate": "2026-02-28",
+      "isDone": true,
+      "stageDescription": "The Maintenance component of the Review of Procurement and Contracting Qualifications will ensure all qualifications listed below have current units of competency included in their packaging rules. \n- PSP20122 Certificate II in Government   \n- PSP30122 Certificate III in Government   \n- PSP40122 Certificate IV in Government  \n- PSP40216 Certificate IV in Court Operations   \n- PSP40316 Certificate IV in Government Security   \n- PSP40522 Certificate IV in Trade Measurement   \n- PSP50122 Diploma of Government\n- PSP50316 Diploma of Government Security   \n- PSP50716 Diploma of Fraud Control  \n- PSPSS00055 Public Sector Fundamentals Skill Set\n- PSPSS00056 Public Sector Manager Skill Set\n\n**Feedback on the draft products can be provided [here](https://forms.office.com/r/RChBZiiQqY).**\n\nThe following qualifications, for which no industry demand has been demonstrated, will be proposed for deletion.\n- PSP40716 Certificate IV in Heavy Vehicle Road Compliance  \n- PSP50216 Diploma of Court Operations \n- PSP50522 Diploma of Trade Measurement   �� \n\nThe following units of competency will be proposed for deletion, as they are packaged within the qualifications that are already proposed for deletion. \n- PSPTRP001 Intercept vehicles and assess compliance\n- PSPTRP002 Operate weigh bridges\n- PSPTRP003 Intercept vehicles and assess driver compliance\n- PSPTRP004 Conduct detailed vehicle inspections\n- PSPTRP005 Pilot and escort oversize and/or over-mass vehicles\n- PSPTRP006 Undertake access assessments and approvals\n- PSPTRP007 Provide information on vehicle configuration compliance\n- PSPTRP008 Operate within the regulatory framework for road transport compliance\n- PSPTRP009 Provide vehicle technical advice\n- PSPCRT022 Undertake senior court listing activities\n- PSPCRT024 Record complex court proceedings\n- PSPCRT025 Manage court practice and process\n- PSPREG050 Conduct measurement licensee audit"
+    },
+    "stages": [
+      {
+        "stageTitle": "Product Development",
+        "startDate": "2026-03-01",
+        "endDate": "2026-04-26",
+        "isDone": true,
+        "stageDescription": "**Phase 1: Research and analysis**\n\nPublic Skills Australia will undertake research and analysis to identify superseded units of competency within each qualification.  Current units will be assessed for equivalency and relevance to each qualification. \n\n**Phase  2:**\n\nPublic Skills Australia will draft training products based on the advice of a Technical Committee, composed of members outlined with the Training Package Organising Framework (2025). Through Technical Committee meetings, Public Skills Australia use the data gathered from phase one to determine relevant updates.\n"
+      },
+      {
+        "stageTitle": "Consultation ",
+        "startDate": "2026-05-01",
+        "endDate": "2026-06-30",
+        "isDone": true,
+        "stageDescription": "To establish an open and inclusive national consultation process that enables contributions from key users of the training products being developed, is essential to the development process. This will ensure industry relevance and stakeholder support for the final products. Consultation is also intended to ensure that the Qualification Development Quality Principles are applied to training product work throughout the process.\n\n"
+      },
+      {
+        "stageTitle": "Review",
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31",
+        "isDone": false,
+        "stageDescription": "The stakeholder review will be conducted after consultations have taken place."
+      },
+      {
+        "stageTitle": "Finalisation ",
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31",
+        "isDone": false,
+        "stageDescription": "Further details on the finalisation of this project will be shared here when available."
+      }
+    ]
+  },
+  {
+    "id": "cfdbcdad-f6d5-4f8f-aa5b-ebab1b08adc3",
+    "status": "published",
+    "dateCreated": "2026-05-14T05:50:30.542Z",
+    "slug": "vet-workforce-study",
+    "title": "VET Workforce Study – Public Safety and Government industry-sectors ",
+    "shortDescription": "This project examines the evolving workforce capability needs across the Public Safety and Government sectors and identifies practical, evidence-based actions to strengthen and sustain the VET workforce.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/c154f565-feb1-4745-b715-6d34950e6edd"
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Government",
+        "slug": "government"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2026-01-01",
+      "endDate": "2026-06-30",
+      "isDone": false,
+      "stageDescription": "The Public Safety and Government industry-sectors are operating in an environment of rapid and complex change. \n\nIncreasing natural disasters, climate impacts, geopolitical uncertainty, technological transformation, and shifting community expectations are driving more complex capability requirements, placing growing pressure on the Vocational Education and Training (VET) Workforce to deliver timely, relevant and high-quality training. \n\nThe VET system is a key mechanism for equipping current and future workforces with current and emerging skills.  \n\nIn 2024, the Department of Employment and Workplace Relations (DEWR), acting in support of the Skills and Workforce Ministerial Council, released the VET Workforce Blueprint, signalling the national priority to transform, strengthen and streamline the VET Workforce model. \n\nIn response, DEWR commissioned all Jobs and Skills Councils (JSCs) to undertake a VET Workforce Study in their respective industries; an initiative designed to identify practical, evidence-informed actions to grow, support and sustain the VET Workforce across Australia. \n\nPublic Skills Australia, as the JSC supporting the Public Safety and Government industry-sectors, has delivered the Study through three interconnected work streams. \n\nEach stream has built progressively toward a deeper understanding of the VET Workforce and the actions required to better support, strengthen and sustain it.  \n\n\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Methodology",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-30",
+        "isDone": false,
+        "stageDescription": "Public Skills Australia’s VET Workforce Study is being delivered through three interconnected work streams.  \n\nStreams 1 and 2 (concluded Dec 2025) provided the foundational evidence base. Extensive in-person consultations have occurred with industry-sector stakeholders in every State and Territory in Australia as well as with Public Skills Australia’s strategic network groups across 2025 – 2026. Further information on all project streams is provided below.  \n\n**Stream 1** developed a comprehensive understanding of the learning and organisational development ecosystems across the Public Safety and Government industry-sectors, identified key challenges impacting maintaining the VET Workforce and outlined opportunity areas to strengthen the responsiveness and sustainability of the VET Workforce \n\n**Stream 2** focused on validating Stream 1 findings and conducting explorative, in-field / industry-sector research to identify shared approaches that can inform development and design of collaborative industry-led responses – leveraging from the opportunities identified in the Stream 1 Report.  \n\n**Stream 3** (Jan – June 2026) focuses on integrating insights and findings from Streams 1 and 2 into a practical, ADDIE-based guide, supported by case studies that illustrate good practice across the learning and development lifecycle.  \n\n\n\n"
+      },
+      {
+        "stageTitle": "Emerging opportunities",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-30",
+        "isDone": false,
+        "stageDescription": "Research has identified the following opportunity areas to strengthen the responsiveness and sustainability of the VET workforce in the Public Safety and Government industry-sectors: \n\n- Integrating operational expertise with training capability, bringing together operational staff / personnel, and training experts to build a balanced training workforce model that supports consistent, high-quality delivery. \n\n- Leveraging the Certificate IV in Training and Assessment (Certificate IV TAE), and broader adult-education qualifications to strengthen facilitation capability and deliver more impactful learning. \n\n- Enhancing proactive and continuous training delivery, supported by stronger strategic planning, systems, tools and data to anticipate future capability needs. \n\n- Strengthening attraction and retention of the VET Workforce through clearer and more attractive career pathways and understanding of workforce drivers and barriers. \n\n- Expanding coaching and mentoring arrangements to support trainer capability, effective performance, and encourage professional growth, including alignment with the Certificate IV TAE to explore opportunities for mentoring, coaching and on‑the‑job learning to contribute to qualification attainment. "
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-01-01",
+        "endDate": "2026-07-31",
+        "isDone": false,
+        "stageDescription": "Stream 3 consolidates the research, validation and co‑design completed throughout Streams 1 and 2 and will translate the findings into this Stream 3 Final Report – Learning and organisational development (the Report). This Report will serve as a practical guide detailing good practice in the implementation of the ADDIE model (or other relevant learning and development model) – Analysis, Design, Development, Implementation and Evaluation.  \n\n![](https://psa-directus-prod.azurewebsites.net/assets/44160c7f-e54e-47b0-9f96-2cbdfb9b2a5c)\n\n*Figure: ADDIE model*\n\nIt will articulate good practice through each of the phases of the ADDIE model to support industry-sectors in enhancing learning and organisational development approaches. Each chapter will be underpinned with case studies drawn from consultations, illustrating the application of good practice and demonstrating how the principles identified can be applied across diverse operational contexts.\n\nThe report will further detail recommendations and pilot initiatives that could support the growth and sustainability of the VET Workforce within the Public Safety and Government industry.\n\nThe final report is due to the Department of Employment and Workplace Relations 31 July 2026 and is expected to be approved for publishing on this website late 2026.  \n"
+      }
+    ]
+  },
+  {
+    "id": "d0c3d51c-419f-4157-b5fd-dbc5afd6f56c",
+    "status": "published",
+    "dateCreated": "2025-09-18T04:13:55.398Z",
+    "slug": "complex-infrastructure",
+    "title": "Complex Infrastructure",
+    "shortDescription": "Public Skills Australia is working in collaboration with Fire and Emergency Services across Australia to address the emerging and complicating risks faced by responding members.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/61278a1c-8797-4eae-b38f-665fa3622b88"
+    ],
+    "categories": [
+      {
+        "id": 5,
+        "name": "Fire and Emergency Services",
+        "slug": "fire-and-emergency-services"
+      }
+    ],
+    "tags": [
+      {
+        "id": 44,
+        "name": "Research"
+      }
+    ],
+    "hyperlinks": [],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-08-01",
+      "endDate": "2026-08-31",
+      "isDone": false,
+      "stageDescription": "This project was initiated through consultation with Fire and Emergency Services which highlighted complex factors that pose increased risks to emergency responders. \nThese factors include:\n- Increased use of combustible and synthetic materials in construction\n- Electric vehicle charging stations and infrastructure, especially in sub-basements of multi-level buildings\n- Confined or limited access environments, including high rise buildings, tunnels, and large volume spaces that complicate fire behaviour patterns and management of fire, smoke and gases.\n\nThe project sets out to define current and emerging skills and knowledge requirements when dealing with emergencies by facilitating conversations within and between agencies on best practices to support safer and more effective preparedness and response capability.\n\nOn completion of the project, the evidence collected will inform the next steps which may result in updates, if necessary, to the PUA Public Safety Training Package.\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Industry Engagement",
+        "startDate": "2025-09-01",
+        "endDate": "2025-10-31",
+        "isDone": true,
+        "stageDescription": "Public Skills Australia is engaging with Industry regarding this project. Details on engagement and outcomes will be uploaded here when available. \n"
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-02-02",
+        "endDate": "2026-04-30",
+        "isDone": false,
+        "stageDescription": "This stage has not yet commenced. Details on consultation methodology and outcomes will be uploaded here when available."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-31",
+        "isDone": false,
+        "stageDescription": "On completion of the project, the evidence collected will inform the next steps which may result in updates, if necessary, to the PUA Public Safety Training Package."
+      }
+    ]
+  },
+  {
+    "id": "d9db0b26-b594-49af-8868-da9d7a15c553",
+    "status": "published",
+    "dateCreated": "2026-02-18T05:50:04.755Z",
+    "slug": "correctional-services-training-implementation-phase2",
+    "title": "Correctional Services Training Implementation (Phase 2)",
+    "shortDescription": "This project strengthens delivery of CSC30122 Certificate III in Correctional Practice and CSC30222 Certificate III in Immigration Detention Operations by improving clarity, assessment quality and cultural appropriateness.",
+    "ctaTitle": "Correctional Services Implementation Findings Report",
+    "ctaUrl": "https://psa-directus-prod.azurewebsites.net/assets/afab56be-9e1c-4db0-921b-0ed13d1c4200.pdf",
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/2082fa4e-0479-4282-a542-7cf8eea83a1f"
+    ],
+    "categories": [
+      {
+        "id": 9,
+        "name": "Correctional Services",
+        "slug": "corrections"
+      }
+    ],
+    "tags": [
+      {
+        "id": 45,
+        "name": "Implementation Project"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Correctional Services Implementation Findings Report",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/afab56be-9e1c-4db0-921b-0ed13d1c4200.pdf"
+      },
+      {
+        "title": "Good Practice Forums - Expression of Interest form",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=0kV-uiZxa0Kt3xs9pY_Vpj4frnF_SPtMtlsjZwSpVQRUNVRVOEFGUDhZTDgySzAyMlY3QVdPUENEUCQlQCN0PWcu"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2026-01-01",
+      "endDate": "2027-05-13",
+      "isDone": true,
+      "stageDescription": "### Background\n\nPhase 1: Consultation with stakeholders identified misalignment between training and practice, limited assessment opportunities, learner support challenges, and uncertainty in culturally sensitive units.\n\nPhase 2 will see the implementation of the recommended strategies of Phase 1.\n\n### Project Objectives\n\n- Improve alignment with operational practice \n- Strengthening assessment approaches \n- Enhance learner support \n- Improve cultural awareness \n- Facilitate national collaboration through Good Practice Forums \n\n\n### Key Deliverables \n\n- Training and assessment guidance\n- Implementation Guide: "
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-05-01",
+        "endDate": "2026-09-30",
+        "isDone": false,
+        "stageDescription": "Broad consultation and promotion will be conducted with industry and RTO stakeholders, established networks and the Correctional Services Subcommittee. \n\nFeedback from consultations will be incorporated into the Implementation Guide. \n\nThis will include building consensus between key stakeholder groups and determining the finalised content.\n"
+      },
+      {
+        "stageTitle": "Develop Implementation Guide",
+        "startDate": "2026-06-09",
+        "endDate": "2027-01-01",
+        "isDone": false,
+        "stageDescription": "In response to recommendations 1 and 3 within the Correctional Services Training Implementation Report, Public Skills Australia will develop a new Implementation Guide.\n\nThis guide will be tailored for the CSC30122 Certificate III in Correctional Practice and CSC30222 Certificate III in Immigration Detention Operations qualifications, incorporating culturally appropriate learning and assessment guidance, including:\n\n- Interpretation for the core units of both qualifications \n- Interpretation of selected CSC Correctional Service Training Package elective units of the qualifications \n- Contextualisation support for designing resources and assessment tools \n- Strategies for flexible and valid assessment design in operational settings \n- Learning support approaches tailored to correctional and detention operational settings \n- Principles for culturally safe and trauma-informed training and assessment in correctional contexts \n- Practical examples of contextualisation and assessment strategies of these units \n- Trainer resources for guidance on cultural considerations during delivery and assessment"
+      },
+      {
+        "stageTitle": "Working Groups and Forums",
+        "startDate": "2026-06-10",
+        "endDate": "2027-01-31",
+        "isDone": false,
+        "stageDescription": "In response to recommendation 2 within the [Correctional Services Training Implementation Report](https://psa-directus-prod.azurewebsites.net/assets/ccc807a0-48e7-41b5-8edc-95344f6f54d5.pd), Public Skills Australia will facilitate a series of events to foster national collaboration, build capacity and address implementation challenges previously identified.  \n\nThe Good Practice Forums will:  \n- Focus on a specific theme relevant to the delivery and assessment of the qualifications in scope of the project  \n- Promote peer learning, sharing of good practice and contextualised delivery approaches  \n- Support consultation efforts for the Implementation Guide, where appropriate \n\nThe Good Practice Forums will take place periodically throughout 2026 until January 2027."
+      },
+      {
+        "stageTitle": "Publish Implementation Guide",
+        "startDate": "2027-01-21",
+        "endDate": "2027-05-31",
+        "isDone": false,
+        "stageDescription": "Publishing the Implementation Guide will take place during this phase."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-31",
+        "isDone": false,
+        "stageDescription": "At this stage, internal governance procedures are conducted, and developed materials will be submitted to Department of Employment and Workplace Relations for consideration.\n\nDetails will be shared here when available.\n"
+      }
+    ]
+  },
+  {
+    "id": "dc5a3721-1803-4f2a-8706-ea00a63963bd",
+    "status": "archived",
+    "dateCreated": "2025-02-24T23:06:32.200Z",
+    "slug": "police-crash-investigation-and-analysis-review",
+    "title": "Police Crash Investigation and Analysis Review",
+    "shortDescription": "POL Police Training Package Release 10.0 will see the update of two qualifications within the Crash Investigation qualification stream.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/60c6a512-f4d8-42dc-9a3e-cceabf8e5009"
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Police",
+        "slug": "police"
+      }
+    ],
+    "tags": [],
+    "hyperlinks": [
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      },
+      {
+        "title": "Download Consultation Log",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/bf1ecffb-ac53-4b74-ab72-9f5ef49f8048"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-02-01",
+      "endDate": "2025-03-01",
+      "isDone": true,
+      "stageDescription": "### Project Overview\n\nPOL Police Training Package Release 10.0 will see the update of two qualifications within the Crash Investigation qualification stream. These updates will ensure that the products reflect the current and emerging requirements of police agencies. The Crash Investigation stream of qualifications outlines the skills of police officers to investigate and interpret road incidents involving a variety of vehicle types, pedestrians and other external environmental factors. This includes officers who manage incidents, gather evidence and provide their analysis for the investigation.\n\nThe update to the POL Police Training Package will be conducted in collaboration with the Australia New Zealand Policing Advisory Agency (ANZPAA), the peak body of the policing industry within Australia and New Zealand.\n\nThrough the update of the Crash Investigation qualification stream, Public Skills Australia will support the Policing industry by:\n\n- Increasing the use of products and ensuring they are implementable.\n- Improving police officers’ safety through alignment with current practices and processes.\n- Enhancing the capability of Police personnel to use evaluation and analysis techniques for motor vehicle incidents.\n\n#### Technical Committee\n\nEngagement with the Police sector is currently taking place. In accordance with the Training Package Products Development and Endorsement Process Policy, a Technical Committee has been stood up to provide advice on amendments to the POL Police Crash Investigation and Analysis qualifications. The Technical Committee will provide expert advice, grounded in evidence to assist in the design and development of the training products.\n\n#### Terms of Reference\n\nThe Terms of Reference for the Technical Committee can be found below:\n\n[Technical Committee Terms of Reference](https://psa-directus-prod.azurewebsites.net/assets/7778c379-9a2d-4ed2-b242-22f6a73c8a58)\n\nNote: multiple members of the Technical Committee have had their identifying information omitted from the Terms of Reference.\n\n#### Consultation Strategy \n\nPublic Skills Australia will engage in thorough consultation with stakeholders to ensure that their perspectives, concerns and insights are fully considered in the development process. Details of consultation, including mechanisms and identification of stakeholders can be found here:\n\n[Consultation Strategy](https://psa-directus-prod.azurewebsites.net/assets/423c658c-96cd-4037-a4ee-06d40bf9080f)\n\n#### Training Products in Scope\n\nThe review of the POL Police Training Package Release 10.0 include the following training products:\n\n- **POL50120 Diploma of Crash Investigation**\n- POLINV020 Collate and review crash investigation evidence\n- POLINV022 Develop and present crash findings\n- POLINV023 Examine a crash incident\n- **POL60120 Advanced Diploma of Crash Analysis**\n- POLINV016 Analyse complex factors involved in crash incidents\n- POLINV017 Analyse crashes involving heavy vehicles\n- POLINV018 Analyse crashes involving motorcycles\n- POLINV019 Analyse crashes involving pedestrians and bicycles\n- POLINV021 Critically analyse complex crash incident evidence\n- POLINV024 Manage quality of crash analysis\n- POLINV025 Present evidence on complex crash incidents\n\nDuring the review, the packaging rules of the qualifications will be updated to ensure the units within the qualifications are all current and deliverable by Registered training Organisations.\n\n#### Timeline\n\n![](https://psa-directus-prod.azurewebsites.net/assets/2eaacf85-397b-4ae5-95a0-63063febe709)\n\n#### Get in touch\n\nPlease check this project page periodically for further updates. \n\nFor any queries about this project, please email the Training Product Development team at: tpd@publicskillsaustralia.org.au.\n\n\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-03-01",
+        "endDate": "2025-04-30",
+        "isDone": false,
+        "stageDescription": "#### 08/04/2025:\nThe consultation period for the Police Crash Investigation and Analysis project has now ended.\nPublic Skills Australia is currently incorporating the latest feedback received during this period.\nThe Consultation Log, which includes feedback and responses, will soon be available for download on this page.\n\nThank you to everyone who participated in this valuable process.\n \nFor any questions regarding the project, please contact our Training Product Development team at: tpd@publicskillsaustralia.org.au\n\n#### 11/03/2025:\nThe updates to the qualifications and units of competency within the POL Police Training Package Release 10.0 have progressed through ANZPAA’s governance process, and have been reviewed by: \n\n- Subject matter experts, nominated by the Police Commissioner from each policing jurisdiction. \n- Senior representatives from policing academies and Registered Training Organisations. \n- Representatives from the Police Federation of Australia and the New Zealand Police Association. \n- Police Commissioners from each state and territory within Australia. \n\nFrom 11 March to 8 April 2025, Public Skills Australia will conduct virtual workshops for public consultation with stakeholders on the proposed draft training products. Public Skills Australia invites you to these consultations so you can share your feedback. \n\nWorkshops Schedule:\n\n**Session 1:** Friday 14 March 2025, 11:00 am – 12:00pm AEDT \n\n**Session 2:** Tuesday 18 March 2025, 1:30 pm – 2:30pm AEDT\n\n### Reviewed Qualifications\n\nPOL50120 Diploma of Crash Investigation \n\nPOL60120 Advanced Diploma of Crash Analysis \n\nFor more information on these qualifications, please visit the Project Overview tab.  "
+      }
+    ]
+  },
+  {
+    "id": "e574afb1-2842-43da-b30a-9196ffecef13",
+    "status": "archived",
+    "dateCreated": "2025-08-19T21:58:52.791Z",
+    "slug": "defence-youth-development",
+    "title": "Defence Youth Development",
+    "shortDescription": "Public Skills Australia is working in partnership with the Australian Defence College to develop vocational training products that create career and learning pathways into the Australian Defence Force (ADF), Defence industry, and the Australian Public Service (APS).",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/4744641f-47c7-4760-a10c-b48aa7684cf8"
+    ],
+    "categories": [
+      {
+        "id": 6,
+        "name": "Defence",
+        "slug": "defence-public-affairs-qualifications"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Consultation Strategy",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/489fcb6d-df5a-459b-a7d9-c8c4c5b0d533"
+      },
+      {
+        "title": "Technical Committee Terms of Reference",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/e47ee3b6-5cb7-4da0-9982-f7bcbb5ba0db"
+      },
+      {
+        "title": "Consultation Log",
+        "url": "https://psa-directus-prod.azurewebsites.net/admin/files/1dec1297-e9dc-4f6e-aedb-44a985a44b5c"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2025-08-01",
+      "endDate": "2026-04-30",
+      "isDone": true,
+      "stageDescription": "**Project Overview**\n\nThis project has been established to support young Australians engaged in Vocational Education and Training (VET) in Schools, as well as those participating in the Australian Defence Force Cadets and other Defence-affiliated youth development programs. Collectively, these programs engage over 30,000 participants nationwide. They provide structured, military-style experiences underpinned by Defence values and delivered in collaboration with local communities, providing a strong foundation for future employment and national service.\n\nExisting regulatory and packaging rule constraints currently prevent the DEF21115 Certificate II in Military Skills from being delivered through VET in Schools and other youth development programs, highlighting the need to modernise the qualifications to ensure contemporary alignment with safety standards while supporting Defence-aligned pathways. \n\nThis project aims to redesign the packaging rules of the qualifications to connect youth development with real-world career opportunities, strengthening Australia’s future workforce across Defence and public service sectors.\n\nThis project aims to redesign the packaging rules of the qualifications, broadening pathways into Defence thorough unique experiences and engaging training opportunities for young people, strengthening Australia’s future workforce across Defence and public service sectors.\n\n**Scope**\n\nThis project will see the update of two entry level qualifications within the DEF Defence Training Package, including:\n\n- *DEF10117 Certificate I in Defence Skills*\n- *DEF21115 Certificate II in Military Skills*\n\n**Timeline**\n\nCommencement: August 2025\n\nConsultation: November – December 2026\n\nGovernance and Finalisation: January – March 2026 \n\nCompletion: April 2026\n\n\n**Technical Committee Nomination**\n\nTechnical Committee Nominations have now closed."
+    },
+    "stages": [
+      {
+        "stageTitle": "Project Updates",
+        "startDate": "2025-08-01",
+        "endDate": "2026-04-30",
+        "isDone": true,
+        "stageDescription": "The Defence Youth Development Project has been successfully initiated and delivered in partnership with key stakeholders, including the Australian Defence College. The original objective to design and update vocational education and training (VET) products that support youth pathways into Defence, Defence industry and the Australian Public Service has been achieved.\n\nThis project has developed two entry-level qualifications suitable for youth cohorts in the DEF Defence Training Package. These have been published on the National Training Register.\n\n- *DEF10126 Certificate I in Defence Skills*\n- *DEF20326 Certificate II in Defence Skills*\n\nThe newly created DEFSS00049 Foundational Military Skill Set contains units that have military training significance that are not suitable for youth programs.\n\nThese qualifications provide foundational employability and life skills for young Australians, particularly those participating in VET in Schools, Cadets, and other youth development programs. They support pathways into Defence, the Defence industry, and broader public sector roles.\n\nAll planned governance, scoping and stakeholder engagement activities were completed, establishing a strong foundation for the development of relevant and contemporary training products.\n"
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2025-11-01",
+        "endDate": "2026-01-15",
+        "isDone": true,
+        "stageDescription": "### Consultation Completed\n\nConsultation occurred from 12 November 2025 to 15 January 2026. A summary of the feedback compiled is found in the Consultation Log [here](https://psa-directus-prod.azurewebsites.net/assets/1dec1297-e9dc-4f6e-aedb-44a985a44b5c).\n\n#### Objective of Consultation\nPublic Skills Australia has worked with the Department of Defence and the Australian Defence College to establish collaborative partnerships aimed at enhancing the development of training products. By engaging with the Department of Defence and the Australian Defence College, Public Skills Australia leveraged their specialised knowledge and experience in Defence education and training. Consultation allowed for meaningful involvement of stakeholders and further enhanced the development process.\n\n#### Consultation Plan\n| Project Phase | Description | Communication Activity |\n| ------ | ------ | ------ |\n| Commencement of Project | Publication of project overview information | Upload the Annual Training Product Development Plan to the Public Skills Australia website. |\n|    |   | Upload project overview information on the Public Skills Australia website. |\n| Establishment of Technical Committee and Consultation Strategy. | Notify Assurance Body, State Training Authorities (STA), Senior Responsible Officers (SRO) and other Jobs and Skills Councils (JSC) of Technical Committee membership details and Consultation Strategy. Due to the sensitivity of information sharing within Police, Technical Committee member names will not be published, only organisation, jurisdiction and job title. | Email notification to STAs and SROs and to relevant JSCs. |\n| Public and Government Consultation | Provide stakeholders with workshop registration forms that detail the dates and times of virtual sessions, as well as the qualifications and units of competency they wish to review. Once consultation begins, these forms will be directly accessible from each project’s Consultation page on Public Skills Australia’s website. | Public Skills Australia to provide access to draft training products and a survey for feedback.  |\n|    | Conduct public information sessions webinars.  | Provide a link to register interest for information sessions on Public Skills Australia website |\n| Internal Governance | Public Skills Australia to progress the draft training products to its established governance groups. | Conduct hybrid meetings with established governance groups. | \n\n#### Stakeholder Identification\nKey stakeholders have been drawn from:\n- Defence National Skills Framework (Education Experts)\n- Defence Registered Training Organisation (RTO)\n- Defence Welfare Association\n- Department of Defence\n- RTOs and Tafe\n- State and Territory Departments of Education \n- State and Territory Training Authorities\n- Training Skills Councils\n\n"
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-01-01",
+        "endDate": "2026-05-31",
+        "isDone": true,
+        "stageDescription": "This project received support from all State and Territory Senior Responsible Officers before progressing through Public Skills Australia's internal Governance. \n\nThe Training Package Assurance Body completed their evaluation and recommended the project to the Skills Minister for endorsement. \n\nEndorsement was received in May 2026.\n\nThe qualifications are now published on the National Training Register.\n\n- [Certificate I in Defence Skills](https://training.gov.au/training/details/DEF10126/qualdetails)\n- [Certificate II in Defence Skills](https://training.gov.au/training/details/DEF20326/qualdetails)\n"
+      }
+    ]
+  },
+  {
+    "id": "e8fa02cf-2b4d-4fa4-9ed9-cc84979d4bf3",
+    "status": "published",
+    "dateCreated": "2026-02-18T23:33:25.436Z",
+    "slug": "emerging-technology-skills-review",
+    "title": "Emerging Technology Skills Review",
+    "shortDescription": "A review identifying the skills and capabilities Australia’s Fire and Emergency Services need to safely and effectively respond to emerging emergencies involving electric vehicles and high‑powered lithium‑ion batteries.\n",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/20956492-1787-4e7f-bde1-52186e95699a"
+    ],
+    "categories": [
+      {
+        "id": 5,
+        "name": "Fire and Emergency Services",
+        "slug": "fire-and-emergency-services"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Expression of Interest for Roadshow",
+        "url": "https://forms.cloud.microsoft/r/jWm3vdF1Ze"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2026-04-01",
+      "endDate": "2026-12-30",
+      "isDone": true,
+      "stageDescription": "The 2025 Public Safety Workforce Insights Report by Public Skills Australia identified operational skills gaps within fire and emergency services in responding effectively and efficiently to emergencies involving emerging technologies. The increasing frequency and complexity of emergencies involving high-powered lithium-ion batteries require skills and knowledge to increase the capability of personnel and to maintain their safety. \n\nThis project will focus on the emerging skill requirements for responding to emergencies and emergency events involving high-powered lithium-ion batteries and Electric Vehicles (EVs). EVs include road vehicles and light electric vehicles such as electric bikes, scooters and other relevant transport devices. \n\nThis project will build upon work led by the Department of Climate Change, Energy, the Environment and Water (DCCEEW) in response to the National Electric Vehicle Strategy (2023).  \n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Benchmarking and Research",
+        "startDate": "2026-04-01",
+        "endDate": "2026-05-30",
+        "isDone": true,
+        "stageDescription": "In collaboration with AFAC, an analysis of existing research and doctrine will be conducted. The aim of this stage is to summarise and analyse existing research efforts within this area. To inform this work, engagements with the AFAC Alternative and Renewable Energy Technologies (ARET) Technical Group will be conducted. "
+      },
+      {
+        "stageTitle": "Working Group",
+        "startDate": "2026-04-01",
+        "endDate": "2026-08-30",
+        "isDone": false,
+        "stageDescription": "This stage will see the development of a Working Group to guide the Skills Review. This group will help determine the breadth, depth and relevance of skills required within Fire and Emergency Services. "
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-06-17",
+        "endDate": "2026-07-31",
+        "isDone": false,
+        "stageDescription": "During this stage, the working group’s findings will be presented to relevant stakeholders for validation. Given the high level of public interest, from both industry and the wider community, this project will prioritise in-person engagement with stakeholders. To ensure inclusive participation from stakeholders in regional and remote locations, virtual sessions will also be offered. \n\nThe validation will be conducted through a national roadshow targeting: \n- Volunteer and Career Fire Agencies \n- Emergency Service Organisations \n- United Firefighter Union Representatives \n- Relevant Jobs and Skills Councils \n- Relevant State and Territory Government Stakeholders  \n- Registered Training Organisations  \n- Interested higher education institutions.  \n\nThese sessions are designed to collect and validate both skills and knowledge requirements of Fire and Emergency Service agencies concerning new and emerging technologies."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2026-07-01",
+        "endDate": "2026-12-01",
+        "isDone": false,
+        "stageDescription": "During this stage, the Skills Review report will be finalised, summarising the project’s key findings and recommendations. The report will highlight opportunities to update specific areas of the PUA Public Safety Training Package.  "
+      }
+    ]
+  },
+  {
+    "id": "f182675b-22e0-47f8-85d5-f45b4c88f2d8",
+    "status": "archived",
+    "dateCreated": "2024-10-02T01:05:43.148Z",
+    "slug": "pol-police-training-package-release-90",
+    "title": "POL Police Training Package Release 9.0",
+    "shortDescription": "POL Police Training Package Release 9.0 will see the update to several qualifications to meet the current and emerging requirements of the Police industry-sector.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/d01525b1-e13b-4836-935a-28e362318545"
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Police",
+        "slug": "police"
+      }
+    ],
+    "tags": [],
+    "hyperlinks": [
+      {
+        "title": "Annual Training Product Development Plan",
+        "url": "https://publicskillsaustralia.org.au/annual-project-plans"
+      },
+      {
+        "title": "Download Consultation Log",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/9ab4ed33-f6d8-4029-90eb-b04d8a620433"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-01",
+      "isDone": true,
+      "stageDescription": "POL Police Training Package Release 9.0 will see the update to several qualifications to meet the current and emerging requirements of the Police industry-sector. The update to the POL Police Training Package will be conducted in collaboration with the Australia New Zealand Policing Advisory Agency (ANZPAA). ANZPAA is the peak body for the Policing industry-sector within Australia and New Zealand and is representative of each policing jurisdiction. \n\nThe qualifications identified for update in this project have been informed by the ANZPAA Annual Business Plan, approved by the Australia New Zealand Council of Police Professionalisation (ANZCoPP). The ANZCoPP Board comprises of commissioners from each state and territory and is inclusive of the Police Federation of Australia.  \n\nThis project will see the review of two vital operational streams within policing, investigation and intelligence.\n\n#### Technical Committee\n\nEngagement with the Police industry-sector is currently taking place. In accordance with the Training Package Products Development and Endorsement Process Policy, Technical Committees has been established to provide advice on the endorsement of training products.\n\n[Terms of Reference Police Investigation](https://psa-directus-prod.azurewebsites.net/assets/9cdbc144-c997-4a0c-99b1-dd274bd1c322)\n\n#### Consultation Strategy\n\nPublic Skills Australia will engage in thorough consultation with stakeholders to ensure that their perspectives, concerns and insights are fully considered in the development process.  \n\nDetails of consultation, including mechanisms and identification of stakeholders can be found here: \n\n[POL Police Training Package 9.0 Consultation Strategy](https://psa-directus-prod.azurewebsites.net/assets/1ea1a941-7752-4e1c-a815-e751b5e51783)\n\n### Training Products in Scope\n\n\nThe updates to the following qualifications will see a complete review of their core units of competency to ensure their relevance to contemporary and emerging policing requirements. During this review, the packaging rules, entry requirements and foundation skills of the qualifications will also be considered. \n\nThe review of the POL Police Training Package Release 9.0 include the following qualifications:\n\nPOL65115 Advanced Diploma of Police Investigation\n\n- POLGEN015 Apply media strategies for policing purposes\n- POLINV001 Plan Police Investigation\n- POLINV011 Conduct investigative interviews\n- POLINV002 Conduct police investigations\n- POLINV003 Manage incident scenes\n- POLINV009 Manage information within investigations\n\nPOL80119 Graduate Certificate of Police Investigation\n\n- POLGEN039 Manage risk within a policing context\n- POLINV014 Conduct jurisdictional review of policing practices\n- POLINV012 Coordinate multi-agency investigation\n- POLINV013 Lead major investigations\n- POLINV015 Manage complex investigations\n\nNot For Public Access (NFPA) Qualifications\n\nPOL Police Training Package contains training products classified as ‘Not for Public Access’ (NFPA). NFPA training products are determined to be sensitive in nature and as a result, will not be made available for public viewing on this page. During this release, the following two NFPA qualifications will be updated:\n\n- POL50119 Diploma of Police Intelligence Practice\n- POL60219 Advanced Diploma of Police Intelligence Operations\n\n### Additional qualifications identified for update\n\nThe following qualifications will be updated during the release of POL Police Training Package 9.0. This update will ensure the packaging rules of these qualifications contain current units of competency. This will support the implementation of these qualifications for Policing Registered Training Organisations.\n\n- POL30122 Certificate III in Aboriginal and/or Torres Strait Islander Community Policing\n- POL41215 Certificate IV in Protective Service\n- POL50120 Diploma of Crash Investigation\n- POL60421 Advanced Diploma of Police Search and Rescue Management\n- POL80115 Graduate Certificate in Police Management\n- POL87115 Graduate Certificate in Police Prosecution"
+    },
+    "stages": [
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2024-10-01",
+        "endDate": "2024-11-30",
+        "isDone": false,
+        "stageDescription": "#### 13 November 2024\nThe consultation period for the POL Police Training Package Release 9.0 Project has now ended.\n\nBased on the feedback received, Public Skills Australia will collaborate with the project’s Technical Committee to determine if any revisions to the products are required.\n\nThe project's Consultation Log, which includes feedback and responses to feedback, is now available for download on this page.\n\n#### 15 October 2024\nThe updates to the qualifications and units of competency within this release have progressed through ANZPAA’s rigorous governance process, and have been reviewed by:\n\n- Subject matter experts, nominated by each policing jurisdiction.\n- Senior representatives from policing academies and Registered Training Organisations.\n- Representatives from the Police Federation of Australia and the New Zealand Police Association.\n- Police Commissioners from each state and territory within Australia.\n\nFrom 15 October to 12 November 2024, Public Skills Australia will conduct virtual workshops for public consultation with stakeholders on the proposed draft training products. Public Skills Australia invites you to these consultations so you can share your feedback.\n\n### Workshops Schedule\n\n**Session 1:** Friday 25 October 2024, 1:30pm – 2:30pm AEDT\n\n**Session 2:** Tuesday 29 October 2024, 1:30pm – 2:30pm AEDT\n\nIf you prefer to provide your feedback via email, or have any further questions, please contact our Training Product Development team at: \n\ntpd@publicskillsaustralia.org.au.\n\n\n### Reviewed Qualifications\n\nPOL65115 Advanced Diploma of Police Investigation\n\nPOL80119 Graduate Certificate of Police Investigation\n\nFor more information on these qualifications, please visit the Project Overview tab. \n\nPlease note: several of the qualifications in this package release are categorised as ‘Not for Public Access’ (NFPA). Due to this categorisation, a modified process for consultation process is in place. As such, draft training product information will not be shared publicly."
+      }
+    ]
+  },
+  {
+    "id": "fdf41911-a00b-4e29-8f17-61a545e809bd",
+    "status": "published",
+    "dateCreated": "2026-03-17T05:59:00.579Z",
+    "slug": "auslan-interpreting-and-translating-qualification-review-phase2",
+    "title": "Auslan, Interpreting and Translating Qualification Review (Phase 2)",
+    "shortDescription": "This project has now moved into Phase 2. It is focused on putting the validated recommendations into practice by updating the Auslan, Interpreting and Translating qualifications in accordance with the Training Package Organising Framework.",
+    "ctaTitle": null,
+    "ctaUrl": null,
+    "images": [
+      "https://psa-directus-prod.azurewebsites.net/assets/7adbbb1d-a203-4b71-be74-50c680c575c4"
+    ],
+    "categories": [
+      {
+        "id": 10,
+        "name": "Community",
+        "slug": "community"
+      }
+    ],
+    "tags": [
+      {
+        "id": 48,
+        "name": "Training Product Development"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "title": "Auslan, Interpreting and Translating Qualification Review Report",
+        "url": "https://psa-directus-prod.azurewebsites.net/assets/a4b496b8-7882-413f-a5d5-7934baac2495.pdf"
+      }
+    ],
+    "projectOverview": {
+      "stageTitle": "Project Overview",
+      "startDate": "2026-02-01",
+      "endDate": "2027-06-30",
+      "isDone": true,
+      "stageDescription": "<iframe src=\"https://player.vimeo.com/video/1174961860?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1024\" height=\"768\" frameborder=\"0\" align=\"left\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></script></iframe>\n\n*A summary of the video is provided below.*\n\nPublic Skills Australia is conducting a review of the Auslan, Interpreting and Translating qualifications to support the recommendations within the Disability Royal Commission. Because of the importance of this project, it has been broken into two phases. \n\n**Phase 1**\n\nThis first phase involved stakeholder engagement to gather insights and determine the scope of changes required. The outcomes of this engagement have been compiled within the [Auslan, Interpreting, and Translating Qualifications Review report](https://psa-directus-prod.azurewebsites.net/assets/a4b496b8-7882-413f-a5d5-7934baac2495.pdf). \n\nStakeholder insights were categorised into three parts: \n\n- Employment and Community insights \n- Training Delivery Considerations \n- Training Package Considerations  \n\nThe findings and recommendations within the report were consulted and validated by stakeholders in late 2025. The recommendations within the report align to the remit of Public Skills Australia as a Jobs and Skills Council. This is predominantly to update and maintain Training Packages. \n\n**Phase 2**\n\nThe second phase of this project will implement the findings and recommendations from Phase One using advice from a Technical Committee, established to inform the review of the Auslan qualifications. \n\nIt will focus on refining the relevant qualifications and promoting their broader use, delivery and implementation. \n\nThe outcomes of this phase are expected to enhance the accessibility and quality of Auslan training, ensuring it meets the needs of both the interpreting community and the Deaf community.\n\nDrafts of the reviewed Auslan qualifications will be made available publicly for feedback before being finalised.\n\n\n\n"
+    },
+    "stages": [
+      {
+        "stageTitle": "Project Updates",
+        "startDate": "2026-02-01",
+        "endDate": "2027-06-01",
+        "isDone": true,
+        "stageDescription": "**Nominations for this Technical Committee are now closed.**\n\nWe have received nominations for the technical committee for this project. This committee will be established to provide advice on the design of qualifications. \n\nDetails of this committee will be published on our website shortly. \n\nIf you are not selected for the Technical Committee you can still contribute to these updates. To help **provide feedback or highlight challenges** related to the Auslan, Interpreting and Translating Qualification Review Project, [click here](https://forms.cloud.microsoft/r/zUjQEa14HU). \n\nTo **stay informed regarding the progress of this project**, [click here to register your interest](https://forms.office.com/r/SeTHSgVmwJ)."
+      },
+      {
+        "stageTitle": "Establishment of Technical Committee",
+        "startDate": "2026-02-01",
+        "endDate": "2026-06-01",
+        "isDone": false,
+        "stageDescription": "As part of the federal government’s requirements to update training packages, a technical committee must be established to provide advice on the design of qualifications. \n\nThis project's committee will be established by seeking subject matter experts, educational experts, RTO representatives, union representatives, and government representatives with relevant experience.  \n\nSessions will be held in an accessible format, and Interpreters will be arranged by Public Skills Australia. \n\nDue to departmental policy, Technical Committee membership is voluntary, and no renumeration can be offered for participation. \n\n**Please note that nominations for this Technical Committee have now closed, and session planning has commenced.**\n"
+      },
+      {
+        "stageTitle": "Product Development",
+        "startDate": "2026-07-01",
+        "endDate": "2026-10-01",
+        "isDone": false,
+        "stageDescription": "Public Skills Australia will develop draft training products informed by advice from the Technical Committee, as established under the Training Package Organising Framework (2025). \n\nAs part of this process, Public Skills Australia will present the findings and recommendations from Phase 1, specifically the Auslan, Interpreting and Translating Qualification Review report. These recommendations will support the Technical Committee in identifying the required updates to qualifications, skill sets and units of competency. \n\nThe outcomes of these discussions will guide the drafting of revised training products to ensure they align with industry expectations and contemporary job roles. "
+      },
+      {
+        "stageTitle": "Consultation",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-30",
+        "isDone": false,
+        "stageDescription": "Details on consultation methodology and outcomes will be provided here when available.\n\n"
+      },
+      {
+        "stageTitle": "Review",
+        "startDate": "2027-02-01",
+        "endDate": "2027-03-31",
+        "isDone": false,
+        "stageDescription": "The stakeholder review will be conducted after consultations have taken place."
+      },
+      {
+        "stageTitle": "Finalisation",
+        "startDate": "2027-04-01",
+        "endDate": "2027-06-30",
+        "isDone": false,
+        "stageDescription": "Further details on the finalisation of this project will be shared here when available."
+      }
+    ]
+  }
+]
