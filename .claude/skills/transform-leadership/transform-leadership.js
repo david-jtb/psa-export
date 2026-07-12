@@ -25,6 +25,7 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..', '..', '..');
 const DATA_DIR = path.join(ROOT, 'directus-export', 'data');
 const PEOPLE_TAGS_FILE = path.join(ROOT, 'directus-export', 'people-tags.json');
+const RESOURCE_TAGS_FILE = path.join(ROOT, 'directus-export', 'resource-tags.json');
 const OUT_FILE = path.join(ROOT, 'transformed', 'people.json');
 const RESOURCES_FILE = path.join(ROOT, 'transformed', 'resources.json');
 const PARTNERS_FILE = path.join(ROOT, 'transformed', 'partners.json');
@@ -85,11 +86,51 @@ function computeTags(fullName, originalTag, categoryMap) {
 	return [...tags];
 }
 
+// Builds url -> Set<group title> and fullName -> Set<group title> maps from
+// resource-tags.json. Resources are matched by asset url first (unambiguous),
+// falling back to fullName for the handful of entries whose url in
+// resource-tags.json doesn't exactly match the leadership record (e.g. an
+// /admin/files/ link instead of the resolved /assets/ url).
+function loadResourceCategoryMaps(file) {
+	const byUrl = new Map();
+	const byName = new Map();
+	if (!fs.existsSync(file)) {
+		console.warn(`   ⚠ missing resource tags file: ${path.basename(file)}`);
+		return { byUrl, byName };
+	}
+	const groups = JSON.parse(fs.readFileSync(file, 'utf8'));
+	for (const group of groups) {
+		for (const member of group.members || []) {
+			if (member.url) {
+				const urlKey = member.url.trim();
+				if (!byUrl.has(urlKey)) byUrl.set(urlKey, new Set());
+				byUrl.get(urlKey).add(group.title);
+			}
+			const nameKey = (member.fullName || '').trim().toLowerCase();
+			if (nameKey) {
+				if (!byName.has(nameKey)) byName.set(nameKey, new Set());
+				byName.get(nameKey).add(group.title);
+			}
+		}
+	}
+	return { byUrl, byName };
+}
+
+function computeResourceTags(record, resourceCategoryMaps) {
+	const tags = new Set(record.tags);
+	const categories =
+		resourceCategoryMaps.byUrl.get((record.url || '').trim()) ||
+		resourceCategoryMaps.byName.get((record.fullName || '').trim().toLowerCase());
+	if (categories) for (const c of categories) tags.add(c);
+	return [...tags];
+}
+
 // --- Load + index everything once ---
 console.log('\n📥 Loading export data...');
 
 const members = readData('leadership');
 const categoryMap = loadCategoryMap(PEOPLE_TAGS_FILE);
+const resourceCategoryMaps = loadResourceCategoryMaps(RESOURCE_TAGS_FILE);
 
 // --- Transform ---
 console.log('\n🔧 Transforming leadership records...');
@@ -125,6 +166,7 @@ for (const member of members) {
 		record.tags = [PARTNERS_TAG];
 		partners.push(record);
 	} else if (isAssetUrl || isDownload) {
+		record.tags = computeResourceTags(record, resourceCategoryMaps);
 		resources.push(record);
 	} else if (isExternalUrl) {
 		record.tags = [PARTNERS_TAG];
@@ -174,6 +216,18 @@ console.log('\nLeadership records by tag:');
 Object.keys(tagCounts)
 	.sort((a, b) => tagCounts[b] - tagCounts[a])
 	.forEach((t) => console.log(`   ${t}: ${tagCounts[t]}`));
+
+const resourceTagCounts = {};
+resources.forEach((r) => {
+	const list = r.tags.length ? r.tags : ['(none)'];
+	list.forEach((t) => {
+		resourceTagCounts[t] = (resourceTagCounts[t] || 0) + 1;
+	});
+});
+console.log('\nResource records by tag:');
+Object.keys(resourceTagCounts)
+	.sort((a, b) => resourceTagCounts[b] - resourceTagCounts[a])
+	.forEach((t) => console.log(`   ${t}: ${resourceTagCounts[t]}`));
 
 const withImage = result.filter((r) => r.imageUrl).length;
 const withDescription = result.filter((r) => r.description).length;
