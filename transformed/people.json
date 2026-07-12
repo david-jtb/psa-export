@@ -12,7 +12,8 @@
     "tags": [
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)"
-    ]
+    ],
+    "dateCreated": "2026-03-25T05:15:31.390Z"
   },
   {
     "id": "3d10a0f9-8161-4856-a575-12239d613a17",
@@ -26,7 +27,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-16T07:02:58.159Z"
   },
   {
     "id": "9fe74f74-254a-4150-9bd0-f6ec9d3f9eb9",
@@ -38,7 +40,8 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/09739188-51d6-4f0d-a8fd-c4c6b157e867",
     "block_id": null,
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2025-04-16T07:05:43.609Z"
   },
   {
     "id": "ffab14f9-7aff-455a-98b8-08fa59849e04",
@@ -52,7 +55,8 @@
     "url": null,
     "tags": [
       "Management Team"
-    ]
+    ],
+    "dateCreated": "2026-03-23T02:32:52.688Z"
   },
   {
     "id": "81fa8bda-5185-490e-80c8-eb9c9d1a9c70",
@@ -68,7 +72,8 @@
       "Board Director",
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)"
-    ]
+    ],
+    "dateCreated": "2026-03-25T05:15:31.372Z"
   },
   {
     "id": "9209cab8-c9df-47be-af51-3efd7fdf4c1e",
@@ -83,7 +88,8 @@
     "tags": [
       "Board Members",
       "Nominations"
-    ]
+    ],
+    "dateCreated": "2026-03-25T05:19:12.667Z"
   },
   {
     "id": "9486e9de-68c4-4dba-8484-10f9e229b0b1",
@@ -98,7 +104,8 @@
     "tags": [
       "Board Members",
       "Nominations"
-    ]
+    ],
+    "dateCreated": "2026-03-23T01:47:23.915Z"
   },
   {
     "id": "64706137-8319-40bd-bed3-60874a01493d",
@@ -112,7 +119,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2026-03-25T05:10:50.998Z"
   },
   {
     "id": "20c620d2-e0be-49da-8b99-0bb335ca0aea",
@@ -126,7 +134,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-16T07:05:15.293Z"
   },
   {
     "id": "22995a64-d481-4cf6-a02e-ca5aff45d1e8",
@@ -140,7 +149,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2026-03-23T01:47:23.868Z"
   },
   {
     "id": "760acc9a-cd45-47b1-be88-78eea48b94ac",
@@ -154,7 +164,8 @@
     "url": null,
     "tags": [
       "Management Team"
-    ]
+    ],
+    "dateCreated": "2026-03-23T02:32:52.672Z"
   },
   {
     "id": "ed473c1c-5270-4cdc-a47b-f2bc600d0cc9",
@@ -169,7 +180,8 @@
     "tags": [
       "Staff",
       "Management Team"
-    ]
+    ],
+    "dateCreated": "2025-11-21T11:49:53.485Z"
   },
   {
     "id": "dee67388-8f4d-4e65-9787-793467903950",
@@ -183,7 +195,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-16T02:12:35.037Z"
   },
   {
     "id": "fb993a78-59e7-4fc3-aa9c-0d4c03355cb8",
@@ -198,7 +211,8 @@
     "tags": [
       "Staff",
       "Leadership Team"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:06:39.222Z"
   },
   {
     "id": "9ae5a1a2-b7fa-4154-ac22-1b39f4c7de74",
@@ -212,7 +226,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-05T15:39:13.807Z"
   },
   {
     "id": "b0aa8e89-505f-48e1-ae0a-938ce9761a35",
@@ -228,7 +243,8 @@
       "Board Director",
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)"
-    ]
+    ],
+    "dateCreated": "2025-11-21T12:20:14.458Z"
   },
   {
     "id": "3d091a0a-aed2-48f1-a3e0-39642ff7f876",
@@ -243,7 +259,8 @@
     "tags": [
       "Staff",
       "Leadership Team"
-    ]
+    ],
+    "dateCreated": "2024-09-19T03:24:26.057Z"
   },
   {
     "id": "fe8582ce-1122-4d0c-a40d-4fb85eff599f",
@@ -259,7 +276,8 @@
       "Board Director",
       "Board Members",
       "Nominations"
-    ]
+    ],
+    "dateCreated": "2025-11-21T12:24:38.117Z"
   },
   {
     "id": "e9bf77d8-f193-4106-b489-5aeb3b5f5ec4",
@@ -273,7 +291,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2025-05-20T02:08:03.471Z"
   },
   {
     "id": "24473a4d-ac32-4c82-b11f-27114b0a7fef",
@@ -287,7 +306,8 @@
     "url": null,
     "tags": [
       "Management Team"
-    ]
+    ],
+    "dateCreated": "2024-09-19T03:24:26.072Z"
   },
   {
     "id": "c24709f3-4a82-4aa0-b787-c837e700dabd",
@@ -301,7 +321,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2025-05-20T02:07:07.210Z"
   },
   {
     "id": "3b9169b3-276a-41b8-a83a-5b72ee39c6b6",
@@ -316,7 +337,8 @@
     "tags": [
       "Staff",
       "Management Team"
-    ]
+    ],
+    "dateCreated": "2025-11-21T11:49:53.479Z"
   },
   {
     "id": "aa1b60db-9288-45cd-9f6b-5bdda90f1706",
@@ -331,7 +353,8 @@
     "tags": [
       "Staff",
       "Leadership Team"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:11:55.181Z"
   },
   {
     "id": "c3c7b732-698e-4a20-af24-f7d724e4cf19",
@@ -345,7 +368,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:04:25.310Z"
   },
   {
     "id": "728efe2f-c540-41a0-b961-2754c994d31f",
@@ -361,7 +385,8 @@
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)",
       "Nominations"
-    ]
+    ],
+    "dateCreated": "2025-05-20T02:09:48.781Z"
   },
   {
     "id": "ba4c80a9-9742-4eb8-aa5e-19dd99d64d09",
@@ -375,7 +400,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-27T23:33:25.338Z"
   },
   {
     "id": "8406f339-6144-43ba-a3c9-0cc1a1f14651",
@@ -387,7 +413,8 @@
     "imageUrl": null,
     "block_id": "50516d3c-bc82-49fb-84a2-37fcfaef0af2",
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2024-09-10T07:05:21.879Z"
   },
   {
     "id": "7158db0f-1aa9-4712-b59a-9274ab019afd",
@@ -402,7 +429,8 @@
     "tags": [
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:11:26.606Z"
   },
   {
     "id": "0ba8e5ec-ebf0-4ed1-9d92-cf5d9715255d",
@@ -416,7 +444,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-09T02:02:27.845Z"
   },
   {
     "id": "c4c5e2a2-c995-4c8e-9b05-696f25bc9476",
@@ -428,7 +457,8 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/5910cd49-ce67-4054-9e24-0c726adc9059",
     "block_id": "df7e215b-8109-46ba-891c-1f524175a710",
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2025-11-21T11:51:03.231Z"
   },
   {
     "id": "e15776b1-6a8b-444e-841f-f45e85a7d409",
@@ -442,7 +472,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-08T01:38:38.385Z"
   },
   {
     "id": "c16e1f4a-8356-42c2-8ab8-434dc0a1c50f",
@@ -456,7 +487,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2025-05-20T02:08:56.891Z"
   },
   {
     "id": "8ca6f687-8f0c-4774-b2f3-166bae3670ac",
@@ -471,7 +503,8 @@
     "tags": [
       "Staff",
       "Management Team"
-    ]
+    ],
+    "dateCreated": "2025-04-22T01:16:52.425Z"
   },
   {
     "id": "3f88ce14-8513-4a68-ab1c-d5402e9b4533",
@@ -485,7 +518,8 @@
     "url": null,
     "tags": [
       "Leadership Team"
-    ]
+    ],
+    "dateCreated": "2024-09-19T06:47:10.738Z"
   },
   {
     "id": "c594cc80-67dc-4e6b-b14f-a2521b0c524b",
@@ -497,7 +531,8 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/fdaa635f-ef62-44cb-b7fe-ff020a3b23ee",
     "block_id": null,
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2025-04-08T01:38:38.401Z"
   },
   {
     "id": "d8e74bb8-9e6c-4d46-82ee-6a34fc6ca1d7",
@@ -511,7 +546,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:12:09.117Z"
   },
   {
     "id": "f7803d39-4049-4957-b699-7ad70a37c190",
@@ -525,7 +561,8 @@
     "url": null,
     "tags": [
       "Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:12:47.982Z"
   },
   {
     "id": "e1a38a58-628f-4026-a859-9c6f16717847",
@@ -537,7 +574,8 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/46ccf914-0997-4c32-b272-8a9321d39866",
     "block_id": null,
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2025-04-16T07:01:54.497Z"
   },
   {
     "id": "441d09c6-8d52-47bf-8a65-71af6f46e4bd",
@@ -552,7 +590,8 @@
     "tags": [
       "Staff",
       "Leadership Team"
-    ]
+    ],
+    "dateCreated": "2025-04-16T07:04:39.020Z"
   },
   {
     "id": "ecceaa25-d8cd-475d-995c-fc036d531daa",
@@ -566,7 +605,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:14:48.445Z"
   },
   {
     "id": "3d939940-79dd-4306-84dd-9853bdfdfa25",
@@ -580,7 +620,8 @@
     "url": null,
     "tags": [
       "Past Board Members"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:13:31.288Z"
   },
   {
     "id": "2caf7c15-a25b-49e7-b782-91fb1906f2d1",
@@ -596,7 +637,8 @@
       "Board Director",
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)"
-    ]
+    ],
+    "dateCreated": "2025-11-21T12:20:14.523Z"
   },
   {
     "id": "10375e4d-f8a1-4cd7-81bb-637371e304b2",
@@ -612,7 +654,8 @@
       "Board Members",
       "Audit, Finance and Risk Committee (AFRC)",
       "Nominations"
-    ]
+    ],
+    "dateCreated": "2024-09-13T06:15:19.098Z"
   },
   {
     "id": "058749d6-91da-4a6b-a438-1bb24f89e95d",
@@ -628,7 +671,8 @@
       "Board Director",
       "Board Members",
       "Nominations"
-    ]
+    ],
+    "dateCreated": "2025-11-21T12:32:23.462Z"
   },
   {
     "id": "fb97dae2-689f-4c82-b411-019403ed3fe4",
@@ -640,7 +684,8 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/10aca082-c7f9-4b0a-b9fb-767fd076eb9c",
     "block_id": null,
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2025-04-08T01:38:38.313Z"
   },
   {
     "id": "669f8ad6-b5b6-4ae5-91a3-110728259b75",
@@ -654,7 +699,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-08T05:55:25.056Z"
   },
   {
     "id": "fc9aaec2-8faf-4baa-b780-6aeac2c2e2dc",
@@ -666,7 +712,8 @@
     "imageUrl": null,
     "block_id": "50516d3c-bc82-49fb-84a2-37fcfaef0af2",
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2024-09-12T23:37:18.380Z"
   },
   {
     "id": "2fd7957b-d1c7-4b87-952c-8d838dc777ae",
@@ -680,7 +727,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-08T01:38:38.320Z"
   },
   {
     "id": "115d3bc8-1656-4811-aaa2-7dee0ea4c6be",
@@ -694,7 +742,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-08T01:38:38.324Z"
   },
   {
     "id": "5841f95f-071d-4c0b-99d0-b7ad54b83dba",
@@ -706,7 +755,8 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/95eacbb8-1daa-4f30-b847-2e119d5c4ab1",
     "block_id": null,
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2024-09-13T06:15:30.371Z"
   },
   {
     "id": "cfd1b062-84e3-46e6-bcce-1eb7ac2cd29f",
@@ -720,7 +770,8 @@
     "url": null,
     "tags": [
       "Staff"
-    ]
+    ],
+    "dateCreated": "2025-04-08T03:41:55.747Z"
   },
   {
     "id": "7ab87b8c-18c5-418a-b8b8-1acfbec26315",
@@ -732,6 +783,7 @@
     "imageUrl": "https://psa-directus-prod.azurewebsites.net/assets/15aebbf8-9cd1-4188-8dc0-441e01ab8de1",
     "block_id": null,
     "url": null,
-    "tags": []
+    "tags": [],
+    "dateCreated": "2025-04-23T05:57:39.228Z"
   }
 ]
