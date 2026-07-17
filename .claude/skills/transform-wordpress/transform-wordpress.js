@@ -453,19 +453,7 @@ const mappers = {
 				: [],
 		};
 	},
-	block_features(b) {
-		return {
-			acf_fc_layout: 'BlockFeatures',
-			heading: b.title || null,
-			subheading: b.subtitle || null,
-			description: b.description || null,
-			featureItems: (b.items || []).map((item) => ({
-				cta: buildCta(item.buttonText, item.url),
-				heading: item.title || null,
-				description: item.description || null,
-			})),
-		};
-	},
+	block_features: () => [],
 	block_team: () => [],
 	block_form: () => [],
 	block_projects: () => [],

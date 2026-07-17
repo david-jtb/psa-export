@@ -26,6 +26,7 @@ const ROOT = path.resolve(__dirname, '..', '..', '..');
 const DATA_DIR = path.join(ROOT, 'directus-export', 'data');
 const PEOPLE_TAGS_FILE = path.join(ROOT, 'directus-export', 'people-tags.json');
 const RESOURCE_TAGS_FILE = path.join(ROOT, 'directus-export', 'resource-tags.json');
+const PAGES_FILE = path.join(ROOT, 'transformed', 'pages.json');
 const OUT_FILE = path.join(ROOT, 'transformed', 'people.json');
 const RESOURCES_FILE = path.join(ROOT, 'transformed', 'resources.json');
 const PARTNERS_FILE = path.join(ROOT, 'transformed', 'partners.json');
@@ -54,6 +55,49 @@ function indexBy(arr, key) {
 
 function assetUrl(uuid) {
 	return uuid ? ASSET_BASE + uuid : null;
+}
+
+function isAssetUrl(url) {
+	return Boolean(url && url.includes(ASSET_URL_PATTERN));
+}
+
+// Pulls downloadable-document resources out of `BlockFeatures` blocks
+// (`block_features` in pages.json) — e.g. a "featureItems" list of plans or
+// reports linking to Directus assets. Each qualifying item becomes a resource
+// record tagged with its parent block's heading (e.g. "Annual Plans"), so
+// these documents show up in resources.json alongside the leadership-sourced
+// ones instead of being stranded inside page content.
+function extractPageFeatureResources(file) {
+	if (!fs.existsSync(file)) {
+		console.warn(`   ⚠ missing pages file: ${path.basename(file)} (run transform-pages first to include page-embedded resources)`);
+		return [];
+	}
+	const pages = JSON.parse(fs.readFileSync(file, 'utf8'));
+	const extracted = [];
+
+	for (const page of pages) {
+		for (const block of page.blocks || []) {
+			if (block.type !== 'block_features') continue;
+
+			(block.items || []).forEach((item, index) => {
+				if (!isAssetUrl(item.url)) return;
+				extracted.push({
+					id: null,
+					status: page.status || null,
+					sort: index + 1,
+					fullName: item.title || null,
+					title: item.buttonText || null,
+					description: item.description || null,
+					imageUrl: item.image || null,
+					block_id: null,
+					url: item.url,
+					tags: block.title ? [block.title] : [],
+				});
+			});
+		}
+	}
+
+	return extracted;
 }
 
 // Builds a map of trimmed fullName -> Set of category titles (e.g. "Our
@@ -144,9 +188,9 @@ for (const member of members) {
 	statusCounts[member.status] = (statusCounts[member.status] || 0) + 1;
 
 	const url = member.URL || null;
-	const isAssetUrl = url && url.includes(ASSET_URL_PATTERN);
+	const isMemberAssetUrl = isAssetUrl(url);
 	const isDownload = member.title === 'Download';
-	const isExternalUrl = url && !isAssetUrl;
+	const isExternalUrl = url && !isMemberAssetUrl;
 	const isForcedPartner = FORCE_PARTNER_NAMES.has(member.fullName);
 
 	const record = {
@@ -165,7 +209,7 @@ for (const member of members) {
 	if (isForcedPartner) {
 		record.tags = [PARTNERS_TAG];
 		partners.push(record);
-	} else if (isAssetUrl || isDownload) {
+	} else if (isMemberAssetUrl || isDownload) {
 		record.tags = computeResourceTags(record, resourceCategoryMaps);
 		resources.push(record);
 	} else if (isExternalUrl) {
@@ -175,6 +219,11 @@ for (const member of members) {
 		result.push(record);
 	}
 }
+
+// --- Pull in downloadable documents embedded in BlockFeatures page blocks ---
+console.log('\n🔧 Extracting resources from BlockFeatures page blocks...');
+const pageFeatureResources = extractPageFeatureResources(PAGES_FILE);
+resources.push(...pageFeatureResources);
 
 // Sort by sort field, then fullName for stable output
 result.sort((a, b) => {
@@ -199,6 +248,7 @@ console.log('\n--- Transform Summary ---');
 console.log(`✓ ${result.length} leadership records written`);
 console.log(`✓ ${partners.length} partner records written to partners.json`);
 console.log(`✓ ${resources.length} resource records written to resources.json`);
+console.log(`   (${resources.length - pageFeatureResources.length} from leadership, ${pageFeatureResources.length} from BlockFeatures page blocks)`);
 
 console.log('\nRecords by status:');
 Object.keys(statusCounts)

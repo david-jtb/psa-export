@@ -1,7 +1,7 @@
 ---
 name: transform-leadership
 description: This skill should be used when the user asks to "transform the leadership", "build people.json", "flatten the leadership data", "resolve the leadership members", "split out partners", or wants the exported PSA leadership records restructured into flat, fully-resolved JSON for migrating to WordPress / a page builder.
-version: 2.2.0
+version: 2.3.0
 ---
 
 # Transform Leadership
@@ -12,7 +12,7 @@ Flattens the raw Directus export in `directus-export/data/` into three files:
 
 - `transformed/people.json` — leadership/board/staff members
 - `transformed/partners.json` — records whose `URL` field points to an external (non-Directus-asset) link, e.g. partner organisations
-- `transformed/resources.json` — records whose `URL` field points to a Directus asset (PDF, etc.) or whose title is `Download`
+- `transformed/resources.json` — records whose `URL` field points to a Directus asset (PDF, etc.) or whose title is `Download`, **plus** any downloadable documents found in `BlockFeatures` blocks (`block_features` in `transformed/pages.json`) — e.g. an "Annual Plans" features block whose items link to PDFs
 
 Image UUIDs are turned into full **asset URLs**.
 
@@ -32,10 +32,15 @@ node .claude/skills/transform-leadership/transform-leadership.js
 ```
 
 No arguments, no dependencies (Node built-ins only). Reads from
-`directus-export/data/` and `directus-export/people-tags.json`, and writes
-`transformed/people.json`, `transformed/partners.json`, and
-`transformed/resources.json`, then prints a summary (record counts by
-status/tag, resolution counts per field).
+`directus-export/data/`, `directus-export/people-tags.json`, and (if present)
+`transformed/pages.json`, and writes `transformed/people.json`,
+`transformed/partners.json`, and `transformed/resources.json`, then prints a
+summary (record counts by status/tag, resolution counts per field).
+
+> Run the `transform-pages` skill first if you want BlockFeatures-embedded
+> documents included in `resources.json` — if `transformed/pages.json` doesn't
+> exist yet, this step is skipped with a warning and `resources.json` only
+> contains leadership-sourced records.
 
 ## Output shape
 
@@ -88,7 +93,19 @@ Partner records look the same but `url` is an external link (e.g.
    - everything else → `people.json`
 6. **Every record routed to `partners.json`** has its `tags` overwritten to
    `["Industry Advisory Group"]` (see `PARTNERS_TAG` in the script).
-7. **Sorts** each output array by `sort` ascending, then `fullName` alphabetically for stable output.
+7. **Extracts BlockFeatures page resources**: loads `transformed/pages.json`
+   and walks every `block_features` block on every page. Each `featureItems`
+   entry whose `url` points to a Directus asset becomes a resource record —
+   `fullName` from the item's `title`, `description` from the item's
+   `description`, `url` from the item's `url`, and `tags` set to `[block.title]`
+   (e.g. an "Annual Plans" block's items are tagged `"Annual Plans"`). Items
+   linking to internal pages (e.g. `/correctional-services`) are skipped since
+   they aren't downloadable documents. See `extractPageFeatureResources` in
+   the script.
+8. **Sorts** `people.json` and `partners.json` by `sort` ascending, then
+   `fullName` alphabetically for stable output. `resources.json` keeps
+   leadership-sourced records in their original order followed by
+   BlockFeatures-sourced records, grouped by page/block.
 
 ## Source collections used
 
@@ -96,6 +113,7 @@ Partner records look the same but `url` is an external link (e.g.
 |------|---------|
 | `leadership.json` | leadership member records (source) |
 | `people-tags.json` | resolves each member's page-section/committee categories, added to `tags` |
+| `transformed/pages.json` | source of BlockFeatures-embedded documents added to `resources.json` (optional — run `transform-pages` first) |
 
 ## Known limitations / notes
 
@@ -113,6 +131,11 @@ Partner records look the same but `url` is an external link (e.g.
   `block_id`) gets the **same merged `tags` array on every row** — the union
   of every category they appear under anywhere, not just the one for that
   specific row.
+- BlockFeatures-sourced resource records have no Directus `id`, `block_id`, or
+  reliable `status`/`sort` (pages.json doesn't carry the raw block/item ids) —
+  those fields are `null` or best-effort (`status` from the page, `sort` from
+  item position within the block). `imageUrl` is only populated if the
+  feature item itself has an image.
 
 ## Extending
 
@@ -121,6 +144,10 @@ Partner records look the same but `url` is an external link (e.g.
 - **Filter by status**: add `members.filter(m => m.status === 'published')`.
 - **Change the partner/resource split logic**: adjust the `isAssetUrl` /
   `isDownload` / `isExternalUrl` checks near the top of the loop.
+- **Pull resources from other block types**: `extractPageFeatureResources`
+  only looks at `block_features` — add another block-type check inside its
+  page/block loop to source resources from a different block (e.g. a future
+  `block_downloads`).
 - **Add/remove forced-partner names**: edit the `FORCE_PARTNER_NAMES` set near
   the top of the script.
 - **Change the partners tag**: edit the `PARTNERS_TAG` constant near the top
